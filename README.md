@@ -254,3 +254,9 @@
 <li><a href="https://www.tpqi.go.th/th/plan/nGM4ZjWewEb3QWewEb3Q/rQRWewEb3Q" target="_blank" rel="noreferrer noopener">แผนการดำเนินงาน</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
+
+<img width="491" height="251" alt="3127" src="https://github.com/user-attachments/assets/72081fc0-34b6-4041-956d-202439b20638" />
+
+<img width="512" height="355" alt="3068" src="https://github.com/user-attachments/assets/49742c69-499d-4ae9-8b14-b30e7bf5bbd1" />
+<img width="800" height="1124" alt="3065" src="https://github.com/user-attachments/assets/8a373464-de03-4878-9e1a-6e8befe136f0" />
+<img width="410" height="410" alt="3130" src="https://github.com/user-attachments/assets/6a854d87-b1b9-422c-82ff-0a446c0d3297" />
