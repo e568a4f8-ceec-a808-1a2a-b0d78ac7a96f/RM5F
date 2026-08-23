@@ -329,3 +329,116 @@
 <li><a href="https://www.egat.co.th/home/en">English Website</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
+<!-- wp:list {"className":"menu"} -->
+<ul id="mobile-menu" class="wp-block-list menu"><!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">รู้จัก กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">การดำเนินงาน</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">ข้อมูลการดำเนินงาน</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/annual-report/">รายงานประจำปี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/financial-report/">รายงานทางการเงิน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/statistics/">ข้อมูลสถิติด้านพลังงานไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/ts-performance-index-rpt/">รายงานข้อมูลดัชนีผลการดำเนินงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/so_publicreport/" target="_blank" rel="noreferrer noopener">การดำเนินงานของศูนย์ควบคุมระบบกำลังไฟฟ้า</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">ภารกิจหลัก กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">โครงการพัฒนา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/egat-development-plan/">แผนพัฒนากำลังผลิตไฟฟ้าของประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">แผนการดำเนินงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/electricity-rate/">อัตราค่าไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www4.egat.co.th/research/" target="_blank" rel="noreferrer noopener">งานวิจัยและนวัตกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#"><a href="https://ned.egat.co.th/" target="_blank" rel="noreferrer noopener">งานวิชาการ</a></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">การให้บริการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/business_continuity_management/">การบริหารความต่อเนื่องทางธุรกิจ กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/people-hearing/">เอกสารประกอบการรับฟังความเห็นโครงการโรงไฟฟ้าและระบบส่ง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/egat-grid-specification/">ข้อกำหนดเกี่ยวกับระบบโครงข่ายไฟฟ้า กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://water.egat.co.th/" target="_blank" rel="noreferrer noopener">ระบบฐานข้อมูลเพื่อการบริหารจัดการน้ำ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.egat.co.th/" target="_blank" rel="noreferrer noopener">ระบบบัญชีข้อมูล กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/corporates_credit_rating/">อันดับความน่าเชื่อถือองค์การของ กฟผ.</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">ธุรกิจ กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/sustainability/">ความยั่งยืน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">งานจัดซื้อจัดจ้าง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">ข่าวสาร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/eservice/" target="_blank" rel="noreferrer noopener">บริการออนไลน์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/#">ติดต่อ กฟผ.</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
