@@ -1,3 +1,143 @@
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">PEA Power Map</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; แผนที่แสดงศักยภาพระบบไฟฟ้าของการไฟฟ้าส่วนภูมิภาค (PEA Power Map) สำหรับผู้ใช้ไฟฟ้า และผู้ผลิตไฟฟ้า จัดทำขึ้นเพื่อแสดงข้อมูลศักยภาพคงเหลือของระบบไฟฟ้าและขอบเขตพื้นที่รองรับโดยสังเขป สำหรับผู้ใช้ไฟฟ้า และผู้ผลิตไฟฟ้า เพื่อใช้ประกอบการพิจารณาและวางแผนดำเนินการในเบื้องต้นเท่านั้น&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ทั้งนี้ ข้อมูลดังกล่าวไม่ก่อให้เกิดภาระผูกพันทางกฎหมายต่อการไฟฟ้าส่วนภูมิภาคในการให้บริการจำหน่ายไฟฟ้า และหรือให้บริการระบบโครงข่ายไฟฟ้าแก่บุคคลที่สามแต่อย่างใด<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; หากมีความประสงค์จะขอใช้ไฟฟ้า หรือต้องการสอบถามรายละเอียดข้อมูลเพิ่มเติมเกี่ยวกับ PEA Power Map โปรดติดต่อการไฟฟ้าส่วนภูมิภาค</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.pea.co.th/sites/default/files/images/PEA%20Power%20Map/Card%20%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%20Landing.png" alt="สำหรับผู้ผลิตไฟฟ้า"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ppmload.pea.co.th/" target="_blank" class="" rel="noreferrer noopener">&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>แผนที่ศักยภาพระบบไฟฟ้าสำหรับผู้ใช้ไฟฟ้า</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>แสดงข้อมูลศักยภาพของระบบโครงข่ายไฟฟ้าในการรองรับความต้องการใช้ไฟฟ้าในแต่ละพื้นที่ เพื่อประกอบการพิจารณาและวางแผนเบื้องต้นของผู้ใช้ไฟฟ้า โดยข้อมูลนี้จัดทำขึ้นเพื่อการอ้างอิงเบื้องต้นเท่านั้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.pea.co.th/sites/default/files/images/PEA%20Power%20Map/Card%20%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%20Landing.png" alt="สำหรับผู้ใช้ไฟฟ้า"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ppmgen.pea.co.th/" target="_blank" class="" rel="noreferrer noopener">&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>แผนที่ศักยภาพระบบไฟฟ้าสำหรับผู้ผลิตไฟฟ้า</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>แสดงข้อมูลศักยภาพของระบบโครงข่ายไฟฟ้าในการรองรับระบบผลิตไฟฟ้าในแต่ละพื้นที่ เพื่อประกอบการพิจารณาและวางแผนเบื้องต้นของผู้ผลิตไฟฟ้า โดยข้อมูลนี้จัดทำขึ้นเพื่อการอ้างอิงเบื้องต้นเท่านั้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">ลิงก์หน่วยงานที่เกี่ยวข้อง</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/moi.png" alt="กระทรวงมหาดไทย"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://moi.go.th/" target="_blank" rel="noreferrer noopener">กระทรวงมหาดไทย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/moi_news.png" alt="คลังข่าวมหาดไทย"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://newskm.moi.go.th/" target="_blank" rel="noreferrer noopener">คลังข่าวมหาดไทย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/damrongdham.png" alt="ศูนย์ดำรงธรรม"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://damrongdham.moi.go.th/" target="_blank" rel="noreferrer noopener">ศูนย์ดำรงธรรม กระทรวงมหาดไทย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/erc.png" alt="สำนักงานคณะกรรมการกำกับกิจการพลังงาน"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://www.erc.or.th/" target="_blank" rel="noreferrer noopener">สำนักงานคณะกรรมการกำกับกิจการพลังงาน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/encom.png" alt="PEA ENCOM"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://www.pea-encom.com/" target="_blank" rel="noreferrer noopener">PEA ENCOM</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/gsee.png" alt="PEA GSEE"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://pea-gsee.com/" target="_blank" rel="noreferrer noopener">PEA GSEE</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/innovation-fund.png" alt="กองทุนการวิจัย พัฒนา และนวัตกรรม"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://www.pea.co.th/innovation-fund" target="_blank" rel="noreferrer noopener">กองทุนการวิจัย พัฒนา และนวัตกรรม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/pea-oic.png" alt="ศูนย์ พรบ. ข้อมูลข่าวสาร"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://www.pea.co.th/pea-information-center" target="_blank" rel="noreferrer noopener">ศูนย์ข้อมูลข่าวสารอิเล็กทรอนิกส์ของราชการ กฟภ.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/ginfo.png" alt="ฐานข้อมูลหน่วยงานภาครัฐ"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://www.oic.go.th/ginfo/index.asp" target="_blank" rel="noreferrer noopener">ฐานข้อมูลหน่วยงานภาครัฐ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/info.png" alt="ศูนย์รวมข้อมูลเพื่อติดต่อราชการ"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://info.go.th/" target="_blank" rel="noreferrer noopener">ศูนย์รวมข้อมูลเพื่อติดต่อราชการ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/CCIB.png" alt="ccib"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://www.ccib.go.th/" target="_blank" rel="noreferrer noopener">กองบัญชาการตำรวจสืบสวนสอบสวนอาชญากรรมทางเทคโนโลยี</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"className":"img-wrapper"} -->
+<figure class="wp-block-image img-wrapper"><img src="https://www.pea.co.th/sites/default/files/images/sitelinks/ttd.png" alt="ข้อมูลการท่องเที่ยวของประเทศไทย"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="h6 text-dark" href="https://thailandtourismdirectory.go.th/" target="_blank" rel="noreferrer noopener">ข้อมูลการท่องเที่ยวของประเทศไทย</a></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:image {"id":918,"linkDestination":"custom"} -->
 <figure class="wp-block-image"><a class="kb-advanced-image-link" href="https://cmc-center.egat.co.th/" target="_blank" rel="noreferrer noopener"><img src="https://www.egat.co.th/eservice/wp-content/uploads/2024/11/egat-cmc-center-icon.png" alt="ส่งข้อคิดเห็นและข้อร้องเรียน" class="wp-image-918"/></a></figure>
 <!-- /wp:image -->
