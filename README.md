@@ -260,3 +260,72 @@
 <img width="512" height="355" alt="3068" src="https://github.com/user-attachments/assets/49742c69-499d-4ae9-8b14-b30e7bf5bbd1" />
 <img width="800" height="1124" alt="3065" src="https://github.com/user-attachments/assets/8a373464-de03-4878-9e1a-6e8befe136f0" />
 <img width="410" height="410" alt="3130" src="https://github.com/user-attachments/assets/6a854d87-b1b9-422c-82ff-0a446c0d3297" />
+<!-- wp:list {"className":"menu"} -->
+<ul id="menu-footer-1st-menu" class="wp-block-list menu"><!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/about-egat/">เกี่ยวกับ กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/vision-mission-culture-corevalues/">วิสัยทัศน์ พันธกิจ วัฒนธรรม และค่านิยมองค์การ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/statistics/">ข้อมูลด้านพลังงานไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/powerplants-and-dams/">ข้อมูลโรงไฟฟ้าและเขื่อน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egatbusiness.com/">ธุรกิจเกี่ยวเนื่อง</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"menu"} -->
+<ul id="menu-footer-2nd-menu" class="wp-block-list menu"><!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/recruitment/">ประกาศรับสมัครงาน / ฝึกงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://learningcenter.egat.co.th/" target="_blank" rel="noreferrer noopener">ศูนย์การเรียนรู้ กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/publishing/">เอกสารประชาสัมพันธ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/for-egat-workers/">สำหรับผู้ปฏิบัติงาน กฟผ. (VPN)</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"menu"} -->
+<ul id="menu-footer-policy-menu" class="wp-block-list menu"><!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/contact/">ติดต่อ กฟผ.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/sitemap/">แผนผังเว็บไซต์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/wp-content/uploads/2021/09/website-policy.pdf">นโยบายเว็บไซต์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/wp-content/uploads/2025/05/EGAT-data-governance-policy-52-2563.pdf">นโยบายการกำกับดูแลข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/privacy-policy.html">นโยบายคุ้มครองข้อมูลส่วนบุคคล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/cookies-policy.html">นโยบายการใช้คุกกี้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.egat.co.th/home/en">English Website</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
