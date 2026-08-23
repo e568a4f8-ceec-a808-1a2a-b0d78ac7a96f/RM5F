@@ -18,3 +18,5 @@
 <img width="4096" height="3072" alt="9772" src="https://github.com/user-attachments/assets/7a858b3a-e45d-49d6-8398-6cffd9a9fe05" />
 <img width="3072" height="4096" alt="9771" src="https://github.com/user-attachments/assets/62d491f6-2655-4206-bcbd-06ac76f44a45" />
 <img width="3072" height="4096" alt="9770" src="https://github.com/user-attachments/assets/d7560c1c-a97b-49bb-abc0-8fb131754bb8" />
+# https://github.com/Loei-Provincial-Court-New/1
+# https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC_eHLr7aWAxUCkuEIHSXMNDgQFnoECBYQAQ&url=https%3A%2F%2Fws.erc.or.th%2FERCSPP%2FListDetail.aspx%3FTypeID%3D3%26RbsID%3D0%26PowerPlantType%3D%26EGAT%3D3%26MEA%3D2%26PEA%3D1%26ZoneID%3D0%26RbsID%3D0%26Province%3D0%26DistrictID%3D0%26SubDistrictID%3D0%26PlantTypeID%3D0%26RbsPeaID%3D0%26SubStationID%3D0%26FeederID%3D0%26Link%3DY%26Company_Personel%3D%26FuelType%3D%26FuelTypeCat%3D%26FuelDetail%3D%26UtilizationID%3D%26TypeContract%3D&usg=AOvVaw0-B3SmiQtv1zcod_qqk5mw&opi=89978449
