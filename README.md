@@ -442,3 +442,6 @@
 <li><a href="https://www.egat.co.th/home/contact/#">ติดต่อ กฟผ.</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
+
+<img width="719" height="986" alt="9782" src="https://github.com/user-attachments/assets/a059c91a-cd22-4d23-bba8-fda896b1e8de" />
+# https://acrobat.adobe.com/id/urn:aaid:sc:AP:583e08cf-f09d-4138-96b6-4ad562d1d855
