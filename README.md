@@ -1875,3 +1875,565 @@
 <!-- wp:paragraph -->
 <p>© Panasonic Electric Works Co., Ltd.</p>
 <!-- /wp:paragraph -->
+<!-- wp:heading {"level":1,"className":"font_0 wixui-rich-text__text"} -->
+<h1 class="wp-block-heading font_0 wixui-rich-text__text"><br class="Apple-interchange-newline" />INDUSTRIAL INSTRUMENTATION &amp;<br class="wixui-rich-text__text" />PROCESS SOLUTIONS&nbsp;</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text">YOU CAN TRUST</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">Supplying industrial intstrumentation, automation systems and engineering solutions for manufacturing industries since 1988.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="mailto:pvn@pvn.co.th?subject=Request%20Quotation" class="a_1__O KSh0Yl comp-mqrrjpc7 style-mqrrjpcp__root wixui-button mfEw8N">REQUEST QUOTATION</a><a href="tel:+6629114761" class="a_1__O KSh0Yl comp-mqrruzo0 style-mqrruzo51__root wixui-button mfEw8N">TALK TO OUR SALES</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">GLOBAL BRANDS WE REPRESENT</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/asco"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/armano" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/dwyer" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_f31e41bb955143a189956e474d980ff3~mv2.png/v1/fit/w_594,h_615,q_90,enc_avif,quality_auto/aa6d8a_f31e41bb955143a189956e474d980ff3~mv2.png" alt="WINTECH logo"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/weka" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/marsh-bellofram" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/reotemp" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/barksdale" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/omega" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/aventics"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/gems-sensors-%26-controls"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/jordan-valve"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/konan"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/labom"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/noeding"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/thermo-couple-products"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/universal-flow-monitors" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/dr%C3%A4ger%C2%A0" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/aci" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/topworx" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/motherwell-tank-protection" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/west-control-solutions" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/asco"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/armano" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/dwyer" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_f31e41bb955143a189956e474d980ff3~mv2.png/v1/fit/w_594,h_615,q_90,enc_avif,quality_auto/aa6d8a_f31e41bb955143a189956e474d980ff3~mv2.png" alt="WINTECH logo"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/weka" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/marsh-bellofram" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/reotemp" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/barksdale" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/omega" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/aventics"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/gems-sensors-%26-controls"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/jordan-valve"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/konan"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/labom"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/noeding"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/thermo-couple-products"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/universal-flow-monitors" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/dr%C3%A4ger%C2%A0" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/aci" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/topworx" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/motherwell-tank-protection" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="item-link-wrapper" href="https://www.pvn.co.th/brand/west-control-solutions" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/products/pressure" class="YX2qkL"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">PRESSURE</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">เครื่องมือวัดความดันทุกชนิด เกจวัดความดัน ทรานมิสเตอร์วัดความดัน สวิตซ์ความดัน อุปกรณ์อื่นๆ เช่น chemical seal, siphon, overrange protector และอื่นๆ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.pvn.co.th/products/pressure" class="wixui-rich-text__text">VIEW PRODUCTS &gt;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/flow" class="YX2qkL"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">FLOW</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">อุปกรณ์วัดอัตราการไหล (flowmeter) ทุกหลักการ สำหรับของไหลทุกประเภท เช่น Turbine, Vortex, Mass, Oval Gear, Pisition Displacement และอื่นๆ โฟลว์สวิตซ์ โฟลว์ทรานมิสเตอร์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.pvn.co.th/flow" class="wixui-rich-text__text">VIEW PRODUCTS &gt;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/temperature" class="YX2qkL"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">TEMPERATURE</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">เครื่องมือวัดอุณหภูมิคุณภาพสูง เกจวัดอุณหภูมิ RTD, thermocouple, ทรานสมิตเตอร์วัดอุณหภูมิ สวิตซ์อุณหภูมิ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">เทอร์โมเวล สำหรับโรงงานอุตสาหกรรม งานระบบอาคาร ห้องแล็ป และอื่นๆ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.pvn.co.th/temperature" class="wixui-rich-text__text">VIEW PRODUCTS &gt;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/level" class="YX2qkL"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">LEVEL</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">อุปกรณ์วัดระดับทุกชนิด Visual Level Indicator, หลอดแก้ว, ทรานสมิตเตอร์และสวิตซ์วัดระดับทุกหลักการ เช่น tuning fork, radar, microwave, ultrasonic, paddle, etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.pvn.co.th/level" class="wixui-rich-text__text">VIEW PRODUCTS &gt;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/valve" class="YX2qkL"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">VALVE</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ศูนย์รวมโซลินอยด์วาล์ว (solenoid valve) สำหรับน้ำ ลม ก๊าซ 2, 3, 4 ทาง กันน้ำ กันระเบิด และวาล์วประเภทอื่นๆ อุปกรณ์พ่วง อุปกรณ์ tank protection และอื่นๆ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.pvn.co.th/valve" class="wixui-rich-text__text">VIEW PRODUCTS &gt;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/regulator" class="YX2qkL"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">REGULATOR</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">อุปกรณ์ควบคุมความดัน ชุดปรับแรงดันลมและแก๊ส (Air/Gas Regulator and Transducer), Air Relays, Volume Boosters, Relief Regulator, FRL Units และอื่นๆ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.pvn.co.th/regulator" class="wixui-rich-text__text">VIEW PRODUCTS &gt;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">OUR PRODUCT CATEGORIES</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/_files/ugd/aa6d8a_22e0fbfa750e407b83bdb1a79c435ffc.pdf?index=true" target="_blank" class="PoVCDy wixui-button ZhVEJq" rel="noreferrer noopener">Product Overview Catalog</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_ccc1652a39d349e685b5fb8945dbc018~mv2.png/v1/fill/w_368,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Building%20Industry.png" alt="Building Industry.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">buildings /</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">building material</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_0ff1d5610896405d8311e0ee659c8cc4~mv2.png/v1/fill/w_368,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Eletronics%20Industry.png" alt="Eletronics Industry.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">Electronics</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_a3beccd30d5d4010b36f60d8c0ae6215~mv2.png/v1/fill/w_368,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Petrochemical%20and%20Chemical%20Industry.png" alt="Petrochemical and Chemical Industry.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">petrochemical / chemical</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_73f3de00f8604d5ba0e446639ba78f06~mv2.png/v1/fill/w_368,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Oil%20and%20Gas%20Industry.png" alt="Oil and Gas Industry.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">oil &amp; gas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_c9c4203403524dfc8c1e9119c2f1feba~mv2.png/v1/fill/w_368,h_264,fp_0.49_0.26,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Food%20and%20Beverage%20Industry.png" alt="Food and Beverage Industry.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_7 wixui-rich-text__text"} -->
+<p class="font_7 wixui-rich-text__text">food &amp; beverage</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">INDUSTRIES WE SERVE</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_5e3d1adf64524331a7f30fce15118598~mv2.png/v1/crop/x_1214,y_400,w_219,h_187/fill/w_72,h_62,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Why%20Choose%20PVN%20infographic_edited.png" alt="Why Choose PVN infographic_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">TRUSTED BY 5000+ CUSTOMERS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ลูกค้ากว่า 5,000 รายจากหลากหลายอุตสาหกรรมเลือกใช้บริการของ PVN เพราะความเชี่ยวชาญ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ความซื่อสัตย์ และการบริการที่ใส่ใจ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_5e3d1adf64524331a7f30fce15118598~mv2.png/v1/crop/x_916,y_403,w_219,h_187/fill/w_72,h_62,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Why%20Choose%20PVN%20infographic_edited.png" alt="Why Choose PVN infographic_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">AFTER SALES SUPPORT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ทีมงานพร้อมดูแลตั้งแต่การติดตั้ง การใช้งาน การสอบเทียบ ไปจนถึงบริการหลังการขาย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_5e3d1adf64524331a7f30fce15118598~mv2.png/v1/crop/x_672,y_397,w_219,h_187/fill/w_72,h_62,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Why%20Choose%20PVN%20infographic_edited.png" alt="Why Choose PVN infographic_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">TECHNICAL EXPERTISE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">&amp; SOLUTIONS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">พร้อมให้คำปรึกษาและช่วยเลือกโซลูชันที่เหมาะสมกับการใช้งาน เพื่อให้ระบบของคุณทำงานได้อย่างมีประสิทธิภาพ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_5e3d1adf64524331a7f30fce15118598~mv2.png/v1/crop/x_412,y_400,w_219,h_187/fill/w_72,h_62,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Why%20Choose%20PVN%20infographic_edited.png" alt="Why Choose PVN infographic_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">QUALITY PRODUCTS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">FROM GLOBAL BRANDS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">คัดสรรผลิตภัณฑ์จากผู้ผลิตชั้นนำทั่วโลก เพื่อให้มั่นใจในคุณภาพ ความแม่นยำ และความน่าเชื่อถือสำหรับทุกการใช้งาน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ด้วยประสบการณ์กว่า 38 ปี เราเข้าใจความต้องการของแต่ละอุตสาหกรรม และพร้อมแนะนำโซลูชันที่เหมาะสมกับการใช้งานจริง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">38 YEARS OF EXPERIENCE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_5e3d1adf64524331a7f30fce15118598~mv2.png/v1/crop/x_145,y_400,w_219,h_187/fill/w_72,h_62,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Why%20Choose%20PVN%20infographic_edited.png" alt="Why Choose PVN infographic_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">WHY CHOOSE PVN</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_d3fab879580f43768389505f2b44ec54~mv2.jpg/v1/fill/w_358,h_358,al_c,lg_1,q_80,enc_avif,quality_auto/batch%20control%201.jpg" alt="batch control 1.jpg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ระบบควบคุมและจ่ายสารแบบกลุ่ม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">BATCH CONTROL SYSTEM</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ออกแบบระบบควบคุมการจ่ายวัตถุดิบ การผสม (fILLING, MIXING, BATCHING) แบบอัตโนมัติ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/solutions" class="PoVCDy wixui-button ZhVEJq">Read More</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_70f2343e8fc74c63b6602a79e4dcf723~mv2.jpg/v1/fill/w_532,h_532,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Hycontrol%20Level%20Solutions.jpg" alt="Hycontrol Level Solutions.jpg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ระบบวัดระดับและปริมาตร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">level &amp; volume monitoring system</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ช่วยบริหารจัดการถังเก็บ วัตถุดิบ และสารเคมี ด้วยระบบตรวจวัดระดับและคำนวณปริมาตร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/solutions" class="PoVCDy wixui-button ZhVEJq">Read More</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/b12c6e_0a43e7f8632647aeafd2c71b93561b34~mv2.jpg/v1/crop/x_67,y_67,w_366,h_366/fill/w_512,h_512,fp_0.50_0.50,lg_1,q_80,enc_avif,quality_auto/PLC.jpg" alt="PLC.jpg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ออกแบบติดตั้งระบบเครื่องวัด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">และควบคุม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">Instrumentation &amp; Control System</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">​รับออกแบบ ติดตั้ง เดินท่อ เดินไฟ เขียนโปรแกรม PLC ระบบเครื่องมือวัด และควบคุม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/solutions" class="PoVCDy wixui-button ZhVEJq">Read More</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/b12c6e_acbc693c7dcf4649a6b0fb52cdb2d67f~mv2.jpg/v1/fill/w_532,h_532,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gas%20Detector_JPG.jpg" alt="Gas Detector.JPG"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ระบบตรวจจับแก๊สรั่ว</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">Gas Detection System</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ออกแบบและติดตั้งระบบตรวจจับแก๊ส (Gas Detection System) เพื่อตอบสนองลักษณะของการใช้งานและคำนึงถึงหลักความปลอดภัย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/solutions" class="PoVCDy wixui-button ZhVEJq">Read More</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/aa6d8a_8e10949367ec42aaafac22b2861c2379~mv2.png/v1/fill/w_515,h_515,al_c,lg_1,q_85,enc_avif,quality_auto/HumidificationSystem-for-estatic_electricity-cs-tissue_factory2.png" alt="HumidificationSystem-for-estatic_electricity-cs-tissue_factory2.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ระบบควบคุมอุณหภูมิและความชื้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">temperature &amp; humidity control system</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ออกแบบ ติดตั้งระบบควบคุมอุณหภูมิและความชื้นแบบ turnkey ให้เหมาะกับกระบวนการผลิต ห้องคลีนรูม คลังสินค้า และพื้นที่ควบคุมพิเศษ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/solutions" class="PoVCDy wixui-button ZhVEJq">Read More</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/b12c6e_57533feb965648eaa93325064988045d~mv2.png/v1/fill/w_528,h_528,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/drying.png" alt="drying.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ระบบเป่าแห้ง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">drying and</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">blow-off system</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ออกแบบระบบเป่าแห้งด้วย Air Knife และ Blower&nbsp;กำจัดน้ำบนชิ้นงานอย่างมีประสิทธิภาพ ลดต้นทุนการผลิต&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.pvn.co.th/solutions" class="PoVCDy wixui-button ZhVEJq">Read More</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">ENGINEERING SOLUTIONS FOR YOUR PROCESS</h2>
+<!-- /wp:heading -->
+
+
+
