@@ -1,0 +1,420 @@
+{{languages|Talk:Map Features}}
+{{archives}}
+
+
+== man_made=water_works ==
+
+The definition of this tag reads: "A place where drinking water is found and applied to the local waterpipes network."  The is rather vague, especially the part about "a place where drinking water is found", which could mean anything including a lake.
+
+Is it OK to change this to: "A device or building used to collect, purify, and distribute drinking water"?
+
+-- [[User:TomashPilshchik|TomashPilshchik]]
+
+What about sewerage works ?
+
+[[User:Pmailkeey|Pmailkeey]] ([[User talk:Pmailkeey|talk]]) 10:25, 5 December 2014 (UTC)
+
+== toll ==
+
+I think toll=yes is not for a node-element but also for a way-element. --[[User:Chris66|chris66]] 14:29, 23 December 2009 (UTC)
+:I agree that it is fitting for way elements [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 08:17, 28 March 2024 (UTC)
+
+== Tag found that is not member of any list ==
+
+There is a tag [[Tag:building=dormitory]] that is on no list, neither approved, nor rejected without any discussion, what to do with it? [[User:TobiBS|TobiBS]] 22:05, 11 February 2010 (UTC)
+:What to do? Just use ;)
+: Actually, the right thing to do would be changing it into a proposal site and moving it to, say, [[Proposed features/Dormitory building]]. Right now, it pretends to be an established tag, which it isn't (according to usage by mappers and software, isn't). Not sure whether that's worth the effort, though. --[[User:Tordanik|Tordanik]] 22:00, 25 August 2010 (BST)
+:: It wouldn't. Proposals and voting is needed only when there are several conflicting ways to model the same thing, or if a user wants it included in the Map features before really widespread use. Discuss, enter data, document. Documenting ''[[Any_tags_you_like|any]]'' tags is beneficial; tag equivalences or "community favoured alternatives" can be linked to, if such exist. Specifically in this case [[Key:building]] allows for custom values (quote: "Mappers may also define their own values. Renderers are free to support these or just treat them as synonyms for building=yes."). [[User:Alv|Alv]] 07:36, 26 August 2010 (BST)
+::: Everything you write about inventing and documenting tags is true, but it would work equally well with a proposal page instead of a Key/Tag page. I personally consider creating a Key/Tag page (instead of a proposal page with the same content) something that should require a certain level of popularity, just as a Map Features entry. Note that I didn't mention voting at all: Writing a proposal page doesn't mean that there needs to be a vote! You can still just wait for the tag to become popular enough, but imo placing it on Proposed features instead of Key/Tag says "this is documentation for a tag that isn't yet widely used". And that's certainly true in this case. --[[User:Tordanik|Tordanik]] 12:32, 26 August 2010 (BST)
+
+== man_made=billboard == 
+
+This could be useful to map out advertising billboards. I'm not quite sure how it works, but I would also like to tag these with the following data : size, with lights or not, TV billboard, non-commercial, rollover messages, legal or illegal.
+
+== Mobile (or Cell) Phone Mast? ==
+
+What should I label a mobile phone mast as?  man_made=tower seems a bit much for something that is often only tens of metres high at most.  Perhaps there should be a man_made=mobilephone_mast
+: If you want to discuss tagging you are better off emailing the tagging mailing list, as for which tags, man_made=tower, tower=communication then you have a whole buch of tags to describe frequencies used and what not. --[[User:Delta foxtrot2|Delta foxtrot2]] 06:35, 13 June 2010 (UTC)
+
+== Emergency : State Emergency Service ==
+
+The description to the tag:emergency=ses_station should be changed to "A State Emergency Service is an organisation that provides emergency help during and after declared (natural or otherwise) disasters", instead of "A State Emergency Service is an Australian volunteer organisation that provides emergency help during and after declared (natural or otherwise) disasters." --[[User:Federico Explorador|Federico Explorador]] 20:29, 30 May 2012 (BST)
+
+== Cleanup Request ==
+
+This central page has a few problems:
+*translated pages get out of sync
+*no policy what kind of features get listed here (well known, proposed, voted,...)
+*table is huge and heavy to load
+*rendering col hides OSM multimap and self rendering approach and is outdated
+
+There is a discussion on [[Talk:Proposed_features#Features_that_hasn.27t_gone_through_the_proposal_process]] that hits a few aspects. I'm not gonna edit anything here cause of it's central nature. Any ideas? --[[User:!i!|!i!]] [[Image:Wikipedia-16px.png|This user is member of the wiki team of OSM|link=wiki/team]] 18:04, 6 November 2010 (UTC)
+
+:Before we see any more cleanup labels come and go on this page: Please discuss your ideas for improvements of this page here. [[User:!i!|!i!]] has already made a start by listing the problems he sees with this page; if you have any suggestions for solutions please let us know. As someone who has worked on one of the translated pages I disagree with pages getting out of sync being much of a problem: as most of the translated pages have translated only part of the features anyway, it's not unusual for the users to find a mix of english descriptions and descriptions in their native language here. That situation is still a lot better than only english text or only (sometimes very) incomplete translations. I agrre with missing policy being a problem, but that can not be solved technically, instead discussion and the search for a (rough) consensus is needed. I guess everyone agrees that the page is really heavy weight. And for the last point: I have to admit that I have no idea what that was supposed to mean. --[[User:Lyx|Lyx]] 21:40, 23 November 2010 (UTC)
+
+: May I suggest, as a starter, to break the page into subpages, leaving only the introductory material in the current page? I.e. we could have a [[Map_Features/Physical]], [[Map_Features/Non Physical]] and so on. Furthermore we might want to break down the physical category into two pages, one for [[Map_Features/Physical/linear|linear features]] such as roads and railways and one for [[Map_Features/Physical/POI|area or node-based features]], such as buildings or parks. I'd be happy to do it if you guys think it'sa good idea... -- [[User:Manu3d|Manu3d]] 01:09, 12 January 2011 (UTC)
+
+:: Splitting the page has been mentioned in the (distant) past, but there's a reason why it has been kept as one page: in-browser searching. Sure, there's the wiki search, but finding the relevant pages can be hard especially when one doesn't know the correct key or value beforehand, or isn't that fluent in English. Personally, I'm unsure whether it would be better or worse if split; it's still getting huge. [[User:Alv|Alv]] 11:13, 12 January 2011 (UTC)
+
+::: I understand what you mean: in Firefox you just have to press CTRL+F and then type whatever you are looking for to get to the first instance of it in the page. Might I then adjust my proposal to meet your concern: in the main page we keep the introductory text as already mentioned but we also add a much more compact, text-only table acting as an index, each column listing the features (i.e. "highway/motorway" and "amenity/fuel") and each column header (maybe repeated every X number of items) being a link to pages such as [[Map_Features/Physical]]. This way one can still search the whole list but the page would become much lighter. And potentially each listed feature too might be a link to a specific Tag:* page. -- [[User:Manu3d|Manu3d]] 22:25, 12 January 2011 (UTC)
+
+:: "Rendering" needs to broken apart into some of the popular applications, ie Mapnik, Osmarender, etc. There should be aphoto for each of them. Not just one random photo. Not all features render on different applications. Being able to see the icon at a glance for maybe the top 10 would be helpful to compare how they render and where. Also a zoom level for each one should be included. These should be able to be filtered so you can easily see what shows where and at what level. Maybe the rendering could be taken off altogether on the main page and a included on the link page. -- ((srmixter)) 8 January 2013
+
+::: Osmarender is dead. If at all, we should display the example rendering images of ''our'' main layers, i.e. ''Standard'', ''Cycle Map'', ''Transport Map'' and ''MapQuest Open''. However each of them is maintained by different people and keeping example pictures of their current rendering up-to-date seems difficult. Moreover we don't even have a ''key'' yet for any other than the standard layer which should be higher priority than those example rendering images in my opinion. --[[User:Scai|Scai]] 12:10, 11 January 2013 (UTC)
+
+=== Red Links ===
+Items making its way to Map Features should be well documented. Encountering red links here is the same as not adding the information. I suggest that the cleanup team is given permission to remove red links as they contribute no useful information unless somebody (preferably those who added it) documents its content. --[[User:Skippern|Skippern]] 09:46, 15 December 2011 (UTC)
+
+== Sort order ==
+
+Comment to PeterIto on his talk page: Please revert the alphabetic order, at least in the highway table. We discover now that some newcomers are using "highway=path" instead of "track" just because of that. If you don't do it, I will, which is always annoying. --[[User:Pieren|Pieren]] 15:51, 15 March 2012 (UTC)
+
+:Back in January did a considerable amount of cleanup across all of these tables, increasing consistency between them. All tables are now organised into sections as appropriate and alphabetically within the sections. The contents of the tables is now more consistent, with some common tags added and in other cases excessive detail and duplication reduced. Every table also now also has a taginfo link in a consistent style.
+
+:In response to Pieren's specific comment above. I have now added detail to the entry for 'path' in the highways table to suggest that footway, cycleway or track may be better. I do however agree that there is an argument splitting 'Roads' and 'Paths' in Highways table back into separate sections, and it may be appropriate to order the roads section by classification not alphabetically, however raceway, bus_way, living_street, service and pedestrian don't really fit into a logical hierarchy which is why I used alphabetical. I also found it uncomfortable to have track with 'roads' rather than 'paths' which is why I merged them.
+
+:If you wish to make such a change then please go ahead, but please do this by adjusting the current table rather than reverting is to an earlier one which would loose the many other changes I have made, in particular many changes to the attributes section.
+
+:-- [[User:PeterIto|PeterIto]] 20:46, 15 March 2012 (UTC)
+:: I'm afraid that nobody is carefully watching this talk page. Anyway, what I want is to restore what we had since the beginning, means that the order of highway classes is sorted by importance from the highest to the lowest. This is what newcomers can quickly understand. Otherwise they have to go through 20 descriptions before they can decide which one is appropriate. And of course they don't do that and instead, use the first one that fits more or less for what they need. I received feedbacks from newcomers improperly using hihgway=path just because of the current sorting (instead of "track"). Expanding the short description will solve one issue but not all. What people need is a clear overview about the hierarchy of the highway types, not comments saying "check other values below in case x,y,z". --[[User:Pieren|Pieren]] 10:48, 16 March 2012 (UTC)
+
+::: +1 from me for going back to importance-based ordering of road and path highway classes. Yes, there are some rare road types that don't strictly fit the hierarchy - just put them at the bottom of the list. Alphabetic sorting is barely more useful than random and only makes sense if there is no better order available at all. --[[User:Tordanik|Tordanik]] 12:27, 16 March 2012 (UTC)
+
+::::Sorted. I have gone back the an importance order for highways and it does make more sense. [[User:PeterIto|PeterIto]] 11:24, 31 May 2012 (BST)
+
+== Britocentric? ==
+
+I suppose it's refreshing to some to see something not Americentric for once, but the nomenclature being used in OSM is egregiously Britocentric. Terms like "primary highway, secondary highway" are patently Britain-specific. Likewise the "link" road types. "Living street" has no meaning outside Europe, from what I can tell. And apparently Britain has no such thing as "daycare" or "preschool", I suppose they call it something else, but I've no idea what.
+
+I could go on, but could there be maybe some guidance for people outside the UK who basically have to wing it with the Britocentric terms used for map features? Or work on universalising them, perhaps. - [[User:KTyler|KTyler]] 05:51, 10 May 2012 (BST)
+
+: After 8 years, by chance you arrive on the project and want to change what is widely used and accepted all around the world. The tags are key/value pairs which can be added by editors presets (the icons on Potlatch or the presets menu in JOSM). You can translate those presets to your local language/wording if you like (OSM editors are all open sources) as they are already translated into German, French, Russian, etc. Create a US centric version of the features names if you like. Important is only that the meaning of the tags remain consistent over the continents, that a highway=primary is more important than a highway=secondary, etc. Note that many countries created a specific wiki page to explain how the UK centric terminology has to be used with the local practices. See [[United States roads tagging]] for instance. Also the [[Map Features]] wiki page has been translated in many languages and reworked for local habits, sometimes adding specific local features, sometimes removing features which do not exist locally (like your example of the 'living_street'. --[[User:Pieren|Pieren]] 12:48, 10 May 2012 (BST)
+
+: There could be a page listing ''commonly used'' tags that are, or can be, unintuitive for [[wikipedia:American English]] natives, purely because of the words used. Just so that they're not limited to searching, which can list lots of unrelated pages. For the lack of a better page title, I'd go for [[wikipedia:British English]]. [[User:Alv|Alv]] 07:29, 11 May 2012 (BST)
+
+: Unfortunately language and country are not the same thing, unless you are proposing an American English language tag. (And a [[wikipedia:Canadian English]], and an Australian, etc.) What I'm saying is that just because everyone has put up with (or more like, it seems, struggled with) the Britocentrisms as the square pegs in their round holes, doesn't mean that the project shouldn't endeavor for terms that are more universal. Sure, it's obvious that a "primary highway" is more "important" than a "secondary highway", but those terms apparently have specific defined meaning in the UK -- elsewhere, afaik, they do not. Outside UK, what makes a road secondary and not primary? Do we just make it up as we go along? Or arbitrarily wing it? Seems like that's an invitation for a globally inconsistent map. - [[User:KTyler|KTyler]] 20:40, 12 June 2012 (BST)
+
+::I do agree that the UK system of road classification is odd, and indeed possibly quaint, however it is probably no more odd than any other. I think it is useful therefore to maintain a single version of English for use for the main tags and values within the database, and for historic reasons that is British English.  That is not a reason however not to try to make the documentation in the wiki more understandable to more people, in particular to those more familiar use [[wikipedia:North American English]], although there are other dialects in use for some terms in English as used in Australia and indeed in India. As a simple way to show the amount of variation between the two versions of English, consider the following and notice the diversity of terms used:
+
+::* [[Wikipedia:Carriageway]]"''A single carriageway road (North American English: undivided highway) has one carriageway with 1, 2 or more lanes together with any associated footways (North American English: sidewalk) and road verges (North American English: tree lawn, boulevard, etc.). A dual carriageway road (North American English: divided highway) has two roadways separated by a central reservation (North American English: median).''"
+
+::* [[wikipedia:road verge]] "''A road verge, (also verge, city grass, devil's strip, nature strip, parking strip, planting strip, sidewalk buffer, tree belt, tree lawn, utility strip, parkway etc.) is a narrow strip of grass or plants and sometimes also trees typically located beside the carriageway (roadway)''"
+
+::* [[wikipedia:Sidewalk]] "''A sidewalk, or pavement, footpath, footway, and sometimes platform, is a path along the side of a road.''"
+
+::As it happens I am currently working on the [[Highways]] article on the OSM wiki and will explore how to make it a little more approachable for people from other places. Regarding the classes of road used in different places, this article is useful [[Highway:International equivalence]].
+
+::-- [[User:PeterIto|PeterIto]] 22:40, 12 June 2012 (BST)
+
+::: I appreciate the links to [[United States roads tagging]] and [[Highway:International equivalence]]. It's not entirely obvious that such pages exist, IMO. :) - [[User:KTyler|KTyler]] 09:56, 13 June 2012 (BST)
+
+::::Great. I have also just added [[United States roads tagging]] to the 'see also' list in the highways article. [[User:PeterIto|PeterIto]] 10:23, 13 June 2012 (BST)
+
+
+
+== Remove ''Rendering'' column ==
+
+Continuation of [[Talk:Key:barrier#Remove_Rendering_column]]. What do you think about removing the ''Rendering'' column from map feature tables? The main concern I see now is that rendering samples are dispersed everywhere (some on map feature pages, others on individual tag pages) and not maintained. IMO renderers should have their own page showing samples of all supported tags. This way we keep wiki definitions independent from renderings, and rendering samples are gathered together on their page (easier maintenance). --[[User:Oligo|Oligo]] ([[User talk:Oligo|talk]]) 19:36, 16 July 2013 (UTC)
+: You can't move the rendering column to each renderer's wiki page. Because mostly it is just the stylesheet that "supports" tags, not the renderer itself. Either we should keep a central sample rendering collection like here on Map Features, or each individual tag page should have a list of example renderings. The latter seems to be more difficult to maintain. --[[User:Scai|Scai]] ([[User talk:Scai|talk]]) 20:16, 17 July 2013 (UTC)
+:: I think individual example galleries on each tag page would be a good solution; preferably these would even use machine-readable templates. The current approach to have 0-1 images for each tag in a dedicated column seems limited because it doesn't allow for multiple renderers or even just stylesheets. --[[User:Tordanik|Tordanik]] 05:39, 18 July 2013 (UTC)
+:+1 to removal of that column. [[OSM Carto]] is treated as too fundamental and too important by many mappers, we should not encourage it. Also, page barely works due to its size. Maybe removing rendering column can extend its life? Listing how tags are shown can go at page of specific map style. [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 06:56, 29 March 2024 (UTC)
+
+: '''I am against removing Rendering column'''. The "Map features" page is made up of individual templates, and these are used in many other articles. [[User:Maro21|maro21]] 14:07, 30 March 2024 (UTC)
+
+== " Cyclists share a lane with motor vehicles, but there are markings indicating that they should share the lane with motorists. " ==
+
+I am not sure about intended meaning but this sentence is at least weird. Can somebody fix it to intended meaning? 06:18, 24 September 2013 (UTC)
+:Rewrote to "Cyclists share a lane with motor vehicles, there are markings reminding about this" [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 06:59, 29 March 2024 (UTC)
+
+== Best practice for “User defined” table rows ==
+
+I am trying to improve the “User defined” rows at the bottom of the tables in all languages. My first draft of a specification, largely based on existing practice, is:
+
+Each table on this page has a row at the bottom labelled “User defined” on the English-language page and specified by the <tt>Proposed_features:value2</tt> and <tt>Proposed_features:desc</tt> template arguments. The description should mention [[Taginfo]] and should link to <tt><nowiki>//taginfo.openstreetmap.org/keys/<key>#values</nowiki></tt>, for instance <tt>//taginfo.openstreetmap.org/keys/highway#values</tt>, preferably using [[WikiProject Cleanup#Protocol-relative_URLs|protocol-relative URLs]]*. Any references to Tagwatch need to be removed because because this service has closed down. Note that there are repeated rows on the page and each one needs to be edited separately.
+
+* If there are links to [[Taginfo/Sites|single-country instances of Taginfo]] they should use the <tt><nowiki>http://</nowiki></tt> protocol prefix because no local instance has properly configured https access.
+
+--[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 21:53, 30 April 2014 (UTC)
+
+: I'm currently playing with a template {{Keystat|highway}} ([[Template:Keystat]]) for the "User defined" rows and maybe other use cases like proposals, ... . Haven't added a lang variable yet and haven't thought about the http/https nor about language specific [[Taginfo]] links. Unfortunately we have fixed the most occurrences of Tagwatch to Taginfo already. Using a Template makes it easier if the syntax of the url links to taginfo changes in the future. --[[User:Werner2101|Werner2101]] ([[User talk:Werner2101|talk]]) 11:02, 27 May 2014 (UTC)
+
+== Seems like there is no way to make this road type. ==
+
+I meet some road with this conditions:
+
+* One-way for cars
+* Two-way for moto, bikes, buses.
+
+Seems like there is no way to mark this on the map correctly.
+
+
+I'd suggest 'road' for the cars and 'specialist' lane for the other vehicle type e.g. bike route. Both lanes to be marked one-way (opposing each other).
+: You can specify which types of vehicles the oneway tag applies to, as used in the Netherlands: oneway:bicycle=no (meaning bicycles can go both directions). You can either use oneway:motorcar=yes or use oneway=yes plus oneway:motorcyle=no plus oneway:bicycle=no plus whichever mode you further need to add. The only question is if this will be parsed correctly by all routers, but it is the way to tag it. --[[User:Mdeen|Mdeen]] ([[User talk:Mdeen|talk]]) 14:16, 18 December 2014 (UTC)
+:What is "moto"? There is {{tag|oneway:bicycle|no}} and {{tag|oneway:bus|no}} [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 06:54, 29 March 2024 (UTC)
+
+== Road type: Dual Carriageway ==
+
+I'm sure this is needed as other mappers have a specific symbol for them and they are quite different from two opposing roads.
+:There is {{tag|dual_carriageway|yes}} but I am not convinced that it is prominent or important enough to be featured here [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 08:27, 28 March 2024 (UTC)
+
+== Foot(path) distinctions ==
+
+I think it'd be better if path and footpath / footway were better differentiated. I like the idea of 'path' being either unmarked or generally rough / unsuitable for wheelchairs and footpath/footway being a good surface and suitable for wheelchairs - i.e. only single steps rather than flights.
+
+== Rail Track: direction ? ==
+
+There doesn't appear to be an option to indicate the direction of travel on the tracks. One for the future, I guess.
+
+[[User:Pmailkeey |Pmailkeey ]] ([[User talk:Pmailkeey |talk]]) 10:27, 5 December 2014 (UTC)
+
+
+== Czech version of MapFeatures is too complicated ==
+Hi, it seems that the Czech version of [[Cs:Map_Features|Cs:Map Features]] page has become too complicated for this server and it is not shown complete.
+
+Does anyone know how to solve it? Can someone adjust the server parameters so this important page is not truncated?
+
+Thank you. [[User:Chrabros|Chrabros]] ([[User talk:Chrabros|talk]]) 13:15, 17 May 2016 (UTC)
+: "Map Features" attempts to document in the same page every tag documented on this wiki ! That's very bad, if should just document a common subset.
+: In fact Map Features is very huge in all language, including English, there are too many templates transcluded, generating too much content.
+: Really, there should be separate thematic sections for most details.
+: "groups" will be used for that but for now they are mostly drafts and still not well organized. Support for translated group names is starting (being tested for now in French and Japanese in a few pages). The early attempts to create "groups" were completely broken in all languages (including English!)
+: So don't bother with Map Features, try translating pages for feature groups that are transcluding much less templates.
+: — [[User:Verdy_p|Verdy_p]] <sup>([[User talk:Verdy p|talk]])</sup> 16:13, 17 May 2016 (UTC)
+:: Well, I really was not looking for an answer "don't bother". I would prefer if someone could extend the parameters of the server slightly so the server could display the whole page.
+:: I consider this page quite important, after all it is linked from a prominent place in the main menu.
+:: [[User:Chrabros|Chrabros]] ([[User talk:Chrabros|talk]]) 06:21, 18 May 2016 (UTC)
+: I mean that we cannot continue expanding the content if this page indedinitely. This page has gone out of scope over time because it is insufficiently focused on much too many details.
+: It requires splitting in all cases (and in all languages), using separate pages, and then changing this page into just a summary index of topics, not a complete list of tags.
+: For the complete list of tags (alphabetic index) we have categories. For searches, well we have... the search bar. Then we an also have thematic "groups" (both in subcategories, or in more focused pages).
+: — [[User:Verdy_p|Verdy_p]] <sup>([[User talk:Verdy p|talk]])</sup> 09:33, 18 May 2016 (UTC)
+:: Ack. I don't use the page. And there is no official "list of all tags" in OSM which this page suggests.--[[User:Jojo4u|Jojo4u]] ([[User talk:Jojo4u|talk]]) 14:21, 25 May 2016 (UTC)
+: I’ve managed to simplify {{tl|TagPagename}} to get the whole of [[Cs:Map Features]] to display. Japanese, Russian and Ukrainian need more work.--[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 20:56, 26 May 2016 (UTC)
+:: Thanks fot this, but it does not help actually. I had to remove the whole template Sport to get the rest of the page to be displayed. When I re-enter it then the problem persists. [[User:Chrabros|Chrabros]] ([[User talk:Chrabros|talk]]) 07:12, 27 May 2016 (UTC)
+
+See https://wiki.openstreetmap.org/wiki/Talk:Wiki#Too_complex_wiki_pages [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 06:53, 29 March 2024 (UTC)
+
+== Using Tag lists ==
+
+Hello,
+
+I have noticed that two of us have made a radical step and replaced the usual Map Features templates with Tag lists (so far for Geological, Office and Man-Made sections).
+
+I do not like this change and I would like to discuss it.
+
+The original Map Features templates (as I understood them) were hand picked selection of the most useful tags from given category. It was replaced by a list which lists 
+every tag which has a documentation (no matter how bad) on wiki. What's the point of promoting tags like {{Tag|office|camping}} and {{Tag|office|engineer}} - to name
+the first two from many examples? Also when anyone creates any page in those "namspaces" it gets listed automatically in Map Features page which give is some kind
+of legitimacy and promotion, which is undesirable.
+
+Also the rendering column is missing in Tag lists. So these sections are different from the rest of the page.
+
+There is another problem that the Tag lists are not translated fully in other languages (for sure it is not available in Czech). So if I were to use it on Czech version
+of Map Features page I would have to live with a partially translated pagem, which I do not like as the page is translated completely to the Czech language.
+The current status - when the Tag lists are used on English version of Map Features page only - I do not like either as the content of English and all the other language versions is different
+and will diverge over the time.
+
+I do not see any significant benefits in using Tag lists so far and I see only drawbacks. So I would propose to return to the original state. What is your opinion?
+
+[[User:Chrabros|Chrabros]] ([[User talk:Chrabros|talk]]) 06:25, 5 September 2016 (UTC)
+
+: The main problem this will solve is diverging definitions on the Tag Features pages and the main wiki page. Having the definitions on two different pages is quite a maintenance burden, and it's clear that not many users contribute to keeping the definitions synchronised. Note that some definition are better on the individual pages, and some are better on the Map Features page, so duplicating the work really leads to less quality overall.
+: The old list was hand-picked. However, who is to make the decision which tags to pick and which tags not to pick? Personally I have no problem with {{Tag|office|engineer}}.
+: Perhaps one way to exclude weak tags is to require a minimal number of instances?
+: About the rendering column, Jochen Topf (who created TagList), will be adding this column to TagList too. So at least this is something that will be solved.
+: See also the mailing list for more information: https://lists.openstreetmap.org/pipermail/talk/2016-September/076730.html
+: I think using TagList is the way to go for the future, but I do agree that this step warrants more discussion. I'm therefore fine with rolling back the changes until a discussion in the community has taken place.
+: Maybe we can create an alternative Map Features Beta page in the meanwhile?[[User:Math1985|Math1985]] ([[User talk:Math1985|talk]]) 08:14, 5 September 2016 (UTC)
+
+:: Hmm, if the main problem is to solve the diverging definitions then I see what you are up to. However I never saw this as a big problem in my language as all the definitions were created by me and I keep them synced. But I can see that it can pose a problem for someone.
+:: But I think that sometimes it is useful to have one short description for the info box and Taginfo and one longer for a MapFeatures page. Maybe (just an idea) we could add one more infobox parameter with a longer description for TagList. If it would be present it would be displayed by TagList in preference to a description= parameter.
+:: Also I think it would be very nice to have parameter to exclude (or include) the tag from the TagList at all. Something like "MapFeatures=yes/no" with the default setting beeing maybe "yes" (not sure here).
+:: That would allow us to exclude deprecated or poorly documented or very rare tags from the list and therefore we could both have what we aim for.
+:: [[User:Chrabros|Chrabros]] ([[User talk:Chrabros|talk]]) 08:31, 5 September 2016 (UTC)
+
+::: Which tags appear in a taglist is controllable by the user. That was one of my most important design goals for the taglist: You can get all tags with as specific key if you want to, but you can also just list specific tags. The mechanism behind this doesn't decide, the community does. As for the missing translations, this can, and should be, fixed (see [[Talk:Taginfo/Taglists#Translation]]. I am just not sure what the best way would be to do this, technically and for the users, and welcome any input. I will add a "rendering" column to the taglists once that information is in the info box template. Currently the information is just not there, so taginfo can't get to it. The biggest question, in my opinion, concerns the description. I am not a big fan of having a "short description" and a "long description" or something like this. It just makes keeping things up to date more difficult and using the descriptions more difficult for any kind of program, because you always have to ask yourself, which one to use, what to do if there is only one etc. I think there should be only one concise description used everywhere. For more information, you can always click through to the wiki page. But this is certainly something which can be debated and taginfo can be changed if necessary. There is a different problem there: Taginfo currently doesn't work well if the description contains anything other than plain text. Markup or even links sometimes don't work. I think we should discourage the use of markup or links in those description texts because it makes it basically impossible to use the descriptions outside the wiki context. If I want to, say, show those descriptions in an editor, the editor would have to understand mediawiki markup (or taginfo would have to understand it and translate somehow). I think it is much better if we always require plain text and add extra information like wikipedia links into a different field in the info box. [[User:Joto|Joto]] ([[User talk:Joto|talk]]) 09:52, 5 September 2016 (UTC)
+
+:::: I fully agree with 'I think we should discourage the use of markup or links in those description texts'. We need to manually review all TagList and Map Features definitions anyway, this is something we can include in that process. [[User:Math1985|Math1985]] ([[User talk:Math1985|talk]]) 11:33, 5 September 2016 (UTC)
+
+: For the record, Taglists have been re-implemented, but with a couple of changes that address these concerns.
+: 1) TagLists are a hand-picked list again
+: 2) A rendering column has been added
+: 3) Taglists are implemented for the English wiki only at this stage.[[User:Math1985|Math1985]] ([[User talk:Math1985|talk]]) 15:59, 4 December 2016 (UTC)
+
+:: I agree that having definitions on two different pages (Tag Features pages and this one) is a mess. I will try to slowly switch the templates to TagList preserving the hand picked selection of tags. [[User:Javiersanp|Javiersanp]] ([[User talk:Javiersanp|talk]]) 10:08, 9 March 2018 (UTC)
+
+== Same image for water point and sanitary dump station ==
+
+Are you sure this is correct? --[[User:Ftrebien|Fernando Trebien]] ([[User talk:Ftrebien|talk]]) 10:48, 18 January 2018 (UTC)
+
+== Reimagining Map Features ==
+
+I propose to tackle the varying quality of this page in different languages by changing Map Features to a single multilingual page that outputs its text in the user’s preferred interface language.
+
+The tag tables can be generated from [[Taginfo/Taglists]]. For the best results it should be possible to set the description of each tag in each language ahead of writing a long-form documentation page.
+
+The introduction becomes a translatable <code><nowiki>{{int:…}}</nowiki></code> string, the message for each language transcluding a template of the actual introduction.
+
+The section headings and table headers also become <code><nowiki>{{int:…}}</nowiki></code> messages.
+
+--[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 11:47, 5 July 2019 (UTC)
+
+:Generating the tables from taginfo taglists is a good idea. But <code><nowiki>{{int:…}}</nowiki></code> would require the translations to live in the MediaWiki: namespace, which is only editable by administrators. While that's reasonable for widely used templates, elements like the introduction to this page are only relevant to a single page. If we rely on taginfo taglists, then there's not as much to translate manually as part of the page anyways. &ndash;&nbsp;[[User:Minh Nguyen|Minh <span style="font-variant: small-caps;">Nguyễn</span>]]&nbsp;<sup>[[User talk:Minh Nguyen|<span style="display: inline-block;">&#x1f4ac;</span>]]</sup> 22:06, 6 July 2019 (UTC)
+
+:: The translation strings could be references to templates, which wouldn’t have to be protected. --[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 07:41, 7 July 2019 (UTC)
+
+:::There would have to be quite a few new messages in the MediaWiki namespace. Too many additional messages in that namespace can slow down the whole wiki, even if the messages are only used on a single page. &ndash;&nbsp;[[User:Minh Nguyen|Minh <span style="font-variant: small-caps;">Nguyễn</span>]]&nbsp;<sup>[[User talk:Minh Nguyen|<span style="display: inline-block;">&#x1f4ac;</span>]]</sup> 10:31, 8 July 2019 (UTC)
+
+::According to [[Talk:Taginfo/Taglists#Keys|this discussion]], it's also not possible to use taginfo taglists for keys without values: 
+ While attempting to convert Template:Map Features:annotation to Taglists, I failed to get keys listed on their own, without a value. Is this supported? --Tordanik 14:23, 30 April 2017 (UTC)
+ No, that is not supported. Joto (talk) 15:42, 30 April 2017 (UTC)
+::I believe this would limit the possiblity of changing all of the Map Features sections to taglists, since some include keys without values. --[[User:Jeisenbe|Jeisenbe]] ([[User talk:Jeisenbe|talk]]) 04:39, 7 July 2019 (UTC)
+
+::: [[Template:Map_Features:annotation]] uses taglists for keys successfully nowadays. --[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 17:48, 7 July 2019 (UTC)
+
+I have created an demonstration at [[Map Features/proposed rewrite]]. The internationalisation for taglists needs <code><nowiki>{{int:lang}}</nowiki></code> to be implemented to work and the internationalised headings are not yet implemented. --[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 18:31, 7 July 2019 (UTC)
+
+:Thank you. That must have taken a long time! The [[Map Features/proposed rewrite|demonstration page]] shows that this will work fairly well. A benefit is that the total number of uses is now available for every feature. Disadvantages: every tag will need a description on a wiki page, or else the description field will be blank. This will affect a couple of dozen tags and a large minority of the keys in annotation, but perhaps it will improve wiki documentation of keys and tags? The other shortcoming is that there is no way to show "crossed-out" text for deprecated tags, or suggestions to see a more common tag in the description. --[[User:Jeisenbe|Jeisenbe]] ([[User talk:Jeisenbe|talk]]) 23:18, 7 July 2019 (UTC)
+:Another question: would a language-specific wiki page need to be created for each map feature just to fill out the map features page, following this change, or is there a simple way to just add a translated description for each tag and key?--[[User:Jeisenbe|Jeisenbe]] ([[User talk:Jeisenbe|talk]]) 23:20, 7 July 2019 (UTC)
+
+: I agree with the idea to make more use of taglists, and there's a [[Taginfo/Taglists/Wiki project|wiki project]] to migrate the remaining templates that could use more help. The part that I'm not convinced about yet is having a single multilingual page instead of using the Languages template as other wiki pages do. Being able to see Map features in a different language is actually useful – I usually look at tag documentation in English despite my browser being configured to prefer my native language, for example. It also wouldn't be that much easier than creating a page and including templates, would it? As templates like {{Template|Map Features:leisure}} already have parameters for name and description (which could be set to localized text), all that's missing to make them fully translateable is a language parameter to set the taglist language. --[[User:Tordanik|Tordanik]] 17:09, 9 July 2019 (UTC)
+:: I realise that a multilingual page is different from the rest of the wiki, which is a disadvantage, and that most of the wiki could never follow it. The idea is to have as few ways as possible for different languages to be substandard or out of date. The demonstration page has a language bar that links to the page in different user languages. --[[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 07:55, 11 July 2019 (UTC)
+
+
+== Sidewalks ==
+I would like to change Feature list so that it points to the page of the approved version of sidewalk tagging [[Tag:footway=sidewalk]] + change the information about tagging.
+
+--[[User:Mashin|Mashin]] ([[User talk:Mashin|talk]]) 23:10, 10 July 2020 (UTC)
+
+== Places and parts of addresses in Spain ==
+
+I have been updating some of the places I visited in Spain.  It’s not hard to map the elements of a [https://www.spanishexamples.com/spanish-reference-resource/example-spanish-address/ Spanish address] to those in the table.  But I am not completely sure about matching administrative labels.  Provinces fits Spanish provinces OK, but it isn't clear whether a Spanish “autonomous community” (contains provinces) should be a region.  There are regions smaller than provinces but larger than municipalities, such as [http://www.turismotierraestella.com/es/localizacion/ Tierra Estella]
+
+And Spanish municipalities may not be the municipality in the table.  But I am not sure whether they fit “district” or “county.”  They typically include a village or city of the same name, but they may contain other villages.  Some of them are already listed as admin level 8, which seems too small.
+
+There are also ''comarcas'', ''mancomunidades'', ''merindades'', and possibly more.  Spanish Wikipedia calls “Tierra Estella” a ''merindad''.
+[[User:Happy Hobo|伟思礼]] ([[User talk:Happy Hobo|talk]]) 07:20, 21 February 2021 (UTC)
+
+== shop=food is not here. Is there a reason why? ==
+
+So, I am drafting a new shop tag, the [[Proposed features/shop=tortilla|shop=tortilla]]. During the current discussion about this tag, someone suggested that tortilla shops should be tagged not as {{tag|shop|yes}} but as {{tag|shop|food}} with food=tortilla. While I am not comfortable with this proposal, I noticed this tag is not in the table for '''food''' shops, which I find odd enough to ask about any reason why it is not listed.
+
+A lot of shops selling food won't fit into the listed categories, so I think it would be useful to add this one to the table. Any information about this? Can I just add it? No problem?
+
+== Suggested opening paragraph ==
+
+The page opens in a highly technical way, which may be unattractive for new users. Eg, "features" in this article means "things we include in the map". In ordinary usage "features" often means "reasons you'd like this product" (eg, the map is comprehensive, it doesn't use much memory on your phone, you can edit it yourself, etc). 
+
+I suggest as a minimum we add a couple of sentences to the opening of the article saying something like ''OSM is strictly a database, not a visual map. This article is about how that database is structured and what it includes. If you are interested in what the map looks like, you may wish to read the article [[Rendering]].'' 
+
+Alternatively (and perhaps better), the opening section could be moved to its own subsection on 'database structure' or similar. 
+
+Please take this as a pre-draft suggestion - there would be consequential reordering/tidying up if we do this. Thoughts? [[User:Eteb3|eteb3]] ([[User talk:Eteb3|talk]]) 08:06, 28 September 2021 (UTC)
+
+== Missing features from Man_made ==
+
+Hi community, I have found that the map features list misses some entries from man_made key, like manhole or planter. I know maintaining this huge list is very complicated, and this has been the source of many problems.
+I propose to create a table with the features list in a wiki template page for particular keys with many values, like man_made, shop, office, etc. This template would be used in different languages and in aggregator pages like this one (map features), and then we will need to maintain only a template. This is something similar to admin_level value in the boundary key https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative, which make reference to the template https://wiki.openstreetmap.org/wiki/Template:Admin_level_10
+
+What do you think about my proposal? otherwise, who can include the missing features from man_made key?
+:https://wiki.openstreetmap.org/wiki/Key:man_made has such table and it can be edited there [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 08:43, 28 March 2024 (UTC)
+
+== Performance rewrite (and support for Translate extension) ==
+
+I have been putting together a version of [[Da:Map Features]] (which is the language version that takes longest to generate and hits the most resource limits) to avoid the link processing bottleneck with some Lua. Using the data items to find documentation has the additional bonus that the links can be updated as documentation uses the Translate extension, one page at a time if wanted. The demonstration page is at [[Performance test/Da:Map Features]]. [[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 19:18, 24 July 2022 (UTC)
+=== Implementation ===
+: The top page and Danish templates only exist to use the generic templates. The generic templates differ from the existing ones in that the lines:
+: <code><nowiki>| [[{{{amenity:key|{{LL|1=key:amenity}}}}} | amenity]]</nowiki></code><br/>
+: <code><nowiki>| [[{{{restaurant:value|{{LL|1=Tag:amenity=restaurant}}}}} | restaurant]]</nowiki></code>
+: are replaced by:
+: <code><nowiki>| {{ keylink | amenity }}</nowiki></code><br/>
+: <code><nowiki>| {{ valuelink | amenity | restaurant }}</nowiki></code>
+: The value column is left unchanged when it isn’t a link to a documentation page.
+: The Lua code in [[Module:Taglink]] runs much faster than {{tl|LL}} and it could also be used in {{tl|Tag}}. [[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 07:52, 26 July 2022 (UTC)
+::Why it would be used in tag where it simply linking wiki pages? [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 12:47, 28 July 2022 (UTC)
+: The Tag template supports documentation in multiple languages. It could be used to follow pages using the Translate extension if they are created with the extension’s native …/xx page naming convention. [[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 21:05, 28 July 2022 (UTC)
+=== Issues ===
+Hello, I encountered some ''<span class="error">Too many OpenStreetMap Wiki entities accessed.</span>'' on [[DE:Map Features]]. Is it something like an API call limit exhaustion? --[[User:Chris2map|Chris2map]] ([[User talk:Chris2map|talk]]) 19:49, 19 August 2022 (UTC)
+
+I just came here to say exactly this! Whatever is happening is still a problem. It's showing up on [[Key:maxlength|maxlength]] but only on [[Map_Features#restrictions]], not on the [[Template:Map_Features:restrictions|template page]]. --[[User:Ellehan|Ellehan]] ([[User talk:Ellehan|talk]]) 17:28, 8 October 2022 (UTC)
+:Maybe we can switch to more direct linking without piles of random template magic and data items? [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 19:05, 17 November 2022 (UTC)
+
+::<p>{{ping|Mateusz Konieczny}} Each page has a maximum quota of “expensive” operations. You can view the HTML source code of a page  to see its usage against the quota in a comment towards the end of the page. Accessing a data item that isn’t the page’s linked data item is considered “expensive”, but so is testing whether another page exists, which the old {{tl|LL}}-based version did in abundance in a quest to eliminate redlinks. Eventually, once the Translate extension is installed, we’ll be able to link to [[Special:MyLanguage]] for each of these links without counting against the expensive call quota.<p>In the meantime, we could try replacing the whole page with a series of {{tl|taglist}}s, which use JavaScript to build the tables independently of MediaWiki. It’s quite a roundabout approach, driven by taginfo scraping individual pages. Or more simply, we could replace the {{tl|keylink}}s and {{tl|valuelink}}s with basic wikilinks that are allowed to be redlinks. We can add a little unconditional “<small>(en)</small>” link afterwards as a fallback.<p>Taking a step back, what we’re running up against is the limit of trying to cram the whole wiki onto one page – a fool’s errand, if you ask me. I think it’s high time we split up this page into multiple pages by topic, along with optimizing the structure and metadata of individual tag description pages to improve the quality of search results.<p>&nbsp;&ndash;&nbsp;[[User:Minh Nguyen|Minh <span style="font-variant: small-caps;">Nguyễn</span>]]&nbsp;<sup>[[User talk:Minh Nguyen|<span style="display: inline-block;">&#x1f4ac;</span>]]</sup> 15:36, 18 November 2022 (UTC)
+::: The EWG know about Map Features; it’s just that we’ve been pursuing other work in the wiki and elsewhere more vigorously. In the specific case of taglists English map features use the extensively and doesn’t get the message, but other languages hit the problem that, because Taginfo scrapes wiki pages instead of using data items, it doesn’t return descriptions in any language where there isn’t a long form page for the tag. [[User:Wynndale|Andrew]] ([[User talk:Wynndale|talk]]) 17:47, 18 November 2022 (UTC)
+::: Personally I never ever used map features page - do we have info how and why people use it? Are there people using it? (to be clear, I am not claiming that everyone is using Wiki in the same way as me, but I would be interested in learning how people treating this page as useful are using it) [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 17:51, 18 November 2022 (UTC)
+
+::::<p>{{ping|Mateusz Konieczny}} It's probably a few different things. Often, people giving introductory presentations to OSM point newcomers at this page as an entry point to the wiki's vast repertoire of documented tags. Apart from that, there are many contexts in which more experienced mappers need to refer to a tag while not mapping, such as during a tagging discussion. Some people prefer single-page documentation that's compatible with the browser's find in page command; it's a matter of taste. But I don't think any of these reasons necessarily ties us to the current approach. Breaking up this page into a small set of pages by theme wouldn't greatly inconvenience people who prefer to see documentation in one place, and it would give us room to document far more features without running into these limits.<p>Separately, I've [https://github.com/openstreetmap/id-tagging-schema/issues/646 proposed] a standalone preset browser based on id-tagging-schema that could take the place of this page while promoting consistency between various editors and the wiki. In principle, it could be implemented as a gadget or user script that takes over this page in the same manner as a taglist. Something oriented around presets would answer questions people have more directly than something based on raw tags.<p>&nbsp;&ndash;&nbsp;[[User:Minh Nguyen|Minh <span style="font-variant: small-caps;">Nguyễn</span>]]&nbsp;<sup>[[User talk:Minh Nguyen|<span style="display: inline-block;">&#x1f4ac;</span>]]</sup> 08:18, 19 November 2022 (UTC)
+
+: Possible solution is {{t|Keylink2}} and {{t|Valuelink2}}. Examples:
+*{{T|Keylink2|building}} => {{Keylink2|building}}
+*{{t|Valuelink2|building|house}} => {{Valuelink2|building|house}}.
+:[[User:Something B|Something B]] ([[User talk:Something B|talk]]) 11:14, 18 August 2025 (UTC)
+
+== Cuisine tags ==
+
+Hi, Do you think the complementary tags like Cuisine with all its values should be added to the Map Features page?<br>
+I think we should add them, because it is a set of "in use" tags - https://wiki.openstreetmap.org/wiki/Key:cuisine commonly used, and this page should display all the OSM possible and commonly used tags. [[User:Angoca|AngocA]] ([[User talk:Angoca|talk]]) 23:18, 23 November 2022 (UTC)
+
+I've been editing the cuisine page recently. There are currently about 200 entries which is way too many to put on the Map features page, but I could throw together a top 10 or 20 list if someone wants. However I'm not familiar enough with the Map Features page and its use cases to know if cuisine information belongs here. Cuisine seems more like additional information than a feature. The restaurant, fast_food, and cafe entries already link to the cuisine page so people who might need to know about it have the chance to find the information already. [[User:Graptemys|Graptemys]] ([[User talk:Graptemys|talk]]) 17:15, 27 January 2023 (UTC)
+
+:No, that is not a good idea to add more values to this page. In fact we may need to remove some, split it or make more efficient. See https://wiki.openstreetmap.org/wiki/Talk:Wiki#Too_complex_wiki_pages [[User:Mateusz Konieczny|Mateusz Konieczny]] ([[User talk:Mateusz Konieczny|talk]]) 08:42, 28 March 2024 (UTC)
+
+== 现在编辑个Wiki的门槛太高了，那个taginfo真不是一般人玩得转。 ==
+
+研究了半天，发现这里的英文版的表格来源已经不是模板了，是taginfo。
+我又在Wiki研究半天，看如何编辑这个taginfo。
+哦，taginfo能本地化呀，但是我看好多语言还是用上一版的表格形式，没有理会这个taginfo。
+但是，如果就是加个lang=zh这么简单，他们能不用？
+说明书给了个.js的链接。打开文件粗看一眼，没见到与本地化有关的。
+终于，现在来到了g站taginfo的页面。
+看起来更复杂了，又是Ruby，又是curl二进制。
+「安装 Debian/Ubuntu 软件包」，哦豁，合着Windows用户不配搞这个taginfo。
+把taginfo本地化翻译的门槛拉高到了要会玩Linux。
+这个世界上真的有那么多同时：对制作地图感兴趣、对翻译感兴趣、对翻译在行、会玩Linux，的人吗？OSM基金会，你路走窄了。
+我也不是不行，但是翻出虚拟机也是麻烦。
+咱接着看，简单机翻了「如果要自己创建 taginfo 数据库，则需要安装 https://github.com/taginfo/taginfo-tools。有关详细信息，请参阅此处。 如果您只想运行 UI 并从其他位置获取数据库， 你不需要这个。」
+啥意思？翻译还要搞数据库？
+看了一下后面的部分我没得选，看看这个taginfo tools吧。
+嗯，又是一大堆头疼的命令。没说可以编辑喔。
+先跳过这个。回到taginfo。数据导入？我还没编辑喔。给了个链接，又回到了OSM Wiki。这，只有英文版的页面，看来不是很受欢迎。
+开头，访问数据？自己运行taginfo？我已经不知道我想干什么了。
+看了看目录，呃，更复杂了，没有一个小标题我看得懂如何操作。
+搞到这里，还有谁记得我研究这个taginfo是要干什么吗？ -- [[User:Bonanza5492|Bonanza5492]] 19:26, 2 July 2024 (UTC)
+: I think you message is off-topic here. You don't need either Linux or taginfo for translation. If you have trouble understanding Map Features templates, you can ask here. Also, please use English. [[User:Maro21|maro21]] 21:18, 2 July 2024 (UTC)
+: <code><nowiki>{{Taglist}}</nowiki></code>中的description调用自标签wiki页面，使用须确保相应标签wiki页存在<code><nowiki>{{Description}}</nowiki></code>且其中description字段可用。另，lang为<code>zh-hans</code>、<code>zh-hant</code>而非<code>zh</code>。——[[User:Lepus|Lepus]] ([[User talk:Lepus|talk]]) 13:16, 12 July 2024 (UTC)
+
+== About the Sport section ==
+
+Currently, the "[[{{SUBJECTPAGENAME}}#Sport|Sport]]" section of this page is placed under the "[[{{SUBJECTPAGENAME}}#Primary features|Primary features]]" section, even though {{key|sport}} is a secondary key — the section description itself acknowledges this: ''This is used to provide information about which sports are placed on a facility such as a pitch or stadium. It is intended to be used in conjunction with tags {{key|landuse}} or {{key|leisure}}.''. The tags for mapping primary features related to sports are already listed in the "[[{{SUBJECTPAGENAME}}#Sports|Sports]]" section.
+
+IMHO the "Sport" section should either me moved to be a subsection of the "[[{{SUBJECTPAGENAME}}#Properties|Properties]]" section, or (my preference) included as a single row in that table, with the top values shown as an inline list — as is already done with the {{TagKey|bridge}} (yes/aqueduct/viaduct/cantilever/movable/covered) and {{TagKey|crossing}} (no/traffic_signals/uncontrolled/island/unmarked) keys.
+
+Thoughts? --[[User:Waldyrious|Waldyrious]] ([[User talk:Waldyrious|talk]]) 14:29, 14 February 2025 (UTC)
+
+: Move to the secondary features in second section "Additional properties" would be correct, IMHO. I would keep the sports table, even if it's long. But that's kind of the point of the map features page. --[[User:Chris2map|Chris2map]] ([[User talk:Chris2map|talk]]) 17:40, 14 February 2025 (UTC)
+
+::Ruthlessly [https://wiki.openstreetmap.org/w/index.php?title=Map_features&diff=2824094&oldid=2823839 removed]. I would argue that this page needs less, not more, content: it is so bloated that it barely loads, particularly with the apparent bandwidth problem we have lately on the Wiki. [[User:Duja|Duja]] ([[User talk:Duja|talk]])
+
+== "[[Key:water]] is the primary way to represent water areas"? ==
+
+{{Ping|Waldyrious}} I don't think that's necessarily true. The [[Map features#Water]] section even has an additional note of ''"This is used to describe type of water body and is only used together with {{Tag|natural|water}}."''. So it's an [[iterative refinement]] scheme and not a feature tag. Why should it be an exception from other similar cases? There is already a [[Map features#Natural]] / [[Map features#Water related|Water related]] section. This page needs less content (or, more preferably, a solid makeover), not more content. I doubt some beginner mapper will use it when its so large it barely loads. --[[User:Dzamper|Dzamper]] ([[User talk:Dzamper|talk]]) 07:47, 19 March 2025 (UTC)
+
+:Apologies for the (very) late reply. I understand your point, but the OSM data model is not clean enough to justify sticking to a strict interpretation of what is a [[top-level tag]] or not as a way to determine what belongs in this overview page. As I mentioned in the summary of [[Special:Diff/2824809|my edit]], various water features that are drawn as areas have no way to be represented other than via the [[Key:water|water]] key, and there are several geographically significant items in that class (e.g. lakes, reservoirs, major rivers, etc.) which aren't covered in neither the [[Map features#Waterways|§ Waterways]] nor in the [[Map features#Water related|§ Natural § water-related]] sections that IMO justify making them explicitly listed in this page. [[User:Waldyrious|Waldyrious]] ([[User talk:Waldyrious|talk]]) 14:02, 18 August 2026 (UTC)
+
+== Would it be better to replace the second image for highway=residential? ==
+
+Is https://wiki.openstreetmap.org/wiki/File:2014-06-09_15_19_50_Main_Street,_an_unpaved_road_with_a_curb,_in_Elko,_Nevada.JPG really suitable for a highway=residential? Residential was the classification of the TIGER import, but it was changed to highway=unclassified since then, please see https://www.openstreetmap.org/way/14362781/history
+--[[User:Vincentius|Vincentius]] ([[User talk:Vincentius|talk]]) 16:01, 23 June 2025 (UTC)
+
+== Broken images ==
+
+A number of images are broken. This is happening due to the {{tl|taglist}}s that fetch the image metadata from the taginfo API. [https://github.com/taginfo/taginfo/issues/496] [[User:Minh Nguyen|Minh <span style="font-variant: small-caps;">Nguyễn</span>]]&nbsp;<sup>[[User talk:Minh Nguyen|<span style="display: inline-block;">&#x1f4ac;</span>]]</sup> 01:01, 23 April 2026 (UTC)
+
+== Converting the amenity table to Taglist ==
+
+I have prepared a Taglist-based version of {{tl|Map Features:amenity}}, following the recipe at [[Taginfo/Taglists/Wiki project]]: see [[User:MiMoHo/Map Features amenity taglist draft]].
+
+It is a strict 1:1 conversion: the same 10 subsections and the same 137 values as the current hand-maintained table, with <code>with_rendering=true</code> and translatable section headers kept as template parameters. I checked all 137 values against taginfo — every one has a documented wiki page and usage count ≥ 1, so no entry would be lost by the switch. The only thing that cannot be reproduced is the final "user defined" row, which I would replace with a short sentence linking to the full taginfo value list. Which tags are listed stays exactly as it is now; that question is deliberately out of scope here.
+
+Rationale: the hand-maintained table regularly lags behind newly documented tags, while the Taglist version stays current automatically for descriptions and images.
+
+I am aware that the leisure table was converted back from Taglist to a hand-maintained table in March 2024, and healthcare similarly earlier. If there are reasons that apply to amenity as well, I would like to hear them before deploying. Otherwise I plan to switch the template around '''18 July 2026''', following the documented procedure (first creating {{tl|Generic:Map Features:amenity}} as a fallback so translated pages keep working). --[[User:MiMoHo|MiMoHo]] ([[User talk:MiMoHo|talk]]) 21:01, 4 July 2026 (UTC)
