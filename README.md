@@ -1352,3 +1352,526 @@
 <li>Do not share my personal information</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-plogo-horizontal.svg" alt="Panasonic"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"holdings-header__nav__list"} -->
+<ul class="wp-block-list holdings-header__nav__list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"holdings-header__rel__list"} -->
+<ul class="wp-block-list holdings-header__rel__list"><!-- wp:list-item -->
+<li><a class="item-link " href="https://www2.panasonic.biz/jp/"></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="item-link " href="https://holdings.panasonic/global/corporate/about.html"></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://panasonic.net/electricworks/"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-plogo-horizontal.svg" alt="Panasonic"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"holdings-header__nav__list"} -->
+<ul class="wp-block-list holdings-header__nav__list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"holdings-header__rel__list"} -->
+<ul class="wp-block-list holdings-header__rel__list"><!-- wp:list-item -->
+<li>usage on other wikis<br>The following other wikis use this file:<br>Usage on ar.wikipedia.org<a class="external" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D9%84%D9%88%D9%8A%D9%8A">محافظة لويي</a><br><a class="external" href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D8%AE%D8%AA%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%8A%D8%A9">قائمة أختام المحافظات التايلاندية</a><br>Usage on ban.wikipedia.org<a class="external" href="https://ban.wikipedia.org/wiki/Propinsi_ring_Thailand">Propinsi ring Thailand</a><br>Usage on bn.wikipedia.org<a class="external" href="https://bn.wikipedia.org/wiki/%E0%A6%A5%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B6">থাইল্যান্ডের প্রদেশ</a><br>Usage on bo.wikipedia.org<a class="external" href="https://bo.wikipedia.org/wiki/%E0%BD%A3%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%9E%E0%BD%B2%E0%BD%84%E0%BC%8B%E0%BD%86%E0%BD%BA%E0%BD%93%E0%BC%8D">ལོའི་ཞིང་ཆེན།</a><br>Usage on bpy.wikipedia.org<a class="external" href="https://bpy.wikipedia.org/wiki/%E0%A6%A5%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B0_%E0%A6%9A%E0%A6%BE%E0%A6%82%E0%A7%B1%E0%A6%BE%E0%A6%A4%E0%A6%B0_%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A7%8E%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF">থাইল্যান্ডর চাংৱাতর চিনৎহানি</a><br>Usage on ceb.wikipedia.org<a class="external" href="https://ceb.wikipedia.org/wiki/Changwat_Loei_(lalawigan_sa_Thayland)">Changwat Loei (lalawigan sa Thayland)</a><br>Usage on de.wikipedia.org<a class="external" href="https://de.wikipedia.org/wiki/Loei_(Provinz)">Loei (Provinz)</a><br><a class="external" href="https://de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Amphoe_Loei">Vorlage:Navigationsleiste Amphoe Loei</a><br><a class="external" href="https://de.wikipedia.org/wiki/Kategorie:Amphoe_von_Loei">Kategorie:Amphoe von Loei</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Chiang_Khan">Amphoe Chiang Khan</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Dan_Sai">Amphoe Dan Sai</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Pak_Chom">Amphoe Pak Chom</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Na_Duang">Amphoe Na Duang</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Ruea">Amphoe Phu Ruea</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Erawan">Amphoe Erawan</a><br><a class="external" href="https://de.wikipedia.org/wiki/Siegel_der_Provinzen_Thailands">Siegel der Provinzen Thailands</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Kradueng">Amphoe Phu Kradueng</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Nong_Hin">Amphoe Nong Hin</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Wang_Saphung">Amphoe Wang Saphung</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Pha_Khao">Amphoe Pha Khao</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Luang">Amphoe Phu Luang</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Na_Haeo">Amphoe Na Haeo</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Tha_Li">Amphoe Tha Li</a><br><a class="external" href="https://de.wikipedia.org/wiki/Amphoe_Mueang_Loei">Amphoe Mueang Loei</a><br>Usage on en.wikipedia.org<a class="external" href="https://en.wikipedia.org/wiki/Isan">Isan</a><br><a class="external" href="https://en.wikipedia.org/wiki/Provinces_of_Thailand">Provinces of Thailand</a><br><a class="external" href="https://en.wikipedia.org/wiki/Loei_province">Loei province</a><br><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:Graphics_Lab/Illustration_workshop/Archive/May_2012">Wikipedia:Graphics Lab/Illustration workshop/Archive/May 2012</a><br><a class="external" href="https://en.wikipedia.org/wiki/Yok_Siam_Year_1">Yok Siam Year 1</a><br><a class="external" href="https://en.wikipedia.org/wiki/2012_Thailand_National_Games">2012 Thailand National Games</a><br><a class="external" href="https://en.wikipedia.org/wiki/2011_Thailand_National_Games">2011 Thailand National Games</a><br><a class="external" href="https://en.wikipedia.org/wiki/2010_Thailand_National_Games">2010 Thailand National Games</a><br><a class="external" href="https://en.wikipedia.org/wiki/Administrative_divisions_of_Thailand">Administrative divisions of Thailand</a><br>Usage on es.wikipedia.org<a class="external" href="https://es.wikipedia.org/wiki/Provincia_de_Loei">Provincia de Loei</a><br><a class="external" href="https://es.wikipedia.org/wiki/Plantilla:Geodatos_Provincia_de_Loei">Plantilla:Geodatos Provincia de Loei</a><br>Usage on fa.wikipedia.org<a class="external" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%A7%DB%8C%D9%84%D9%86%D8%AF">استان‌های تایلند</a><br><a class="external" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%88%D8%A6%DB%8C">استان لوئی</a><br>Usage on frr.wikipedia.org<a class="external" href="https://frr.wikipedia.org/wiki/Prowins_Loei">Prowins Loei</a><br>Usage on fr.wikipedia.org<a class="external" href="https://fr.wikipedia.org/wiki/Province_de_Loei">Province de Loei</a><br>Usage on hi.wikipedia.org<a class="external" href="https://hi.wikipedia.org/wiki/%E0%A4%A5%E0%A4%BE%E0%A4%88%E0%A4%B2%E0%A5%88%E0%A4%A3%E0%A5%8D%E0%A4%A1_%E0%A4%95%E0%A5%87_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4">थाईलैण्ड के प्रान्त</a><br>Usage on hu.wikipedia.org<a class="external" href="https://hu.wikipedia.org/wiki/Thaif%C3%B6ld_tartom%C3%A1nyainak_list%C3%A1ja">Thaiföld tartományainak listája</a><br>Usage on id.wikipedia.org<a class="external" href="https://id.wikipedia.org/wiki/Provinsi_di_Thailand">Provinsi di Thailand</a><br><a class="external" href="https://id.wikipedia.org/wiki/Provinsi_Loei">Provinsi Loei</a><br>Usage on it.wikipedia.org<a class="external" href="https://it.wikipedia.org/wiki/Provincia_di_Loei">Provincia di Loei</a><br>Usage on ja.wikipedia.org<a class="external" href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%A4%E7%9C%8C">ルーイ県</a><br>Usage on ka.wikipedia.org<a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%94%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90">ლეის პროვინცია</a><br>Usage on km.wikipedia.org<a class="external" href="https://km.wikipedia.org/wiki/%E1%9E%81%E1%9F%81%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%93%E1%9F%83%E1%9E%90%E1%9F%83">ខេត្តនៃថៃ</a><br><a class="external" href="https://km.wikipedia.org/wiki/%E1%9E%85%E1%9E%84%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%8F%E1%9E%93%E1%9F%83%E1%9E%90%E1%9F%83">ចង្វាតនៃថៃ</a><br><a class="external" href="https://km.wikipedia.org/wiki/%E1%9E%81%E1%9F%81%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%9B%E1%9E%BE%E1%9E%99">ខេត្តលើយ</a><br>View <a href="https://commons.wikimedia.org/wiki/Special:GlobalUsage/Seal_Loei.png">more global usage</a> of this file.<br><a class="oo-ui-buttonElement-button"></a><br><br><a href="https://www.wikidata.org/wiki/Special:EntityPage/P180" target="_blank" rel="noreferrer noopener"></a><br><a class="oo-ui-buttonElement-button"></a><br><br><br>from Wikidata<br>Custom value<br>Some value<br>No value<br><br><br><a href="https://www.wikidata.org/wiki/Special:EntityPage/P571" target="_blank" rel="noreferrer noopener"></a><br><a class="oo-ui-buttonElement-button"></a><br><br><a class="wbmi-entity-primary
+						
+						wbmi-entity-mark-as-prominent" href="https://commons.wikimedia.org/wiki/File:Seal_Loei.png#"></a><br><br><br><a class="oo-ui-buttonElement-button"></a><br><a href="https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Categories">Category</a>: <a href="https://commons.wikimedia.org/wiki/Category:Seals_of_Loei_Province">Seals of Loei Province</a><br>Hidden categories: <a href="https://commons.wikimedia.org/wiki/Category:Emblem_images_that_should_use_vector_graphics">Emblem images that should use vector graphics</a><br><a href="https://commons.wikimedia.org/wiki/Category:PNG_that_should_use_vector_graphics">PNG that should use vector graphics</a><br><a href="https://commons.wikimedia.org/wiki/Category:PD-TH-exempt_(logos_and_emblems)">PD-TH-exempt (logos and emblems)</a><br><a href="https://commons.wikimedia.org/wiki/Category:With_insignia">With insignia</a><br>This page was last edited on 26 June 2025, at 07:41.<br>Files are available under licenses specified on their description page. All structured data from the file namespace is available under the <a class="external text" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 License</a>; all unstructured text is available under the <a class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. By using this site, you agree to the <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and the <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>.<a class="item-link" href="https://www2.panasonic.biz/jp/"></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="item-link " href="https://holdings.panasonic/global/corporate/about.html"></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="javascript:void(0)" class="holdings-header__sp-switcher js-header-switcher"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/" class="lighting-header__home">หน้าหลัก</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="javascript:void(0)" class="lighting-header__lang-switcher__label js-lang-switch">ไทย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"common-modal__title"} -->
+<h2 class="wp-block-heading common-modal__title"></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"className":"common-modal__block__title"} -->
+<h3 class="wp-block-heading common-modal__block__title"></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;India&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Indonesia&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Malaysia&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Philippines&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Singapore&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Thailand&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Vietnam&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-modal__block__title"} -->
+<h3 class="wp-block-heading common-modal__block__title"></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/en_th/sdgs/" class="common-button__link common-button__link--color01"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/sdgs/" class="common-button__link common-button__link--color01"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="javascript:void(0)" class="common-modal__close js-lang-close"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon03.png" alt="7"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon04.png" alt="8"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon08.png" alt="13"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1,"className":"common-heading__label"} -->
+<h1 class="wp-block-heading common-heading__label">การริเริ่มด้าน SDG โดยอุปกรณ์ส่องสว่างของ<br class="utility-dn-pc" />พานาโซนิค</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ปรับปรุงสิ่งแวดล้อมโลก สังคม และการดำรงชีวิตให้ดีขึ้น<br />สู่ความยั่งยืนด้วยแสงสว่าง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">การมีส่วนร่วมใน SDGs ด้วยแสงสว่างและเทคโนโลยี</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image01.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">แผนกอุปกรณ์ส่องสว่างของ Panasonic Electric Works ได้นำเทคโนโลยีและโนวฮาวที่สั่งสมผ่านธุรกิจอุปกรณ์ส่องสว่าง มาส่งเสริมการริเริ่มในการปรับปรุงสิ่งแวดล้อม สังคม และการดำรงชีวิต และพัฒนาผลิตภัณฑ์ที่สนับสนุน SDGs (เป้าหมายการพัฒนาที่ยั่งยืน) ซึ่งเป็นที่ตกลงร่วมกันในระดับสากล</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"sdgs-measures__title js-sdgs-toggle"} -->
+<h2 class="wp-block-heading sdgs-measures__title js-sdgs-toggle">เลือกมาตรการที่เกี่ยวข้อง</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">การริเริ่มที่มุ่งลดการปล่อย CO2 ที่ไซต์การผลิตให้เป็นศูนย์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ที่โรงงานหมายเลข 2 ของเราในจังหวัดนีกาตะ (ประเทศญี่ปุ่น) เรากำลังเร่งการริเริ่มเพื่ออนุรักษ์พลังงาน สร้างพลังงาน และใช้พลังงานหมุนเวียน โดยมีเป้าหมายที่จะปล่อย CO2 เป็นศูนย์ภายในปีงบประมาณ 2024</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image02.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">แผนกอุปกรณ์ส่องสว่างมีโรงงานหลักซึ่งเป็นหนึ่งในโรงงานที่ใหญ่ที่สุดในกลุ่มโรงงานประเภทเดียวกับ ซึ่งผลิตไฟฐาน ไฟนำทาง และอื่น ๆ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image03.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">เทคโนโลยีอุตสาหกรรมและไฟ LED ทำให้เราสามารถลดการปล่อย CO2 ของทั้งโรงงานนีกาตะลงได้ถึง 32.5% (*) (หน่วยการบริโภค)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"common-paragraph common-paragraph\u002d\u002dnote"} -->
+<p class="common-paragraph common-paragraph--note">(*) เทียบกับปีงบประมาณ 2020 และอ้างอิงจากมูลค่าปีงบประมาณ 2012</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image04.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">เรามุ่งที่จะประหยัดพลังงานให้ได้มากขึ้นโดยการควบคุมและการออกแบบอุปกรณ์ส่องสว่าง และปรับปรุงมูลค่าเชิงพื้นที่ของโรงงานไปพร้อมกัน ซึ่งเป็นส่วนหนึ่งของการริเริ่มใหม่ของเรา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image05.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon01.png" alt="3"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon02.png" alt="4"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ทำให้พื้นที่การเรียนรู้สะดวกสบายยิ่งขึ้น</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">สร้างพื้นที่การเรียนรู้ให้สะดวกสบายด้วยแสงสว่างที่เหมาะสมและไม่มีมลพิษทางแสง (RG0)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image06.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon03.png" alt="7"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon05.png" alt="9"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon08.png" alt="13"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ส่งเสริมการลดการปล่อยคาร์บอนด้วยการออกแบบความสว่างและการใช้อุปกรณ์ส่องสว่างที่เหมาะกับสถานที่</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ส่งเสริมการลดการปล่อยคาร์บอนด้วยการออกแบบความสว่าง โดยเริ่มจากการนำดัชนีความสว่างของพื้นที่ "Feu" มาใช้ และการออกแบบอุปกรณ์ส่องสว่างที่มุ่งเน้นไปที่การใช้อุปกรณ์ส่องสว่างที่เหมาะกับสถานที่โดยคำนึงถึงงานและแสงสว่างโดยรอบ และเรายังสนับสนุนการออกแบบที่ใช้ DIALux ด้วยเว็บไซต์แนะนำ<a href="https://panasonic.net/electricworks/lighting/dialux-plugin/" target="_blank" rel="noreferrer noopener">ปลั๊กอิน DIALux</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image13.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>*รูปอุปกรณ์ส่องสว่างใช้เพื่อเป็นตัวอย่างเท่านั้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon03.png" alt="7"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon08.png" alt="13"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ใช้ประโยชน์จากพลังงานหมุนเวียน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">เราใช้พลังแสงอาทิตย์ในการผลิตไฟฟ้า แล้วใช้ไฟฟ้าดังกล่าวอย่างมีประสิทธิภาพในการให้แสงสว่าง อีกทั้งยังมีบทบาทสำคัญเมื่อเกิดภัยพิบัติ และแสงสว่างแบบประหยัดพลังงานเหล่านี้ยังมีส่วนช่วยในการรักษาสิ่งแวดล้อมของโลกอีกด้วยเว็บไซต์แนะนำ<a href="https://panasonic.net/electricworks/lighting/th/solutions/street/">ระบบแสงสว่างสำหรับถนน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image07.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon03.png" alt="7"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon04.png" alt="8"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon05.png" alt="9"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon08.png" alt="13"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">อุปกรณ์ส่องสว่างที่ปรับความสว่างและอุณหภูมิสีได้</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ลดการปล่อยคาร์บอนโดยส่งมอบผลิตภัณฑ์มูลค่าเพิ่มที่สามารถปรับความสว่างและอุณหภูมิสีได้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image08.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon04.png" alt="8"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">อุปกรณ์ส่องสว่างที่ออกแบบมาสำหรับพื้นที่สำนักงานหลากหลายประเภท</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ตระหนักถึงความเป็นพื้นที่สำนักงานที่สะดวกสบาย ซึ่งกระตุ้นการสื่อสารและเพิ่มสมาธิผ่านรูปแบบอุปกรณ์ส่องสว่างที่หลากหลาย ตั้งแต่การติดตั้งใหม่ไปจนถึงการปรับปรุงใหม่เว็บไซต์แนะนำ<a href="https://panasonic.net/electricworks/lighting/th/solutions/office/">โซลูชั่นอุปกรณ์ส่องสว่างในสำนักงาน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image09.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon05.png" alt="9"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon06.png" alt="11"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">โซลูชั่นไฟ LED อัจฉริยะสำหรับ "เมืองอัจฉริยะ"</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">พานาโซนิคมุ่งมั่นที่จะนำเสนอโซลูชั่นอุปกรณ์ส่องสว่างที่ดีขึ้นอย่างต่อเนื่อง เพื่อทำให้เมืองมีความสะดวกสบายและยั่งยืนยิ่งขึ้นเว็บไซต์แนะนำ<a href="https://panasonic.net/electricworks/job-references/id_19_streetlight/" target="_blank" rel="noreferrer noopener">ไฟ LED อัจฉริยะ (จาการ์ตา อินโดนีเซีย)</a><a href="https://panasonic.net/electricworks/job-references/in_21_streetlight/" target="_blank" rel="noreferrer noopener">โซลูชั่นไฟ LED อัจฉริยะ (มหาราษฏระ อินเดีย)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image10.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon06.png" alt="11"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon09.png" alt="17"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ไฟ LED ที่ช่วยลดมลพิษทางแสงและให้เพลิดเพลินกับท้องฟ้ายามค่ำคืนได้</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">นี่เป็นการจัดไฟส่องสว่างที่ได้รับใบรับรอง International Dark Sky Community ภายใต้โครงการ International Dark Sky Places® เป็นครั้งแรกในญี่ปุ่น ให้สามารถมาเพลิดเพลินกับท้องฟ้าที่เต็มไปด้วยดวงดาวอันงดงามได้เว็บไซต์แนะนำ<a href="https://panasonic.net/electricworks/job-references/jp_20_bisei/" target="_blank" rel="noreferrer noopener">ไฟถนนแบบควบคุมมลพิษทางแสง (โอกายามะ ญี่ปุ่น)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image11.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon07.png" alt="12"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon08.png" alt="13"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ทำให้แน่ใจว่าอุปกรณ์ส่องสว่างเป็นมิตรต่อ<br />งแวดล้อม ในทุกชิ้นส่วนและทุกวัสดุในผลิตภัณฑ์<br />ของเรา</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">เราพยายามอย่างเต็มที่เพื่อลดวัสดุที่เป็นอันตรายต่อสิ่งแวดล้อมในผลิตภัณฑ์ของเรา และปฏิบัติตามข้อกำหนด RoHS อย่างเคร่งครัด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/image12.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon07.png" alt="12"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/sdgs/img/icon08.png" alt="13"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ให้ความสำคัญกับการใช้พลังงานในการขนส่งผลิตภัณฑ์<br />และการกำจัดวัสดุบรรจุภัณฑ์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ลดผลกระทบต่อสิ่งแวดล้อมจากการก่อสร้างและการขนส่งโดยลดขนาดโคมไฟและลดน้ำหนักของวัสดุบรรจุภัณฑ์ และช่วยลดของเสียจากบรรจุภัณฑ์โดยการใช้บรรจุภัณฑ์ที่เรียบง่าย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"sdgs-icon-wrap"} -->
+<ul class="wp-block-list sdgs-icon-wrap"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ดูเพิ่มเติม</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/common/img/image_discover01_pc.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/common/img/image_discover02_pc.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/solutions/" class="common-panel common-panel--overlay">โซลูชั่น</a><a href="https://panasonic.net/electricworks/lighting/th/case/" class="common-panel common-panel--overlay">กรณีศึกษา</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"holdings-footer__links__list"} -->
+<ul class="wp-block-list holdings-footer__links__list"><!-- wp:list-item -->
+<li><a href="https://panasonic.net/ew/terms-of-use.html">Terms of Use</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://holdings.panasonic/global/web-accessibility.html" target="_blank" rel="noreferrer noopener">Web Accessibility Policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://panasonic.net/ew/privacy-policy.html">Privacy Policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://panasonic.net/ew/cookie-policy.html">Cookie Policy</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-areacountry.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://holdings.panasonic/global/gateway.html">Area/Country</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>© Panasonic Electric Works Co., Ltd.</p>
+<!-- /wp:paragraph -->
