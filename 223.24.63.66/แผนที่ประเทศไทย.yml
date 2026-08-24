@@ -1,0 +1,59 @@
+https://ratchakitcha.soc.go.th/
+{{languages|Main Page}}
+<div style="width:100%;display: flex;flex-direction: row;flex-wrap: wrap;">
+<div style="font-family:Georgia, serif; font-style:italic; font-size:16px; padding:10px; line-height:25px;flex: 1 1 250px;"> '''Welcome to OpenStreetMap''', the project that creates and distributes [https://www.openstreetmap.org/copyright free] geographic data for the world. We started it because most maps you think of as free actually have legal or technical restrictions on their use, holding back people from using them in creative, productive, or unexpected ways.
+'''[[About OpenStreetMap|More about OpenStreetMap]]''' | '''[[How to contribute]]''' | '''[[Help|Where to get help]]'''
+</div>
+<div style="flex: 0 1 auto; margin-top: 16px;">[[File:Openstreetmap logo.svg|100px|link=https://osm.org|alt=Link to the OpenStreetMap main website]]</div>
+</div><!-- 
+*********
+
+PLEASE DISCUSS FIRST!
+
+Always add a discussion point to  "Talk:Main Page"  before making any changes to this page
+
+*********
+-->
+<div role="presentation" style="margin: 0;border:0;width:100%;display: flex;flex-direction: row;flex-wrap: wrap;">
+<div style="border:1px solid #aaaaaa;flex: 1 1 250px;margin: 5px;margin-left: 5px;">
+<center style="background-color:#7772; padding: 10px;">'''Use OpenStreetMap'''</center>
+[[Image:Openstreetmap_logo.svg|80px|center|link=|alt=]]
+<center style=""><big>[[Using OpenStreetMap]]</big></center>
+<div style="margin:10px">
+----</div><div style="margin:10px">
+* [[Browsing|Browse]] our [https://www.openstreetmap.org world map]
+* Check the ready-to-use products for your [[Software#Mobile Devices|mobile device]], your [[Software#Desktop software|desktop computer]] or the [[List of OSM based Services|web services]]
+* ...'''[[Use OpenStreetMap|more on using OpenStreetMap]]'''
+</div></div>
+<div style="border:1px solid #aaaaaa;flex: 1 1 250px;margin: 5px;margin-left: 5px;">
+<center style="background-color:#7772; padding: 10px;">'''Contribute free map data'''</center>
+[[Image:Nuvola_web_pen.svg|x80px|center|link=]]
+<center style=""><big>[[Beginners' Guide]]</big></center>
+<div style="margin:10px">
+----</div><div style="margin:10px">
+* Browse the [[Map_Features|map feature documentation]]
+* Browse the [[Mapping projects]]
+* ...'''[[Contribute map data|more on contributing map data]]'''
+</div></div>
+<div style="border:1px solid #aaaaaa;flex: 1 1 250px;margin: 5px;margin-left: 5px;">
+<center style="background-color:#7772; padding: 10px;">'''Software Development'''</center>
+[[Image:Preferences-system.svg|x80px|center|link=]]
+<center style=""><big>[[Develop|Develop and use the Platform]]</big></center>
+<div style="margin:10px">
+----</div><div style="margin:10px">
+* Use OpenStreetMap for your software
+* Contribute to the OpenStreetMap software
+</div></div>
+</div>
+
+<div role="presentation" style="margin: 0;border:0;width:100%;display: flex;flex-direction: row;flex-wrap: wrap;">
+<div style="flex: 1 1 250px;">
+{{News}}
+{{osm_metainfo}}
+</div><div style="flex: 1 1 250px;">
+{{Calendar3|count=50}}
+</div>
+</div>
+<!-- No summary and edit links -->__NOTOC__ __NOEDITSECTION__
+
+[[Category:Administrative]]
