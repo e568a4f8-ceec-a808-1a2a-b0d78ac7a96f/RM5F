@@ -588,3 +588,6 @@
 
 <img width="719" height="986" alt="9782" src="https://github.com/user-attachments/assets/a059c91a-cd22-4d23-bba8-fda896b1e8de" />
 # https://acrobat.adobe.com/id/urn:aaid:sc:AP:583e08cf-f09d-4138-96b6-4ad562d1d855
+<img width="249" height="46" alt="9791" src="https://github.com/user-attachments/assets/344c04b2-68ca-4183-9709-baeeaa64d173" />
+<img width="629" height="583" alt="9790" src="https://github.com/user-attachments/assets/05441667-5ecf-4c8e-b5b1-a9805290704a" />
+# https://justnikhill.github.io/Windows-11/
