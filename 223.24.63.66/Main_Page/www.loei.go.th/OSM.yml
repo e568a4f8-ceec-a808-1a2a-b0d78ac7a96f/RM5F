@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>OpenStreetMap GPS Traces</title>
+    <description>OpenStreetMap GPS Traces</description>
+    <link>https://www.openstreetmap.org/traces</link>
+    <image>
+      <url>https://www.openstreetmap.org/assets/osm_logo_100-2973595662b8a92522b315b6c69bf5ee9bec75e07d702c5932f114c44a6251ea.png</url>
+      <title>OpenStreetMap GPS Traces</title>
+      <width>100</width>
+      <height>100</height>
+      <link>https://www.openstreetmap.org/traces</link>
+    </image>
+    <item>
+      <title>20260824Marche.gpx</title>
+      <link>https://www.openstreetmap.org/user/Flanel/traces/12458484</link>
+      <guid>https://www.openstreetmap.org/user/Flanel/traces/12458484</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/Flanel/traces/12458484/icon" />
+แฟ้มข้อมูล GPX จำนวน 1616 จุด จากผู้ใช้ Flanel
+]]>
+      </description>
+      <dc:creator>Flanel</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:54:21 +0000</pubDate>
+      <geo:lat>-20.95863914489746</geo:lat>
+      <geo:long>55.327484130859375</geo:long>
+      <georss:point>-20.95863914489746 55.327484130859375</georss:point>
+    </item>
+    <item>
+      <title>Sob_tuchy_MTB_2026_08_20_10_11_001.gpx</title>
+      <link>https://www.openstreetmap.org/user/Trupiiik/traces/12458479</link>
+      <guid>https://www.openstreetmap.org/user/Trupiiik/traces/12458479</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/Trupiiik/traces/12458479/icon" />
+แฟ้มข้อมูล GPX จำนวน 7595 จุด จากผู้ใช้ Trupiiik
+]]>
+      </description>
+      <dc:creator>Trupiiik</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:46:41 +0000</pubDate>
+      <geo:lat>49.9453671</geo:lat>
+      <geo:long>15.7617676</geo:long>
+      <georss:point>49.9453671 15.7617676</georss:point>
+    </item>
+    <item>
+      <title>Bus___Melton_to_Caroline_Springs_2026_08_22_13_23_24.gpx</title>
+      <link>https://www.openstreetmap.org/user/melbournefan/traces/12458474</link>
+      <guid>https://www.openstreetmap.org/user/melbournefan/traces/12458474</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/melbournefan/traces/12458474/icon" />
+แฟ้มข้อมูล GPX จำนวน 1597 จุด จากผู้ใช้ melbournefan
+]]>
+      </description>
+      <dc:creator>melbournefan</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:28:03 +0000</pubDate>
+      <geo:lat>-37.702655884507905</geo:lat>
+      <geo:long>144.5724103055495</geo:long>
+      <georss:point>-37.702655884507905 144.5724103055495</georss:point>
+    </item>
+    <item>
+      <title>Route_460_Bus___Caroline_Springs_to_Watergardens_2026_08_22_14_35_20.gpx</title>
+      <link>https://www.openstreetmap.org/user/melbournefan/traces/12458472</link>
+      <guid>https://www.openstreetmap.org/user/melbournefan/traces/12458472</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/melbournefan/traces/12458472/icon" />
+แฟ้มข้อมูล GPX จำนวน 1042 จุด จากผู้ใช้ melbournefan
+]]>
+      </description>
+      <dc:creator>melbournefan</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:27:26 +0000</pubDate>
+      <geo:lat>-37.76582045459079</geo:lat>
+      <geo:long>144.7369420873817</geo:long>
+      <georss:point>-37.76582045459079 144.7369420873817</georss:point>
+    </item>
+    <item>
+      <title>Train___Watergardens_to_Footscray_2026_08_22_15_08_39.gpx</title>
+      <link>https://www.openstreetmap.org/user/melbournefan/traces/12458471</link>
+      <guid>https://www.openstreetmap.org/user/melbournefan/traces/12458471</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/melbournefan/traces/12458471/icon" />
+แฟ้มข้อมูล GPX จำนวน 976 จุด จากผู้ใช้ melbournefan
+]]>
+      </description>
+      <dc:creator>melbournefan</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:26:15 +0000</pubDate>
+      <geo:lat>-37.702247469935756</geo:lat>
+      <geo:long>144.77500342471194</geo:long>
+      <georss:point>-37.702247469935756 144.77500342471194</georss:point>
+    </item>
+    <item>
+      <title>192_Bus_from_Wyndham_Vale_to_Werribee_2026_08_23_13_13_07.gpx</title>
+      <link>https://www.openstreetmap.org/user/melbournefan/traces/12458470</link>
+      <guid>https://www.openstreetmap.org/user/melbournefan/traces/12458470</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/melbournefan/traces/12458470/icon" />
+แฟ้มข้อมูล GPX จำนวน 893 จุด จากผู้ใช้ melbournefan
+]]>
+      </description>
+      <dc:creator>melbournefan</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:25:28 +0000</pubDate>
+      <geo:lat>-37.876523084898984</geo:lat>
+      <geo:long>144.60827036128606</geo:long>
+      <georss:point>-37.876523084898984 144.60827036128606</georss:point>
+    </item>
+    <item>
+      <title>Train_from_Werribee_to_Southern_Cross_2026_08_23_13_37_50.gpx</title>
+      <link>https://www.openstreetmap.org/user/melbournefan/traces/12458469</link>
+      <guid>https://www.openstreetmap.org/user/melbournefan/traces/12458469</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/melbournefan/traces/12458469/icon" />
+แฟ้มข้อมูล GPX จำนวน 2350 จุด จากผู้ใช้ melbournefan
+]]>
+      </description>
+      <dc:creator>melbournefan</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:24:42 +0000</pubDate>
+      <geo:lat>-37.89935852651523</geo:lat>
+      <geo:long>144.66113826629407</geo:long>
+      <georss:point>-37.89935852651523 144.66113826629407</georss:point>
+    </item>
+    <item>
+      <title>Kensington_walk_2026_08_23_17_30_22.gpx</title>
+      <link>https://www.openstreetmap.org/user/melbournefan/traces/12458468</link>
+      <guid>https://www.openstreetmap.org/user/melbournefan/traces/12458468</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/melbournefan/traces/12458468/icon" />
+แฟ้มข้อมูล GPX จำนวน 69 จุด จากผู้ใช้ melbournefan
+]]>
+      </description>
+      <dc:creator>melbournefan</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:23:10 +0000</pubDate>
+      <geo:lat>-37.794542415822846</geo:lat>
+      <geo:long>144.93179638767234</geo:long>
+      <georss:point>-37.794542415822846 144.93179638767234</georss:point>
+    </item>
+    <item>
+      <title>2026_08_23_18_02_Sun.gpx</title>
+      <link>https://www.openstreetmap.org/user/komaares/traces/12458466</link>
+      <guid>https://www.openstreetmap.org/user/komaares/traces/12458466</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/komaares/traces/12458466/icon" />
+แฟ้มข้อมูล GPX จำนวน 59 จุด จากผู้ใช้ komaares
+]]>
+      </description>
+      <dc:creator>komaares</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:19:00 +0000</pubDate>
+      <geo:lat>51.6079734</geo:lat>
+      <geo:long>10.3245703</geo:long>
+      <georss:point>51.6079734 10.3245703</georss:point>
+    </item>
+    <item>
+      <title>2026_08_22_14_02_Sat.gpx</title>
+      <link>https://www.openstreetmap.org/user/Alexis%20Gureev/traces/12458464</link>
+      <guid>https://www.openstreetmap.org/user/Alexis%20Gureev/traces/12458464</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/Alexis%20Gureev/traces/12458464/icon" />
+แฟ้มข้อมูล GPX จำนวน 12997 จุด จากผู้ใช้ Alexis Gureev
+]]>
+      </description>
+      <dc:creator>Alexis Gureev</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:15:44 +0000</pubDate>
+      <geo:lat>61.1094918</geo:lat>
+      <geo:long>29.1656244</geo:long>
+      <georss:point>61.1094918 29.1656244</georss:point>
+    </item>
+    <item>
+      <title>activity_23649807222.gpx</title>
+      <link>https://www.openstreetmap.org/user/igerstep/traces/12458463</link>
+      <guid>https://www.openstreetmap.org/user/igerstep/traces/12458463</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/igerstep/traces/12458463/icon" />
+แฟ้มข้อมูล GPX จำนวน 10974 จุด จากผู้ใช้ igerstep
+]]>
+      </description>
+      <dc:creator>igerstep</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:09:12 +0000</pubDate>
+      <geo:lat>-31.995501285418868</geo:lat>
+      <geo:long>115.54133735597134</geo:long>
+      <georss:point>-31.995501285418868 115.54133735597134</georss:point>
+    </item>
+    <item>
+      <title>2026_08_23_18_10.__OSM_..gpx</title>
+      <link>https://www.openstreetmap.org/user/komaares/traces/12458462</link>
+      <guid>https://www.openstreetmap.org/user/komaares/traces/12458462</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/komaares/traces/12458462/icon" />
+แฟ้มข้อมูล GPX จำนวน 40 จุด จากผู้ใช้ komaares
+]]>
+      </description>
+      <dc:creator>komaares</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:07:22 +0000</pubDate>
+      <geo:lat>51.6079852</geo:lat>
+      <geo:long>10.3244613</geo:long>
+      <georss:point>51.6079852 10.3244613</georss:point>
+    </item>
+    <item>
+      <title>activity_22336455209.gpx</title>
+      <link>https://www.openstreetmap.org/user/igerstep/traces/12458460</link>
+      <guid>https://www.openstreetmap.org/user/igerstep/traces/12458460</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/igerstep/traces/12458460/icon" />
+แฟ้มข้อมูล GPX จำนวน 19720 จุด จากผู้ใช้ igerstep
+]]>
+      </description>
+      <dc:creator>igerstep</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:05:05 +0000</pubDate>
+      <geo:lat>-31.900752000510693</geo:lat>
+      <geo:long>115.8765035122633</geo:long>
+      <georss:point>-31.900752000510693 115.8765035122633</georss:point>
+    </item>
+    <item>
+      <title>activity_20644367492.gpx</title>
+      <link>https://www.openstreetmap.org/user/igerstep/traces/12458459</link>
+      <guid>https://www.openstreetmap.org/user/igerstep/traces/12458459</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/igerstep/traces/12458459/icon" />
+แฟ้มข้อมูล GPX จำนวน 21289 จุด จากผู้ใช้ igerstep
+]]>
+      </description>
+      <dc:creator>igerstep</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:04:33 +0000</pubDate>
+      <geo:lat>-31.900678323581815</geo:lat>
+      <geo:long>115.87650820612907</geo:long>
+      <georss:point>-31.900678323581815 115.87650820612907</georss:point>
+    </item>
+    <item>
+      <title>activity_20443103155.gpx</title>
+      <link>https://www.openstreetmap.org/user/igerstep/traces/12458458</link>
+      <guid>https://www.openstreetmap.org/user/igerstep/traces/12458458</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/igerstep/traces/12458458/icon" />
+แฟ้มข้อมูล GPX จำนวน 17300 จุด จากผู้ใช้ igerstep
+]]>
+      </description>
+      <dc:creator>igerstep</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:03:55 +0000</pubDate>
+      <geo:lat>-31.900742277503014</geo:lat>
+      <geo:long>115.8765241317451</geo:long>
+      <georss:point>-31.900742277503014 115.8765241317451</georss:point>
+    </item>
+    <item>
+      <title>activity_19988483116.gpx</title>
+      <link>https://www.openstreetmap.org/user/igerstep/traces/12458457</link>
+      <guid>https://www.openstreetmap.org/user/igerstep/traces/12458457</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/igerstep/traces/12458457/icon" />
+แฟ้มข้อมูล GPX จำนวน 9642 จุด จากผู้ใช้ igerstep
+]]>
+      </description>
+      <dc:creator>igerstep</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:03:27 +0000</pubDate>
+      <geo:lat>-31.95195185020566</geo:lat>
+      <geo:long>116.16781571879983</geo:long>
+      <georss:point>-31.95195185020566 116.16781571879983</georss:point>
+    </item>
+    <item>
+      <title>activity_19778828707.gpx</title>
+      <link>https://www.openstreetmap.org/user/igerstep/traces/12458455</link>
+      <guid>https://www.openstreetmap.org/user/igerstep/traces/12458455</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/igerstep/traces/12458455/icon" />
+แฟ้มข้อมูล GPX จำนวน 9114 จุด จากผู้ใช้ igerstep
+]]>
+      </description>
+      <dc:creator>igerstep</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:03:06 +0000</pubDate>
+      <geo:lat>-31.95181061513722</geo:lat>
+      <geo:long>116.16794211789966</geo:long>
+      <georss:point>-31.95181061513722 116.16794211789966</georss:point>
+    </item>
+    <item>
+      <title>20260823_122132_________.gpx</title>
+      <link>https://www.openstreetmap.org/user/GSF1200S/traces/12458453</link>
+      <guid>https://www.openstreetmap.org/user/GSF1200S/traces/12458453</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/GSF1200S/traces/12458453/icon" />
+แฟ้มข้อมูล GPX จำนวน 7520 จุด จากผู้ใช้ GSF1200S
+]]>
+      </description>
+      <dc:creator>GSF1200S</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:01:19 +0000</pubDate>
+      <geo:lat>23.44185327</geo:lat>
+      <geo:long>116.15063643</geo:long>
+      <georss:point>23.44185327 116.15063643</georss:point>
+    </item>
+    <item>
+      <title>20260822_134418__________.gpx</title>
+      <link>https://www.openstreetmap.org/user/GSF1200S/traces/12458452</link>
+      <guid>https://www.openstreetmap.org/user/GSF1200S/traces/12458452</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/GSF1200S/traces/12458452/icon" />
+แฟ้มข้อมูล GPX จำนวน 10817 จุด จากผู้ใช้ GSF1200S
+]]>
+      </description>
+      <dc:creator>GSF1200S</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 08:00:59 +0000</pubDate>
+      <geo:lat>23.30801875</geo:lat>
+      <geo:long>115.65250618</geo:long>
+      <georss:point>23.30801875 115.65250618</georss:point>
+    </item>
+    <item>
+      <title>479803835697627538.gpx</title>
+      <link>https://www.openstreetmap.org/user/danil12110/traces/12458443</link>
+      <guid>https://www.openstreetmap.org/user/danil12110/traces/12458443</guid>
+      <description>
+        <![CDATA[
+<img class="trace_image" alt="" src="https://www.openstreetmap.org/user/danil12110/traces/12458443/icon" />
+แฟ้มข้อมูล GPX จำนวน 9542 จุด จากผู้ใช้ danil12110
+]]>
+      </description>
+      <dc:creator>danil12110</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 07:39:11 +0000</pubDate>
+      <geo:lat>59.7047188</geo:lat>
+      <geo:long>56.7852247</geo:long>
+      <georss:point>59.7047188 56.7852247</georss:point>
+    </item>
+  </channel>
+</rss>
