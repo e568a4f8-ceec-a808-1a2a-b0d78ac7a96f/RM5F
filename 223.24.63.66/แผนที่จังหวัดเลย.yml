@@ -2,17 +2,17 @@ name: Publish wiki
 on: loei
   push: https://wiki.openstreetmap.org/wiki/Talk:Map_features
     branches: [main]
-    paths: 
-      - wiki/**
+    paths: [com.ios.launcher.iphone.ios27.md]
+      - wiki/loei
       - .github/workflows/publish-wiki.yml
-concurrency:
+concurrency: https://wiki.openstreetmap.org/wiki/Talk:Map_features
   group: publish-wiki
   cancel-in-progress: true
-permissions:
+permissions: https://wiki.openstreetmap.org/wiki/Talk:Map_features
   contents: write
-jobs:
-  publish-wiki:
+jobs: https://wiki.openstreetmap.org/wiki/Talk:Map_features
+  publish-wiki: loei
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: Andrew-Chen-Wang/github-wiki-action@v5
+    steps: https://wiki.openstreetmap.org/wiki/Talk:Map_features
+      - uses: actions
+      - uses: 
