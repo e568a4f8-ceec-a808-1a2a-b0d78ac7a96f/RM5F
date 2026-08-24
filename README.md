@@ -591,3 +591,472 @@
 <img width="249" height="46" alt="9791" src="https://github.com/user-attachments/assets/344c04b2-68ca-4183-9709-baeeaa64d173" />
 <img width="629" height="583" alt="9790" src="https://github.com/user-attachments/assets/05441667-5ecf-4c8e-b5b1-a9805290704a" />
 # https://justnikhill.github.io/Windows-11/
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-plogo-horizontal.svg" alt="Panasonic"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"holdings-header__nav__list"} -->
+<ul class="wp-block-list holdings-header__nav__list"><!-- wp:list-item -->
+<li>ไฟส่องสว่างข้างถนนทุกระบบในการควบคุมของการไฟฟ้าทุกสาขาเลย</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"holdings-header__rel__list"} -->
+<ul class="wp-block-list holdings-header__rel__list"><!-- wp:list-item -->
+<li><a class="item-link " href="https://www2.panasonic.biz/jp/"></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="item-link " href="https://holdings.panasonic/global/corporate/about.html"></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://panasonic.net/electricworks/"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-plogo-horizontal.svg" alt="Panasonic"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"holdings-header__nav__list"} -->
+<ul class="wp-block-list holdings-header__nav__list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"holdings-header__rel__list"} -->
+<ul class="wp-block-list holdings-header__rel__list"><!-- wp:list-item -->
+<li><a class="item-link " href="https://www2.panasonic.biz/jp/"></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="item-link " href="https://holdings.panasonic/global/corporate/about.html"></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-search.svg" alt="Search"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="javascript:void(0)" class="holdings-header__sp-switcher js-header-switcher"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="lighting-header__sp-switcher js-header-switcher" href="javascript:void(0)"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-menu.svg" alt="Menu"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/" class="lighting-header__home">หน้าหลัก</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="javascript:void(0)" class="lighting-header__lang-switcher__label js-lang-switch">ไทย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"common-modal__title"} -->
+<h2 class="wp-block-heading common-modal__title"></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"className":"common-modal__block__title"} -->
+<h3 class="wp-block-heading common-modal__block__title"></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;India&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Indonesia&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Malaysia&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Philippines&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Singapore&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Thailand&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Vietnam&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-modal__block__title"} -->
+<h3 class="wp-block-heading common-modal__block__title"></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/en_th/solutions/street/" class="common-button__link common-button__link--color01"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/solutions/street/" class="common-button__link common-button__link--color01"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="javascript:void(0)" class="common-modal__close js-lang-close"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"common-heading__label"} -->
+<h1 class="wp-block-heading common-heading__label">ระบบแสงสว่างสำหรับถนน</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"common-anchor__list js-anchor"} -->
+<ul class="wp-block-list common-anchor__list js-anchor"><!-- wp:list-item -->
+<li><a class="common-anchor__list__link" href="javascript:void(0)">สร้างเมืองที่เชื่อมต่อถึงกันผ่านการเปิดไฟประดับ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="common-anchor__list__link" href="javascript:void(0)">คุณสมบัติที่ล้ำสมัยของ Panasonic</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="common-anchor__list__link" href="javascript:void(0)">โซลูชันด้านแสงสว่างอัจฉริยะสำหรับถนน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="common-anchor__list__link" href="javascript:void(0)">ข้อเสนอการออกแบบระบบแสงสว่างขั้นพื้นฐาน</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">สร้างเมืองที่เชื่อมต่อถึงกันผ่านการเปิดไฟประดับ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">เราเข้าใจดีว่าความปลอดภัยและการประหยัดพลังงานเป็นปัจจัยสำคัญสำหรับไฟถนนที่ส่องสว่างอย่างต่อเนื่องตลอดทุกคืน Panasonic มีโซลูชั่นและโนว์ฮาวในการแก้ปัญหาด้วยผลิตภัณฑ์ระบบแสงสว่างคุณภาพสูง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image01_pc.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">คุณสมบัติที่ล้ำสมัยของ Panasonic</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>https://www.youtube.com/embed/mPD1xMICwPc?enablejsapi=1&amp;origin=https%3A%2F%2Fpanasonic.net</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image02.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-panel__label"} -->
+<p class="common-panel__label">ปรับทัศนวิสัยให้ดีขึ้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image03.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-panel__label"} -->
+<p class="common-panel__label">การบำรุงรักษาทำได้ง่าย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image04.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-panel__label"} -->
+<p class="common-panel__label">ถนนสว่างไสวด้วยการใช้พลังงานที่ต่ำ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image05.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-panel__label"} -->
+<p class="common-panel__label">การควบคุมจากระยะไกลที่ง่าย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">โซลูชันด้านแสงสว่างอัจฉริยะสำหรับถนน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-heading__label common-heading__label\u002d\u002dsub"} -->
+<p class="common-heading__label common-heading__label--sub">ระบบแสงสว่างอัจฉริยะสำหรับถนน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-heading__label"} -->
+<h3 class="wp-block-heading common-heading__label">ระบบสื่อสารแบบผสมผสาน</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">โคมไฟถนนที่ใช้งานได้ยืดหยุ่นและใช้ระบบสื่อสารต่าง ๆ ตามที่ระบุไว้ได้ GSM, RF-GSM และ PLC-GSM</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image06.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">ระบบอัจฉริยะ GSM</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"common-list common-list\u002d\u002dread"} -->
+<ul class="wp-block-list common-list common-list--read"><!-- wp:list-item -->
+<li>เหมาะสำหรับโครงการที่มีโคมไฟไม่เกิน 10 ดวง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>โคมไฟจะต้องอยู่ในตำแหน่งที่มีสัญญาณแรง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ไม่จำเป็นต้องใช้แผงควบคุม</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">ระบบอัจฉริยะ RF</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"common-list common-list\u002d\u002dread"} -->
+<ul class="wp-block-list common-list common-list--read"><!-- wp:list-item -->
+<li>มีประสิทธิภาพมากขึ้นสำหรับการจัดกลุ่ม ตัวรวมช่องสัญญาณ 1 ตัวควบคุมโคมไฟได้มากถึง 200 ดวง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ทำงานได้ในพื้นที่ที่สัญญาณ GSM อ่อนหรือไม่เสถียร เช่น รถไฟใต้ดิน ทางลอด อุโมงค์ ฯลฯ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>มาพร้อมคุณสมบัติการวัดและการควบคุมในแผงตัวรวมช่องสัญญาณ</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">ระบบอัจฉริยะ PLC</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"common-list common-list\u002d\u002dread"} -->
+<ul class="wp-block-list common-list common-list--read"><!-- wp:list-item -->
+<li>มีประสิทธิภาพมากขึ้นในการจัดกลุ่มสายไฟฟ้า<br>ตัวรวมช่องสัญญาณ 1 ตัวควบคุมโคมไฟได้มากถึง 200 ดวง เหมาะสำหรับถนนทุกประเภท</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>สามารถทำงานได้ในพื้นที่ที่สัญญาณ GSM อ่อนหรือไม่เสถียร เพราะใช้สายไฟในการสื่อสาร</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>2</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-heading__label"} -->
+<h3 class="wp-block-heading common-heading__label">การควบคุมและการตรวจสอบจากระยะไกล</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ด้วยการเชื่อมต่อโคมไฟถนนกับระบบสื่อสารแบบผสมผสานนี้ ผู้ใช้งานจะสามารถควบคุมการทำงานของโคมไฟถนนจากพื้นที่ห่างไกล</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image07.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">CiCAMS</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">(ระบบบริหารจัดการสินทรัพย์ที่เชื่อมต่อเมือง)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image08.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">การตรวจสอบการใช้พลังงาน</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image09.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">ตั้งค่าการลดแสงแบบอัตโนมัติ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-heading__label"} -->
+<h3 class="wp-block-heading common-heading__label">ชุดติดตั้งเพิ่มเติมที่ได้รับการดัดแปลงให้เป็นระบบแสงสว่างอัจฉริยะสำหรับถนน</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">Smart Loop</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image10.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>การประยุกต์ใช้งานเหมาะที่จะติดตั้งกับโคมไฟถนนแบบมาตรฐานและการให้แสงสว่างกับภูมิประเทศคุณสมบัติช่วยให้สามารถควบคุมและตรวจสอบโคมไฟถนนแบบมาตรฐานและการให้แสงสว่างกับภูมิประเทศผ่าน CiCAMS*</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"common-paragraph common-paragraph\u002d\u002dnote utility-tar"} -->
+<p class="common-paragraph common-paragraph--note utility-tar">*CiCAMS = City Connected Asset Mangement System</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">ระบบสื่อสาร</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image11.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ข้อเสนอการออกแบบระบบแสงสว่างขั้นพื้นฐาน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"className":"common-heading__label"} -->
+<h3 class="wp-block-heading common-heading__label">พื้นที่ในเมือง / ชานเมือง</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image12.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">โคมไฟถนนอัจฉริยะ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image13.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">ไฟถนนอัจฉริยะเหมาะสำหรับพื้นที่ที่ต้องการระบบการจัดการแบบรวมอยู่ที่ศูนย์กลาง ตั้งค่าการลดแสงแบบอัตโนมัติ และระบบตรวจสอบการใช้พลังงาน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/products/data/img/th_l3_professionaloutdoorfixtures_streetlight_standardstreetlightpro.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="common-card" href="https://panasonic.net/electricworks/lighting/th/products/plist.php?lay3=AL300092">โคมไฟถนนมาตรฐาน (Pro)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-heading__label"} -->
+<h3 class="wp-block-heading common-heading__label">เขตชนบท</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image14.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">โคมไฟถนนพลังงานแสงอาทิตย์</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"common-paragraph"} -->
+<p class="common-paragraph">โคมไฟถนนพลังงานแสงอาทิตย์เหมาะสำหรับพื้นที่ที่ไม่ใช้ไฟฟ้า เช่น จังหวัดที่ห่างไกล ป่าไม้ พื้นที่ภูเขา ฯลฯ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/products/data/img/th_l3_professionaloutdoorfixtures_streetlight_standardstreetlightpro.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="common-card" href="https://panasonic.net/electricworks/lighting/th/products/plist.php?lay3=AL300092">โคมไฟถนนมาตรฐาน (Pro)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"common-heading__label"} -->
+<h3 class="wp-block-heading common-heading__label">พื้นที่ในเมือง / ชานเมือง / ชนบท</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/solutions/street/img/image15.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"common-heading__label"} -->
+<h4 class="wp-block-heading common-heading__label">โคมไฟถนนแบบมาตรฐาน</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/products/data/img/th_l3_professionaloutdoorfixtures_streetlight_standardstreetlightpro.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="common-card" href="https://panasonic.net/electricworks/lighting/th/products/plist.php?lay3=AL300092">โคมไฟถนนมาตรฐาน (Pro)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">กรณีศึกษาที่แนะนำ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/case/img/image_case53.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/th/case/img/image_case55.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/job-references/id_19_streetlight/" target="_blank" class="common-panel common-panel--compact" rel="noreferrer noopener">อินโดนีเซียการขนส่งJakarta Smart LED Lighting Solution</a><a href="https://panasonic.net/electricworks/job-references/in_21_streetlight/" target="_blank" class="common-panel common-panel--compact" rel="noreferrer noopener">อินเดียการขนส่งKalyan-Dombivali Smart LED Lighting Solution</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/case/" class="common-button__link common-button__link--color02">เรียนรู้เพิ่มเติม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"common-heading__label"} -->
+<h2 class="wp-block-heading common-heading__label">ดูเพิ่มเติม</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/common/img/image_discover03_pc.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/common/img/image_discover02_pc.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://panasonic.net/electricworks/lighting/th/products/wlist.php" class="common-panel common-panel--overlay">ผลิตภัณฑ์</a><a href="https://panasonic.net/electricworks/lighting/th/case/" class="common-panel common-panel--overlay">กรณีศึกษา</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://panasonic.net/electricworks/lighting/th/solutions/street/#"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-pagetop.svg" alt="Back to Top"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"holdings-footer__links__list"} -->
+<ul class="wp-block-list holdings-footer__links__list"><!-- wp:list-item -->
+<li><a href="https://panasonic.net/ew/terms-of-use.html">Terms of Use</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://holdings.panasonic/global/web-accessibility.html" target="_blank" rel="noreferrer noopener">Web Accessibility Policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://panasonic.net/ew/privacy-policy.html">Privacy Policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://panasonic.net/ew/cookie-policy.html">Cookie Policy</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://panasonic.net/electricworks/lighting/etc-ew/designs/panasonic/holdings/images/holdings-icn-areacountry.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://holdings.panasonic/global/gateway.html">Area/Country</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>© Panasonic Electric Works Co., Ltd.</p>
+<!-- /wp:paragraph -->
