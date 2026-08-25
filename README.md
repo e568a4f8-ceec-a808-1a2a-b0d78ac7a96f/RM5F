@@ -1,3 +1,4 @@
+# https://account.microsoft.com/account/privacy?ref=privacy-bingpers&refd=account.microsoft.com&ru=https%3A%2F%2Faccount.microsoft.com%2Fprivacy%3Fref%3Dprivacy-bingpers%26refd%3Daccount.microsoft.com
 # https://realvnc.statuspage.io/
 # https://status.hellosign.com/
 # https://www.bnn.in.th/th/p/notebook/thin-light-notebook/acer-thin-light-notebook/acer-notebook-swift-go-14-ai-sfg14-75-5880-blue-4711474795007_dynlnv?ref=intel-x-windows-11%2F#Fz1FckjyEUD3CCweA
