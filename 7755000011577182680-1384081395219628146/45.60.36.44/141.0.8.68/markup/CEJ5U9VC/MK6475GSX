@@ -2,6 +2,7 @@ git branch -m main com.primatelabs.parkdale
 git fetch origin
 git branch -u origin/com.primatelabs.parkdale com.primatelabs.parkdale
 git remote set-head origin -a
+
 <!-- wp:image {"linkDestination":"custom"} -->
 <figure class="wp-block-image"><a class="navbar-brand" href="https://www.geekbench.com/"><img src="https://www.geekbench.com/img/parkdale/logo-dark.svg" alt="Geekbench"/></a></figure>
 <!-- /wp:image -->
@@ -635,3 +636,332 @@ Incident ID: 7755000011577182680-1384081395219628146
 เทศบาลตำบลอุโมงค์
 หน่วยงานรูปแบบพิเศษ
 กรุงเทพมหานคร
+
+{{Short description|Plain text markup 208838 ฐานข้อมูลทั่วทุกจังหวัด}}
+{{For|the marketing term|Price markdown}}
+{{Primary sources|date=September 2025}}
+{{Infobox file format
+| name                   = Markdown
+| logo                   = Markdown-mark.svg{{!}}class=skin-invert
+| icon_size              = 80px
+| extensions             = <code>.md</code>, <code>.markdown</code><ref name="df-2022">{{cite web | url=https://daringfireball.net/linked/2014/01/08/markdown-extension | title=The Markdown File Extension | publisher=The Daring Fireball Company, LLC | date=8 January 2014 | accessdate=27 March 2022 | author=Gruber, John | quote=Too late now, I suppose, but the only file extension I would endorse is ".markdown", for the same reason offered by Hilton Lipschitz: ''We no longer live in a 8.3 world, so we should be using the most descriptive file extensions. It's sad that all our operating systems rely on this stupid convention instead of the better creator code or a metadata model, but great that they now support longer file extensions.'' | archive-date=12 July 2020 | archive-url=https://web.archive.org/web/20200712120733/https://daringfireball.net/linked/2014/01/08/markdown-extension | url-status=live }}</ref><ref name="rfc7763" />
+| _nomimecode            = y
+| _noextcode             = y
+| mime                   = <code>text/markdown</code>{{Ref RFC|7763}}
+| type_code              = 
+| uniform type           = <code>net.daringfireball.markdown</code>
+| conforms_to            = <code>public.plain-text</code>
+| magic                  = None
+| owner                  = {{plainlist|
+* [[John Gruber]]
+}}
+| released               = {{start date and age|2004|03|09|paren=yes}}<ref name="markdown-swartz">{{cite web|url=http://www.aaronsw.com/weblog/001189|title=Markdown|date=2004-03-19|work=Aaron Swartz: The Weblog|first=Aaron|last=Swartz|author-link=Aaron Swartz|access-date=2013-09-01|archive-date=2017-12-24|archive-url=https://web.archive.org/web/20171224200232/http://www.aaronsw.com/weblog/001189|url-status=live}}</ref><ref name="gruber-2004-release">{{cite web |url=https://daringfireball.net/projects/markdown/index.text |archive-url=https://web.archive.org/web/20040311230924/https://daringfireball.net/projects/markdown/index.text |archive-date=2004-03-11 |title=Markdown|work=[[Daring Fireball]]|first=John|last=Gruber|author-link=John Gruber |access-date=2022-08-20}}</ref>
+| latest release version = 1.0.1
+| latest release date    = {{start date and age|2004|12|17|paren=yes}}<ref name="md" />
+| genre                  = [[Markup language]]
+| extended to            = [[pandoc]], [[MultiMarkdown]], [[Markdown Extra]], [[#CommonMark|CommonMark]],{{Ref RFC|7764}} [[RMarkdown]]<ref name="RMarkdown">{{cite web|url=https://rmarkdown.rstudio.com/|title=RMarkdown Reference site|access-date=2019-11-21|archive-date=2020-03-03|archive-url=https://web.archive.org/web/20200303054734/https://rmarkdown.rstudio.com/|url-status=live}}</ref>
+| standard               = 
+| standards              = 
+| type                   = [[Open file format]]<ref name="license">{{cite web |url=http://daringfireball.net/projects/markdown/license |title=Markdown: License |publisher=Daring Fireball |access-date=2014-04-25 |archive-date=2020-02-18 |archive-url=https://web.archive.org/web/20200218183533/https://daringfireball.net/projects/markdown/license |url-status=live }}</ref>
+| url                    = {{URL|https://daringfireball.net/projects/markdown/}}
+}}
+
+'''Markdown'''<ref name="philosophy" /> is a [[lightweight markup language]] for creating [[formatted text]] using a [[text editor|plain-text editor]]. [[John Gruber]] created Markdown in 2004 as an easy-to-read [[markup language]].<ref name="philosophy" /> Markdown is widely used for [[blog]]ging, [[instant messaging]], and [[large language models]],<ref name="llm-markdown">{{cite web |last1=Dillet |first1=Romain |title=Mistral adds a new API that turns any PDF document into an AI-ready Markdown file |url=https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/ |website=TechCrunch |access-date=7 September 2025 |date=6 March 2025}}</ref> and also used elsewhere in [[online forums]], [[collaborative software]], [[documentation]] pages, and [[README|readme files]].
+
+The initial description of Markdown<ref>{{Cite web|title=Daring Fireball: Introducing Markdown|url=https://daringfireball.net/2004/03/introducing_markdown|access-date=2020-09-23|website=daringfireball.net|archive-date=2020-09-20|archive-url=https://web.archive.org/web/20200920182442/https://daringfireball.net/2004/03/introducing_markdown|url-status=live}}</ref> contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014 when long-standing Markdown contributors released [[#CommonMark|CommonMark]], an unambiguous specification and test suite for Markdown.<ref name="FutureOfMarkdown" />{{Better source needed|reason=The current source is a blog (WP:BLOG).|date=September 2025}}
+
+== History ==
+Markdown was inspired by pre-existing [[Convention (norm)|conventions]] for marking up [[plain text]] in [[email]] and [[usenet]] posts,<ref name="ArsTechnica2014"/> such as the earlier markup languages [[setext]] ({{Circa|1992}}), [[Textile (markup language)|Textile]] ({{Circa|2002}}), and [[reStructuredText]] ({{Circa|2002}}).<ref name="philosophy" />
+
+In 2002, [[Aaron Swartz]] created [[atx (markup language)|atx]] and referred to it as "the true structured text format". Gruber created the Markdown language in 2004 with Swartz as his "sounding board".<ref name="Gruber">{{Cite tweet |user=gruber |number=741989829173510145 |title=I should write about it, but it's painful. More or less: Aaron was my sounding board, my muse.}}</ref> The goal of the language was to enable people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid [[XHTML]] (or [[HTML]])".<ref name="md">Markdown 1.0.1 readme source code {{cite web|url=http://daringfireball.net/projects/markdown/ |title=Daring Fireball – Markdown |date=2004-12-17 |url-status=dead |archive-url=https://web.archive.org/web/20040402182332/http://daringfireball.net/projects/markdown/ |archive-date=2004-04-02 }}</ref>
+
+Another key design goal was ''readability'', that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions,{{r|name="philosophy"|reference=Markdown Syntax {{cite web|url=https://daringfireball.net/projects/markdown/syntax#philosophy|title=Daring Fireball – Markdown – Syntax|date=2013-06-13 }} "Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions. While Markdown's syntax has been influenced by several existing text-to-HTML filters — including Setext, atx, Textile, reStructuredText, Grutatext{{r |name="grutatext" |reference={{Cite web |title=Un naufragio personal: The Grutatxt markup |url=https://triptico.com/docs/grutatxt_markup.html |access-date=2022-06-30 |website=triptico.com |archive-date=2022-06-30 |archive-url=https://web.archive.org/web/20220630230546/https://triptico.com/docs/grutatxt_markup.html |url-status=dead }} }}, and EtText{{r |name="ettext" |reference={{Cite web |title=EtText: Documentation: Using EtText |url=http://ettext.taint.org/doc/ettext.html |access-date=2022-06-30 |website=ettext.taint.org}} }} — the single biggest source of inspiration for Markdown's syntax is the format of plain text email." }} unlike text formatted with "heavier" [[markup language]]s, such as [[Rich Text Format]] (RTF), HTML, or even [[wikitext]], each of which have obvious in-line tags and formatting instructions which can make the text more difficult for humans to read.{{Citation needed|date=September 2025}}
+
+Gruber wrote a [[Perl]] script, {{code|Markdown.pl}}, which converts marked-up text input to valid, [[Well-formed document|well-formed]] XHTML or HTML, encoding angle brackets ({{code|<}}, {{code|>}}) and [[ampersand]]s ({{code|&}}), which would be misinterpreted as special characters in those languages. It can take the role of a standalone script, a plugin for [[Blosxom]] or [[Movable Type]], or of a text filter for [[BBEdit]].<ref name="md" />
+
+== Rise and divergence ==
+As Markdown's popularity grew rapidly, many Markdown [[Implementation|implementations]] appeared, driven mostly by the need for additional features such as [[Table (information)|tables]], [[Note (typography)|footnotes]], definition lists,<ref group="note">Technically HTML description lists</ref> and Markdown inside HTML blocks.{{Citation needed|date=September 2025}}
+
+The behavior of some of these diverged from the reference implementation, as Markdown was only characterised by an informal [[Specification (technical standard)|specification]]<ref>{{cite web|url=https://daringfireball.net/projects/markdown/syntax|title=Markdown Syntax Documentation|publisher=Daring Fireball|access-date=2018-03-09|archive-date=2019-09-09|archive-url=https://web.archive.org/web/20190909051956/https://daringfireball.net/projects/markdown/syntax|url-status=live}}</ref> and a [[Perl]] implementation for conversion to HTML.{{Citation needed|date=September 2025}}
+
+At the same time, a number of ambiguities in the informal specification had attracted attention.<ref name="gfm_on_github-why_spec">{{cite web|url=https://github.github.com/gfm/#why-is-a-spec-needed-|title=GitHub Flavored Markdown Spec – Why is a spec needed?|website=github.github.com|access-date=2018-05-17|archive-date=2020-02-03|archive-url=https://web.archive.org/web/20200203204734/https://github.github.com/gfm/#why-is-a-spec-needed-|url-status=live}}</ref> These issues spurred the creation of tools such as Babelmark<ref name="babelmark-2">{{cite web |url=http://johnmacfarlane.net/babelmark2/ |title=Babelmark 2 – Compare markdown implementations |publisher=Johnmacfarlane.net |access-date=2014-04-25 |archive-date=2017-07-18 |archive-url=https://web.archive.org/web/20170718113552/http://johnmacfarlane.net/babelmark2/ |url-status=live }}</ref><ref name="babelmark-3">{{cite web |url=https://babelmark.github.io/ |title=Babelmark 3 – Compare Markdown Implementations |publisher=github.io |access-date=2017-12-10 |archive-date=2020-11-12 |archive-url=https://web.archive.org/web/20201112043521/https://babelmark.github.io/ |url-status=live }}</ref> to compare the output of various implementations,<ref>{{cite web |url=http://johnmacfarlane.net/babelmark2/faq.html |title=Babelmark 2 – FAQ |publisher=Johnmacfarlane.net |access-date=2014-04-25 |archive-date=2017-07-28 |archive-url=https://web.archive.org/web/20170728115918/http://johnmacfarlane.net/babelmark2/faq.html |url-status=live }}</ref> and an effort by some developers of Markdown [[Parsing|parsers]] for standardization. However, Gruber has argued that complete standardization would be a mistake: "Different sites (and people) have different needs. No one syntax would make all happy."<ref>{{cite tweet|user=gruber|author-link=John Gruber|first=John|last=Gruber|number=507670720886091776|date=4 September 2014|title=@tobie @espadrine @comex @wycats Because different sites (and people) have different needs. No one syntax would make all happy.}}</ref>
+
+Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions.<ref name="curlyBraces">{{cite web |url=https://daringfireball.net/linked/2022/05/19/markdoc |title=Markdoc |last=Gruber |first=John |date=19 May 2022 |website=Daring Fireball |access-date=May 19, 2022 |quote=I love their syntax extensions — very true to the spirit of Markdown. They use curly braces for their extensions; I'm not sure I ever made this clear, publicly, but I avoided using curly braces in Markdown itself — even though they are very tempting characters — to unofficially reserve them for implementation-specific extensions. Markdoc's extensive use of curly braces for its syntax is exactly the sort of thing I was thinking about. |archive-date=19 May 2022 |archive-url=https://web.archive.org/web/20220519202920/https://daringfireball.net/linked/2022/05/19/markdoc |url-status=live }}</ref>
+
+== CommonMark ==
+{{Infobox file format
+| name                   = CommonMark
+| logo                   = 
+| icon_size              = 
+| _noextcode             = on
+| extensions             = <code>.md</code>, <code>.markdown</code><ref name="rfc7763" />
+| _nomimecode            = on
+| mime                   = <code>text/markdown; variant=CommonMark</code><ref name="rfc7764" />
+| uniform type           = ''uncertain''<ref name="cm-uti">{{cite web|url= https://talk.commonmark.org/t/uti-of-a-commonmark-document/2406|title= UTI of a CommonMark document|date= 12 April 2017|access-date= 29 September 2017|archive-date= 22 November 2018|archive-url= https://web.archive.org/web/20181122140119/https://talk.commonmark.org/t/uti-of-a-commonmark-document/2406|url-status= live}}</ref>
+| conforms to            = public.plain-text
+| owner                  = [[John MacFarlane (philosopher)|John MacFarlane]], open source
+| released               = {{start date and age|2014|10|25|paren=yes}}
+| latest release version = 0.31.2
+| latest release date    = {{start date and age|2024|01|28|paren=yes}}<ref name="cm-spec">{{cite web |url= http://spec.commonmark.org/ |title= CommonMark specification |access-date= 2017-07-26 |archive-date= 2017-08-07 |archive-url= https://web.archive.org/web/20170807052756/http://spec.commonmark.org/ |url-status= live }}</ref>
+| genre                  = [[Markup language]]
+| extended from          = Markdown
+| extended to            = [[#GFM|GitHub Flavored Markdown]]
+| type                   = [[Open file format]]
+| url                    = {{URL|https://commonmark.org/}}
+{{URL|http://spec.commonmark.org/}}
+}}
+
+;Standardization:
+In 2012, a group of people, including [[Jeff Atwood]] and [[John MacFarlane (philosopher)|John MacFarlane]], launched what Atwood characterised as a standardization effort.<ref name="FutureOfMarkdown">{{cite web |last=Atwood |first=Jeff |url=https://blog.codinghorror.com/the-future-of-markdown/ |title=The Future of Markdown |publisher=CodingHorror.com |date=2012-10-25 |access-date=2014-04-25 |archive-date=2014-02-11 |archive-url=https://web.archive.org/web/20140211233513/http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html |url-status=live }}</ref> 
+
+A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various Markdown implementations".<ref>{{cite web |url=https://markdown.github.io/ |title=Markdown Community Page |publisher=GitHub |access-date=2014-04-25 |archive-date=2020-10-26 |archive-url=https://web.archive.org/web/20201026161924/http://markdown.github.io/ |url-status=live }}</ref> 
+
+;Name:
+In September 2014, Gruber objected to the usage of "Markdown" in the name of this effort and it was rebranded as "CommonMark".<ref name="ArsTechnica2014" /><ref>{{cite web |url=http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ |title=Standard Markdown is now Common Markdown |date=4 September 2014 |publisher=Jeff Atwood |access-date=2014-10-07 |archive-date=2014-10-09 |archive-url=https://web.archive.org/web/20141009181014/http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ |url-status=live }}</ref><ref>{{cite web |url=https://www.infoq.com/news/2014/09/markdown-commonmark |title=Standard Markdown Becomes Common Markdown then CommonMark |work=InfoQ |access-date=2014-10-07 |archive-date=2020-09-30 |archive-url=https://web.archive.org/web/20200930150521/https://www.infoq.com/news/2014/09/markdown-commonmark/ |url-status=live }}</ref> CommonMark.org published several versions of a specification, reference implementation, test suite, and "[plans] to announce a finalized 1.0 spec and test suite in 2019".<ref name="commonmark.org">{{cite web |url=http://commonmark.org/ |title=CommonMark |language=en |access-date=20 Jun 2018 |quote=The current version of the CommonMark spec is complete, and quite robust after a year of public feedback … but not quite final. With your help, we plan to announce a finalized 1.0 spec and test suite in 2019. |archive-date=12 April 2016 |archive-url=https://web.archive.org/web/20160412211434/http://commonmark.org/ |url-status=live}}</ref> A finalized 1.0 spec has not been released, as major issues still remain unsolved.<ref>{{Cite web |date=2015-07-26 |title=Issues we MUST resolve before 1.0 release [6 remaining] |url=https://talk.commonmark.org/t/issues-we-must-resolve-before-1-0-release-6-remaining/1287 |access-date=2020-10-02 |website=CommonMark Discussion |language=en-US |archive-date=2021-04-14 |archive-url=https://web.archive.org/web/20210414032229/https://talk.commonmark.org/t/issues-we-must-resolve-before-1-0-release-6-remaining/1287 |url-status=live}}</ref> 
+
+;Adoption:
+Nonetheless, several websites and projects have adopted CommonMark, including [[Codeberg]], [[Discourse (software)|Discourse]], [[GitHub]], [[GitLab]], [[Reddit]], [[Qt (software)|Qt]], [[Stack Exchange]] ([[Stack Overflow]]), and [[Swift (programming language)|Swift]].
+
+In March 2016, two relevant informational Internet [[Request for Comments|RFCs]] were published:
+* {{Sum RFC|7763|ref=yes|comment=Introduces [[MIME]] type <small>{{code|text/markdown}}</small>.}}
+* {{Sum RFC|7764|ref=yes|comment=Discusses and registers the variants [[MultiMarkdown]], [[#GFM|GitHub Flavored Markdown]] (GFM), [[Pandoc]], and Markdown Extra (among others).<ref name="IANA">{{cite web |url=https://www.iana.org/assignments/markdown-variants/markdown-variants.xhtml |title=Markdown Variants |publisher=[[Internet Assigned Numbers Authority|IANA]] |date=2016-03-28 |access-date=2016-07-06 |archive-date=2020-10-27 |archive-url=https://web.archive.org/web/20201027005128/https://www.iana.org/assignments/markdown-variants/markdown-variants.xhtml |url-status=live}}</ref>}}
+
+== Variants ==
+Websites including [[Bitbucket]], [[Diaspora (social network)|Diaspora]], [[Discord]],<ref>{{Cite web |date=2024-10-03 |title=Markdown Text 101 (Chat Formatting: Bold, Italic, Underline) |url=https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline |access-date=2025-02-07 |website=Discord |language=en-US}}</ref> [[#GFM|GitHub]],<ref name="gfm_on_github">{{cite web|title=GitHub Flavored Markdown Spec|url=https://github.github.com/gfm/|access-date=2020-06-11|publisher=GitHub|archive-date=2020-02-03|archive-url=https://web.archive.org/web/20200203204734/https://github.github.com/gfm/|url-status=live}}</ref> [[OpenStreetMap]], [[Reddit]],<ref>{{cite web|title=Reddit markdown primer. Or, how do you do all that fancy formatting in your comments, anyway?|url=https://www.reddit.com/r/reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that/|access-date=2013-03-29|publisher=Reddit|archive-date=2019-06-11|archive-url=https://web.archive.org/web/20190611185827/https://www.reddit.com/r/reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that/|url-status=live}}</ref> [[SourceForge]]<ref>{{cite web|title=SourceForge: Markdown Syntax Guide|url=https://sourceforge.net/p/forge/documentation/markdown_syntax/|access-date=2013-05-10|publisher=[[SourceForge]]|archive-date=2019-06-13|archive-url=https://web.archive.org/web/20190613130356/https://sourceforge.net/p/forge/documentation/markdown_syntax/|url-status=live}}</ref> and [[Stack Exchange]]<ref>{{cite web|title=Markdown Editing Help|url=https://stackoverflow.com/editing-help|access-date=2014-04-11|publisher=StackOverflow.com|archive-date=2014-03-28|archive-url=https://web.archive.org/web/20140328061854/http://stackoverflow.com/editing-help|url-status=live}}</ref> use variants of Markdown to make discussions between users easier.
+
+Depending on implementation, basic inline [[HTML tag]]s may be supported.<ref>{{cite web |title=Markdown Syntax Documentation |url=https://daringfireball.net/projects/markdown/syntax#html |website=daringfireball.net |access-date=2021-03-01 |archive-date=2019-09-09 |archive-url=https://web.archive.org/web/20190909051956/https://daringfireball.net/projects/markdown/syntax#html |url-status=live }}</ref> 
+
+Italic text may be implemented by <code>_underscores_</code> or <code>*single-asterisks*</code>.<ref name="italic">{{cite web | url=https://www.markdownguide.org/basic-syntax/#italic | title=Basic Syntax: Italic | publisher=Matt Cone | work=The Markdown Guide | accessdate=27 March 2022 | quote=To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters. | archive-date=26 March 2022 | archive-url=https://web.archive.org/web/20220326234942/https://www.markdownguide.org/basic-syntax/#italic | url-status=live }}</ref>
+
+Many platforms implement spoiler formatting that hides text until hovered, clicked or tapped. The most common markup is ||spoiler|| used by Discord<ref>{{Cite web |date=2022-01-30 |title=Spoiler Tags! |url=https://support.discord.com/hc/en-us/articles/360022320632-Spoiler-Tags |access-date=2026-06-02 |website=Discord |language=en-US}}</ref>, Telegram<ref>{{Cite web |date=2024-12-16 |title=Telegram Text Formatting Options: A Complete Guide by Umnico |url=https://umnico.com/blog/telegram-text-formatting/ |access-date=2026-06-02 |website=umnico.com |language=en}}</ref><ref>{{Cite web |title=GitHub - AndyRightNow/telegram-markdown-v2: Transform your markdown to be ready and compatible for Telegram's MarkdownV2 parse mode |url=https://github.com/AndyRightNow/telegram-markdown-v2 |access-date=2026-06-02 |website=GitHub |language=en}}</ref>, various Matrix clients<ref>{{Cite web |last=Suomalainen |first=Aminda |title=Spoilers on Matrix protocol |url=https://aminda.eu/n/matrixspoilers.html |access-date=2026-06-02 |website=Aminda Suomalainen |language=en}}</ref>, now defunct Guilded<ref>{{Cite web |date=2025-07-01 |title=Using Markdowns |url=https://support.guilded.gg/hc/en-us/articles/360039352653-Using-Markdowns |archive-url=https://web.archive.org/web/20251124052456/https://support.guilded.gg/hc/en-us/articles/360039352653-Using-Markdowns |archive-date=24 Nov 2025 |access-date=2026-06-02 |website=Guilded |language=en-US}}</ref>, a forum called Flarum<ref>{{Cite web |title=Markdown spoilers - Flarum Community |url=https://discuss.flarum.org/d/20817-markdown-spoilers |access-date=2026-06-02 |website=discuss.flarum.org}}</ref>, a NodeBB plugin<ref>{{Cite web |title=nodebb-plugin-extended-markdown - npm |url=https://www.npmjs.com/package/nodebb-plugin-extended-markdown}}</ref>, the imageboard engine JSChan<ref>{{Cite web |title=lib/post/markdown/markdown.js · master · Thomas Lynch / jschan · GitLab |url=https://gitgud.io/fatchan/jschan/-/blob/master/lib/post/markdown/markdown.js |access-date=2026-06-03 |website=GitLab |language=en}}</ref> and possibly more.
+
+<!-- Official sources use a space instead of a dash between "GitHub" and "Flavored", so it is a deliberate choice to do so here as well. Changes should be likely be discussed on the talk page first -->
+=== <span id="GFM">GitHub Flavored Markdown</span> ===
+[[GitHub]] had been using its own variant of Markdown since as early as 2009,<ref>{{cite web |title = GitHub Flavored Markdown Examples |author = [[Tom Preston-Werner]] |url = https://github.com/mojombo/github-flavored-markdown/issues/1 |website = GitHub |accessdate = 2021-04-02 |archive-date = 2021-05-13 |archive-url = https://web.archive.org/web/20210513154115/https://github.com/mojombo/github-flavored-markdown/issues/1 |url-status = live }}</ref> which added support for additional formatting such as tables and nesting [[HTML element#Block elements|block content]] inside list elements, as well as GitHub-specific features such as auto-linking references to commits, issues, usernames, etc. 
+
+In 2017, GitHub released a formal specification of its [https://github.github.com/gfm/ GitHub Flavored Markdown] (GFM) that is based on [[CommonMark]].<ref name="gfm_on_github" /> It is a [[Superset|strict superset]] of CommonMark, following its specification exactly except for tables, [[strikethrough]], [[Automatic hyperlinking|autolinks]] and task lists, which GFM adds as extensions.<ref>{{Cite web |url = https://githubengineering.com/a-formal-spec-for-github-markdown/ |title = A formal spec for GitHub Flavored Markdown |website = GitHub Engineering |date = 14 March 2017 |access-date = 16 Mar 2017 |archive-date = 3 February 2020 |archive-url = https://web.archive.org/web/20200203205138/https://githubengineering.com/a-formal-spec-for-github-markdown/ |url-status = live }}</ref> 
+
+Accordingly, GitHub also changed the parser used on their sites, which required that some documents be changed. For instance, GFM now requires that the [[number sign|hash symbol]] that creates a heading be separated from the heading text by a space character.
+
+=== Markdown Extra ===
+Markdown Extra is a [[lightweight markup language]] based on Markdown implemented in [[PHP]] (originally), [[Python (programming language)|Python]] and [[Ruby (programming language)|Ruby]].<ref name="fortin-2018">{{cite web
+ | last1 = Fortin
+ | first1 = Michel
+ | title = PHP Markdown Extra
+ | date = 2018
+ | work = Michel Fortin website
+ | url = https://michelf.ca/projects/php-markdown/extra
+ | access-date = 2018-12-26
+ | archive-date = 2021-01-17
+ | archive-url = https://web.archive.org/web/20210117015819/https://michelf.ca/projects/php-markdown/extra/
+ | url-status = live
+ }}</ref> It adds the following features that are not available with regular Markdown: 
+
+* Markdown markup inside [[HTML]] blocks
+* Elements with id/class attribute
+* "Fenced code blocks" that span multiple lines of code
+* Tables<ref name="fortin-2018" />
+* Definition lists
+* Footnotes
+* Abbreviations
+
+Markdown Extra is supported in some [[content management system]]s such as [[Drupal]],<ref>{{cite web|url=https://drupal.org/project/markdowneditor|title=Markdown editor for BUEditor|date=4 December 2008|access-date=15 January 2017|archive-date=17 September 2020|archive-url=https://web.archive.org/web/20200917172201/https://www.drupal.org/project/markdowneditor|url-status=live}}</ref> [[Grav (CMS)]], [[Textpattern|Textpattern CMS]]<ref>{{Cite web |date=2025-04-27 |title=Plugin: wet_textfilter_markdown |url=https://plugins.textpattern.com/plugins/wet_textfilter_markdown |website=Textpattern CMS plugins |language=}}</ref> and [[TYPO3]].<ref>{{cite web|url=https://extensions.typo3.org/extension/markdown_content/|title=Markdown for TYPO3 (markdown_content)|website=extensions.typo3.org|access-date=2019-02-06|archive-date=2021-02-01|archive-url=https://web.archive.org/web/20210201205749/https://extensions.typo3.org/extension/markdown_content/|url-status=live}}</ref>
+
+== Examples ==
+
+{|class="wikitable"
+! width="33%" | Text using Markdown syntax
+! width="34%" | Corresponding HTML produced by a Markdown processor
+! width="33%" | Text viewed in a browser
+|-valign="top"
+|
+<syntaxhighlight lang="md">Heading
+=======
+
+Sub-heading
+-----------
+
+# Alternative heading
+
+## Alternative sub-heading
+
+Paragraphs are separated 
+by a blank line.
+
+Two spaces at the end of a line  
+produce a line break.</syntaxhighlight>
+|
+<syntaxhighlight lang="html">
+<h1>Heading</h1>
+
+<h2>Sub-heading</h2>
+
+<h1>Alternative heading</h1>
+
+<h2>Alternative sub-heading</h2>
+
+<p>Paragraphs are separated
+by a blank line.</p>
+
+<p>Two spaces at the end of a line<br />
+produce a line break.</p>
+</syntaxhighlight>
+|<div style="overflow: hidden; page-break-after: avoid;
+font-size: 1.8em; font-family: Georgia,Times,serif; margin-top: 1em; margin-bottom: 0.25em; line-height: 1.3; padding: 0; border-bottom: 1px solid #AAAAAA;>Heading</div>
+
+<div style="overflow: hidden; page-break-after: avoid;
+font-size: 1.5em; font-family: Georgia,Times,serif; margin-top: 1em; margin-bottom: 0.25em; line-height: 1.3; padding: 0; border-bottom: 1px solid #AAAAAA;>Sub-heading</div>
+
+<div style="overflow: hidden; page-break-after: avoid;
+font-size: 1.8em; font-family: Georgia,Times,serif; margin-top: 1em; margin-bottom: 0.25em; line-height: 1.3; padding: 0; border-bottom: 1px solid #AAAAAA;>Alternative heading</div>
+
+<div style="overflow: hidden; page-break-after: avoid;
+font-size: 1.5em; font-family: Georgia,Times,serif; margin-top: 1em; margin-bottom: 0.25em; line-height: 1.3; padding: 0; border-bottom: 1px solid #AAAAAA;>Alternative sub-heading</div>
+
+Paragraphs are separated
+by a blank line.
+
+Two spaces at the end of a line<br />
+produce a line break.
+
+|-
+|<syntaxhighlight lang="md">Text attributes _italic_, **bold**, `monospace`.
+
+Horizontal rule:
+
+---
+
+</syntaxhighlight>
+|
+<syntaxhighlight lang="html"><p>Text attributes <em>italic</em>, <strong>bold</strong>, <code>monospace</code>.</p>
+
+<p>Horizontal rule:</p>
+
+<hr />
+
+</syntaxhighlight>
+|Text attributes ''italic'', '''bold''', <code>monospace</code>.</p>
+
+Horizontal rule:
+
+<hr />
+
+|-
+|<syntaxhighlight lang="md">
+Bullet lists nested within numbered list:
+
+  1. fruits
+     * apple
+     * banana
+  2. vegetables
+     - carrot
+     - broccoli
+  
+</syntaxhighlight>
+|
+<syntaxhighlight lang="html"><p>Bullet lists nested within numbered list:</p>
+
+<ol>
+  <li>fruits <ul>
+      <li>apple</li>
+      <li>banana</li>
+  </ul></li>
+  <li>vegetables <ul>
+      <li>carrot</li>
+      <li>broccoli</li>
+  </ul></li>
+</ol>
+
+</syntaxhighlight>
+|Bullet lists nested within numbered list:
+
+# fruits
+#* apple
+#* banana
+# vegetables
+#* carrot
+#* broccoli
+
+|-
+|<syntaxhighlight lang="md">A [link](http://example.com).
+
+![Image](Icon-pictures.png "icon")
+
+> Markdown uses email-style
+characters for blockquoting.
+>
+> Multiple paragraphs need to be prepended individually.
+
+Most inline <abbr title="Hypertext Markup Language">HTML</abbr> tags are supported.
+</syntaxhighlight>
+|
+<syntaxhighlight lang="html"><p>A <a href="http://example.com">link</a>.</p>
+
+<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
+
+<blockquote>
+<p>Markdown uses email-style characters for blockquoting.</p>
+<p>Multiple paragraphs need to be prepended individually.</p>
+</blockquote>
+
+<p>Most inline <abbr title="Hypertext Markup Language">HTML</abbr> tags are supported.</p>
+
+</syntaxhighlight>
+|A [https://example.com/ link].
+
+[[File:Icon-pictures.png|alt=Image|link=|icon]]
+
+<blockquote>
+Markdown uses email-style characters for blockquoting.
+
+Multiple paragraphs need to be prepended individually.
+</blockquote>
+
+Most inline <abbr title="Hypertext Markup Language">HTML</abbr> tags are supported.
+
+<!-- Spare row markup
+|-
+|<syntaxhighlight lang="md">m
+</syntaxhighlight>
+|
+<syntaxhighlight lang="html">h
+</syntaxhighlight>
+|end
+ -->
+|}
+
+== Implementations ==
+Implementations of Markdown are available for over a dozen [[programming language]]s; in addition, many [[Application software|applications]], platforms and [[Software framework|frameworks]] support Markdown.<ref>{{cite web|title=W3C Community Page of Markdown Implementations|url=https://www.w3.org/community/markdown/wiki/MarkdownImplementations|website=W3C Markdown Wiki|access-date=24 March 2016|archive-date=17 September 2020|archive-url=https://web.archive.org/web/20200917231621/https://www.w3.org/community/markdown/wiki/MarkdownImplementations|url-status=live}}</ref> For example, Markdown [[Plug-in (computing)|plugins]] exist for every major [[blog]]ging platform.<ref name="ArsTechnica2014"/>
+
+While Markdown is a minimal markup language and is read and edited with a normal [[text editor]], there are specially designed editors that preview the files with styles, which are available for all major platforms. Many general-purpose text and [[Source-code editor|code editors]] have [[syntax highlighting]] plugins for Markdown built into them or available as optional download. Editors may feature a side-by-side preview window or render the code directly in a [[WYSIWYG]] fashion.
+
+== See also ==
+* [[Comparison of document markup languages]]
+* [[Comparison of documentation generators]]
+* [[Comparison of wiki software]]
+* [[Lightweight markup language]]
+* [[List of markup languages]]
+* [[List of text editors]]
+* [[Wiki markup]]
+
+== Explanatory notes ==
+{{Reflist|group=note}}
+
+== References ==
+{{Reflist|30em|refs=
+<ref name="ArsTechnica2014">{{cite news |last=Gilbertson |date=October 5, 2014 |first=Scott |title=Markdown throwdown: What happens when FOSS software gets corporate backing? |url=https://arstechnica.com/information-technology/2014/10/markdown-throwdown-what-happens-when-foss-software-gets-corporate-backing/ |work=[[Ars Technica]] |access-date=June 14, 2017 |archive-date=November 14, 2020 |archive-url=https://web.archive.org/web/20201114231130/https://arstechnica.com/information-technology/2014/10/markdown-throwdown-what-happens-when-foss-software-gets-corporate-backing/ |url-status=live |quote=[[CommonMark]] fork could end up better for users... but original creators seem to disagree.}}</ref>
+}}
+
+== External links ==
+* {{Official website|https://daringfireball.net/projects/markdown/}} for original John Gruber markup
+
+{{Document markup languages}}
+{{Data Exchange}}
+{{Authority control|state=autocollapse}}
+
+[[Category:Computer-related introductions in 2004]]
+[[Category:Lightweight markup languages]]
+[[Category:Open formats]]
+
+
+
