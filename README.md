@@ -1,3 +1,453 @@
+A91AAEB2 Announced Allocations
+Prefixes
+-	Prefix	Description	Origin ASN
+Has a valid RPKI cert	2001:3c8::/32		AS4621 - UniNet Thailand
+Has a valid RPKI cert	2001:3c8:243::/48		AS138685 - Mahidol Wittayanusorn School
+Has a valid RPKI cert	2001:3c8:100f::/48		AS133919 - University campus network, Rajamangala University of ...
+Has a valid RPKI cert	2001:3c8:1012::/48		AS24475 - ThaiREN.Thailand Research and Education Network Thailand
+ Matches IRR source, but under a different ASN	2001:3c8:10ff::/48		AS139657 - University of the Thai Chamber of Commerce
+Has a valid RPKI cert	2001:3c8:1202::/48		AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	2001:3c8:1303::/48		AS9411 - Kasetsart University, Thailand
+Has a valid RPKI cert	2001:3c8:1306::/48		AS137198 - Phranakorn Rajabhat University
+Has a valid RPKI cert	2001:3c8:130a::/48		AS17827 - Sukhothai Thammathirat Open University
+Has a valid RPKI cert	2001:3c8:1401::/48		AS3839 - Chulalongkorn University
+Has a valid RPKI cert	2001:3c8:1408::/48	Srinakharinwirot University 114 Sukhumvit 23, Bangkok...	AS137261 - Education Network
+Has a valid RPKI cert	2001:3c8:1606::/48		AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	2001:3c8:2705::/48		AS132482 - Rajamangala University of Technology Rattanakosin
+Has a valid RPKI cert	2001:3c8:2707::/48		AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	2001:3c8:2808::/48		AS141714 - Nakhon Pathom Rajabhat University
+Has a valid RPKI cert	2001:3c8:2a07::/48		AS135528 - Muban Chombueng Rajabhat University
+Has a valid RPKI cert	2001:3c8:4007::/48		AS137241 - PibulSongkramRajabhat University
+Has a valid RPKI cert	2001:3c8:5007::/48		AS17479 - Chiang Mai University
+Has a valid RPKI cert	2001:3c8:5505::/48		AS137850 - Mae Fah Luang University
+Has a valid RPKI cert	2001:3c8:9006::/48		AS135616 - Name: Thaksin University
+Has a valid RPKI cert	2001:3c8:9009::/48		AS9464 - Prince of Songkla University (Sritrang'NET)
+Has a valid RPKI cert	2001:3c8:900c::/48		AS45575 - Rajamangala University of Technology Srivijaya
+Has a valid RPKI cert	2001:3c8:a701::/48		AS9562 - Mahasarakham University
+Has a valid RPKI cert	2001:3c8:a702::/48		AS132879 - Rajabhat Mahasarakham University
+Has a valid RPKI cert	2001:3c8:c109::/48		AS37932 - Rajamangala University of Technology Isan
+Has a valid RPKI cert	2001:3c8:c10a::/48		AS37932 - Rajamangala University of Technology Isan
+Has a valid RPKI cert	2001:3c8:c10b::/48		AS37932 - Rajamangala University of Technology Isan
+Has a valid RPKI cert	2001:3c8:c301::/48		AS55545 - Suranaree University of Technology
+Has a valid RPKI cert	2001:3c8:c305::/48		AS37932 - Rajamangala University of Technology Isan
+Has a valid RPKI cert	2001:3c8:cb01::/48		AS136624 - Sakon Nakhon Rajabhat University
+Has a valid RPKI cert	2001:3c8:d109::/48		AS138547 - Ubon Ratchathani Rajabhat University
+Has a valid RPKI cert	2001:3c8:e10e::/48		AS137546 - Faculty of Engineering , Rajamangala University of
+Has a valid RPKI cert	103.1.160.0/22	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+ Matches unauthenticated IRR source	202.28.0.0/15	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.1.0/24	Office of Info.Tech. Admin. for Educational Development	AS17823 - T.H.NIC Co.,Ltd.
+Has a valid RPKI cert	202.28.2.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.3.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.4.0/24	Office of Info.Tech. Admin. for Educational Development	AS9551 - King Mongkut's University of Technology
+Has a valid RPKI cert	202.28.5.0/24	Office of Info.Tech. Admin. for Educational Development	AS9551 - King Mongkut's University of Technology
+Has a valid RPKI cert	202.28.6.0/24	Office of Info.Tech. Admin. for Educational Development	AS9551 - King Mongkut's University of Technology
+Has a valid RPKI cert	202.28.7.0/24	Office of Info.Tech. Admin. for Educational Development	AS9551 - King Mongkut's University of Technology
+ Matches IRR source, but under a different ASN	202.28.8.0/21	Office of Info.Tech. Admin. for Educational Development	AS139657 - University of the Thai Chamber of Commerce
+ Matches IRR source, but under a different ASN	202.28.8.0/23	Office of Info.Tech. Admin. for Educational Development	AS139657 - University of the Thai Chamber of Commerce
+ Matches IRR source, but under a different ASN	202.28.10.0/23	Office of Info.Tech. Admin. for Educational Development	AS139657 - University of the Thai Chamber of Commerce
+ Matches IRR source, but under a different ASN	202.28.12.0/23	Office of Info.Tech. Admin. for Educational Development	AS139657 - University of the Thai Chamber of Commerce
+ Matches IRR source, but under a different ASN	202.28.14.0/23	Office of Info.Tech. Admin. for Educational Development	AS139657 - University of the Thai Chamber of Commerce
+Has a valid RPKI cert	202.28.16.0/24	Office of Info.Tech. Admin. for Educational Development	AS38589 - Thai Education Network
+Has a valid RPKI cert	202.28.17.0/24	Office of Info.Tech. Admin. for Educational Development	AS9533 - King Mongkut's Institute of Technology North Bangkok
+Has a valid RPKI cert	202.28.20.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.21.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.22.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.24.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.24.0/22	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.25.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.26.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.27.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.32.0/24	Office of Info.Tech. Admin. for Educational Development	AS9562 - Mahasarakham University
+Has a valid RPKI cert	202.28.33.0/24	Office of Info.Tech. Admin. for Educational Development	AS9562 - Mahasarakham University
+Has a valid RPKI cert	202.28.34.0/24	Office of Info.Tech. Admin. for Educational Development	AS9562 - Mahasarakham University
+Has a valid RPKI cert	202.28.35.0/24	Office of Info.Tech. Admin. for Educational Development	AS9562 - Mahasarakham University
+Has a valid RPKI cert	202.28.36.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.37.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.38.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.39.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.40.0/24	Office of Info.Tech. Admin. for Educational Development	AS55545 - Suranaree University of Technology
+Has a valid RPKI cert	202.28.41.0/24	Office of Info.Tech. Admin. for Educational Development	AS55545 - Suranaree University of Technology
+Has a valid RPKI cert	202.28.42.0/24	Office of Info.Tech. Admin. for Educational Development	AS55545 - Suranaree University of Technology
+Has a valid RPKI cert	202.28.43.0/24	Office of Info.Tech. Admin. for Educational Development	AS55545 - Suranaree University of Technology
+Has a valid RPKI cert	202.28.44.0/24	Office of Info.Tech. Admin. for Educational Development	AS137850 - Mae Fah Luang University
+Has a valid RPKI cert	202.28.45.0/24	Office of Info.Tech. Admin. for Educational Development	AS137850 - Mae Fah Luang University
+Has a valid RPKI cert	202.28.46.0/24	Office of Info.Tech. Admin. for Educational Development	AS137850 - Mae Fah Luang University
+Has a valid RPKI cert	202.28.47.0/24	Office of Info.Tech. Admin. for Educational Development	AS137850 - Mae Fah Luang University
+Has a valid RPKI cert	202.28.48.0/22	Office of Info.Tech. Admin. for Educational Development	AS132514 - Ubon Ratchathani University,
+Has a valid RPKI cert	202.28.52.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.54.0/24	Office of Info.Tech. Admin. for Educational Development	AS137394 - Dhonburi Rajabhat University
+Has a valid RPKI cert	202.28.56.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.60.0/24	Srinakharinwirot University 114 Sukhumvit 23, Bangkok...	AS137261 - Education Network
+Has a valid RPKI cert	202.28.62.0/24	Srinakharinwirot University 114 Sukhumvit 23, Bangkok...	AS137261 - Education Network
+Has a valid RPKI cert	202.28.63.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.64.0/24	Office of Info.Tech. Admin. for Educational Development	AS135616 - Name: Thaksin University
+Has a valid RPKI cert	202.28.66.0/24	Office of Info.Tech. Admin. for Educational Development	AS135616 - Name: Thaksin University
+Has a valid RPKI cert	202.28.67.0/24	Office of Info.Tech. Admin. for Educational Development	AS135616 - Name: Thaksin University
+Has a valid RPKI cert	202.28.68.0/24	Office of Info.Tech. Admin. for Educational Development	AS9475 - Walailak University
+Has a valid RPKI cert	202.28.69.0/24	Office of Info.Tech. Admin. for Educational Development	AS9475 - Walailak University
+Has a valid RPKI cert	202.28.70.0/24	Office of Info.Tech. Admin. for Educational Development	AS9475 - Walailak University
+Has a valid RPKI cert	202.28.71.0/24	Office of Info.Tech. Admin. for Educational Development	AS9475 - Walailak University
+Has a valid RPKI cert	202.28.72.0/24	Office of Info.Tech. Admin. for Educational Development	AS140618 - Silpakorn University
+Has a valid RPKI cert	202.28.73.0/24	Office of Info.Tech. Admin. for Educational Development	AS140618 - Silpakorn University
+Has a valid RPKI cert	202.28.74.0/24	Office of Info.Tech. Admin. for Educational Development	AS140618 - Silpakorn University
+Has a valid RPKI cert	202.28.75.0/24	Office of Info.Tech. Admin. for Educational Development	AS140618 - Silpakorn University
+Has a valid RPKI cert	202.28.80.0/23	Office of Info.Tech. Admin. for Educational Development	AS149800 - Org: Phramongkutklao College of Medicine.
+Has a valid RPKI cert	202.28.82.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.83.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.84.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.86.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.88.0/24	Office of Info.Tech. Admin. for Educational Development	AS37992 - Thammasat University in thailand
+Has a valid RPKI cert	202.28.89.0/24	Office of Info.Tech. Admin. for Educational Development	AS37992 - Thammasat University in thailand
+Has a valid RPKI cert	202.28.90.0/24	Office of Info.Tech. Admin. for Educational Development	AS37992 - Thammasat University in thailand
+Has a valid RPKI cert	202.28.91.0/24	Office of Info.Tech. Admin. for Educational Development	AS37992 - Thammasat University in thailand
+Has a valid RPKI cert	202.28.92.0/22	Office of Info.Tech. Admin. for Educational Development	AS9546 - Ministry of University Affairs
+Has a valid RPKI cert	202.28.100.0/24	Office of Info.Tech. Admin. for Educational Development	AS17827 - Sukhothai Thammathirat Open University
+Has a valid RPKI cert	202.28.101.0/24	Office of Info.Tech. Admin. for Educational Development	AS17827 - Sukhothai Thammathirat Open University
+Has a valid RPKI cert	202.28.102.0/24	Office of Info.Tech. Admin. for Educational Development	AS17827 - Sukhothai Thammathirat Open University
+Has a valid RPKI cert	202.28.103.0/24	Office of Info.Tech. Admin. for Educational Development	AS17827 - Sukhothai Thammathirat Open University
+Has a valid RPKI cert	202.28.108.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.116.0/24	Office of Info.Tech. Admin. for Educational Development	AS9546 - Ministry of University Affairs
+Has a valid RPKI cert	202.28.117.0/24	Office of Info.Tech. Admin. for Educational Development	AS9546 - Ministry of University Affairs
+Has a valid RPKI cert	202.28.118.0/24	Office of Info.Tech. Admin. for Educational Development	AS9546 - Ministry of University Affairs
+Has a valid RPKI cert	202.28.119.0/24	Office of Info.Tech. Admin. for Educational Development	AS9546 - Ministry of University Affairs
+Has a valid RPKI cert	202.28.120.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.128.0/20	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.128.0/18	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.128.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.129.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.130.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.131.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.132.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.133.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.134.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.135.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.136.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.136.0/22	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.137.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.138.0/23	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.138.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.139.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.140.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.141.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.142.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.143.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.144.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.144.0/22	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.144.0/20	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.145.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.146.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.147.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.148.0/22	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.148.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.149.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.150.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.150.0/23	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.151.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.152.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.152.0/21	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.153.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.154.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.155.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.156.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.157.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.158.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.159.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.160.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.160.0/20	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.161.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.162.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.163.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.164.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.165.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.166.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.167.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.168.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.169.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.170.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.171.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.172.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.173.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.174.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.175.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.176.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.176.0/20	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.177.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.178.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.179.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.180.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.181.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.182.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.183.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.184.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.185.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.186.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.187.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.188.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.189.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.190.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.191.0/24	Office of Info.Tech. Admin. for Educational Development	AS4762 - Mahidol University, Thailand
+Has a valid RPKI cert	202.28.194.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.198.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.28.244.0/22	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.244.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.245.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.246.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.247.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.248.0/22	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.248.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.249.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.250.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.251.0/24	Office of Info.Tech. Admin. for Educational Development	AS17479 - Chiang Mai University
+Has a valid RPKI cert	202.28.253.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.4.0/24	Office of Info.Tech. Admin. for Educational Development	AS55488 - Nakorn Ratchasima Rajabhat University
+Has a valid RPKI cert	202.29.5.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.6.0/24	Office of Info.Tech. Admin. for Educational Development	AS131246 - LOEI University Network
+Has a valid RPKI cert	202.29.7.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.8.0/24	Office of Info.Tech. Admin. for Educational Development	AS141714 - Nakhon Pathom Rajabhat University
+Has a valid RPKI cert	202.29.9.0/24	Office of Info.Tech. Admin. for Educational Development	AS141714 - Nakhon Pathom Rajabhat University
+Has a valid RPKI cert	202.29.10.0/24	Office of Info.Tech. Admin. for Educational Development	AS141714 - Nakhon Pathom Rajabhat University
+Has a valid RPKI cert	202.29.11.0/24	Office of Info.Tech. Admin. for Educational Development	AS141714 - Nakhon Pathom Rajabhat University
+Has a valid RPKI cert	202.29.12.0/24	Office of Info.Tech. Admin. for Educational Development	AS24475 - ThaiREN.Thailand Research and Education Network Thailand
+Has a valid RPKI cert	202.29.14.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.15.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.16.0/24	Office of Info.Tech. Admin. for Educational Development	AS147312 - Songkhla Rajabhat University Network.
+Has a valid RPKI cert	202.29.18.0/24	Office of Info.Tech. Admin. for Educational Development	AS131257 - Suratthani ratjabhat university, Thailand
+Has a valid RPKI cert	202.29.22.0/24	Office of Info.Tech. Admin. for Educational Development	AS132879 - Rajabhat Mahasarakham University
+Has a valid RPKI cert	202.29.23.0/24	Office of Info.Tech. Admin. for Educational Development	AS56277 - Office of Info.Tech. Admin. for Educational Development
+Has a valid RPKI cert	202.29.24.0/24	Office of Info.Tech. Admin. for Educational Development	AS136624 - Sakon Nakhon Rajabhat University
+Has a valid RPKI cert	202.29.26.0/24	Office of Info.Tech. Admin. for Educational Development	AS137198 - Phranakorn Rajabhat University
+Has a valid RPKI cert	202.29.30.0/24	Office of Info.Tech. Admin. for Educational Development	AS150107 - Surundra Rajabhat University
+Has a valid RPKI cert	202.29.32.0/24	Office of Info.Tech. Admin. for Educational Development	AS24328 - Yala Rajabhat University Education
+Has a valid RPKI cert	202.29.33.0/24	Office of Info.Tech. Admin. for Educational Development	AS45847 - Nakhon Si Thammarat Rajabhat University
+Has a valid RPKI cert	202.29.34.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.37.0/24	Office of Info.Tech. Admin. for Educational Development	AS135528 - Muban Chombueng Rajabhat University
+Has a valid RPKI cert	202.29.38.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.39.0/24	Office of Info.Tech. Admin. for Educational Development	AS139753 - Valaya Alongkorn Rajabhat University Under The Royal ...
+Has a valid RPKI cert	202.29.48.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.50.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.51.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.53.0/24	Office of Info.Tech. Admin. for Educational Development	AS140075 - Roi et Rajabhat University
+Has a valid RPKI cert	202.29.54.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.55.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.56.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.57.0/24	Office of Info.Tech. Admin. for Educational Development	AS38265 - Sisaket Rajabhat University
+Has a valid RPKI cert	202.29.58.0/24	Office of Info.Tech. Admin. for Educational Development	AS132493 - Lampang-Meatha Rd., Thambon Chomphu Ampher Maung Lamp...
+Has a valid RPKI cert	202.29.60.0/24	Office of Info.Tech. Admin. for Educational Development	AS24344 - Chiangmai Rajabhat University
+Has a valid RPKI cert	202.29.62.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.64.0/24	Office of Info.Tech. Admin. for Educational Development	AS131221 - Petchaburi Rajabhat University
+Has a valid RPKI cert	202.29.65.0/24	Office of Info.Tech. Admin. for Educational Development	AS131221 - Petchaburi Rajabhat University
+Has a valid RPKI cert	202.29.66.0/24	Office of Info.Tech. Admin. for Educational Development	AS133042 - Office of the basic education commission
+Has a valid RPKI cert	202.29.68.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.70.0/24	Office of Info.Tech. Admin. for Educational Development	AS132250 - Princess of Naradhiwas University
+Has a valid RPKI cert	202.29.75.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.76.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.77.0/24	Office of Info.Tech. Admin. for Educational Development	AS23687 - The Institute for the Promotion of Teaching Science
+Has a valid RPKI cert	202.29.79.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.80.0/23	Office of Info.Tech. Admin. for Educational Development	AS137241 - PibulSongkramRajabhat University
+Has a valid RPKI cert	202.29.82.0/23	Office of Info.Tech. Admin. for Educational Development	AS10227 - Institute Rajabhat Suandusit
+Has a valid RPKI cert	202.29.83.0/24	Office of Info.Tech. Admin. for Educational Development	AS10227 - Institute Rajabhat Suandusit
+Has a valid RPKI cert	202.29.86.0/24	Office of Info.Tech. Admin. for Educational Development	AS149503 - Name: Mahamakut Buddhist University network.
+ Matches unauthenticated IRR source	202.29.88.0/24	Office of Info.Tech. Admin. for Educational Development	AS150410 - Institute of Community Colleges
+Has a valid RPKI cert	202.29.90.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.92.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.93.0/24	Office of Info.Tech. Admin. for Educational Development	AS150410 - Institute of Community Colleges
+Has a valid RPKI cert	202.29.98.0/24	Office of Info.Tech. Admin. for Educational Development	AS134690 - Chulachomklao Royal Military academy member of UniNet
+Has a valid RPKI cert	202.29.103.0/24	Office of Info.Tech. Admin. for Educational Development	AS138003 - Royal Police Cadet Academy
+Has a valid RPKI cert	202.29.104.0/24	Office of Info.Tech. Admin. for Educational Development	AS133919 - University campus network, Rajamangala University of ...
+Has a valid RPKI cert	202.29.106.0/24	Office of Info.Tech. Admin. for Educational Development	AS134064 - The Chulabhorn Graduate Institute Campus Network Memb...
+Has a valid RPKI cert	202.29.108.0/24	Office of Info.Tech. Admin. for Educational Development	AS38589 - Thai Education Network
+Has a valid RPKI cert	202.29.109.0/24	Office of Info.Tech. Admin. for Educational Development	AS38589 - Thai Education Network
+Has a valid RPKI cert	202.29.129.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.144.0/24	Office of Info.Tech. Admin. for Educational Development	AS9464 - Prince of Songkla University (Sritrang'NET)
+Has a valid RPKI cert	202.29.145.0/24	Office of Info.Tech. Admin. for Educational Development	AS9464 - Prince of Songkla University (Sritrang'NET)
+Has a valid RPKI cert	202.29.146.0/23	Office of Info.Tech. Admin. for Educational Development	AS9464 - Prince of Songkla University (Sritrang'NET)
+Has a valid RPKI cert	202.29.148.0/22	Office of Info.Tech. Admin. for Educational Development	AS9464 - Prince of Songkla University (Sritrang'NET)
+Has a valid RPKI cert	202.29.153.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.29.172.0/22	Office of Info.Tech. Admin. for Educational Development	AS133042 - Office of the basic education commission
+Has a valid RPKI cert	202.29.176.0/22	Office of Info.Tech. Admin. for Educational Development	AS133042 - Office of the basic education commission
+Has a valid RPKI cert	202.29.179.0/24	Office of Info.Tech. Admin. for Educational Development	AS133042 - Office of the basic education commission
+Has a valid RPKI cert	202.44.138.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	202.44.139.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.128.0/17	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.150.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.160.0/24	Office of Info.Tech. Admin. for Educational Development	AS133042 - Office of the basic education commission
+Has a valid RPKI cert	203.159.164.0/24	Office of Info.Tech. Admin. for Educational Development	AS133042 - Office of the basic education commission
+Has a valid RPKI cert	203.159.165.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.167.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.169.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.170.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.172.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.180.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.188.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.194.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.201.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.209.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.216.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.226.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.241.0/24	Bureau of Information and Communication Technology Of...	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.242.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.243.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.244.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.245.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.246.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.247.0/24	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+Has a valid RPKI cert	203.159.248.0/21	Office of Info.Tech. Admin. for Educational Development	AS4621 - UniNet Thailand
+ASNs
+ASN	Description
+AS4621	UniNet Thailand
+AS9475	Walailak University
+AS9546	Ministry of University Affairs
+AS9562	Mahasarakham University
+AS10227	Institute Rajabhat Suandusit
+AS17479	Chiang Mai University
+AS17827	Sukhothai Thammathirat Open University
+AS23687	The Institute for the Promotion of Teaching Science
+AS24328	Yala Rajabhat University Education
+AS24344	Chiangmai Rajabhat University
+AS24475	ThaiREN.Thailand Research and Education Network Thailand
+AS37932	Rajamangala University of Technology Isan
+AS38265	Sisaket Rajabhat University
+AS38589	Thai Education Network
+AS38601	Resaerch and Education Network
+AS45575	Rajamangala University of Technology Srivijaya
+AS45847	Nakhon Si Thammarat Rajabhat University
+AS55488	Nakorn Ratchasima Rajabhat University
+AS55545	Suranaree University of Technology
+AS56277	Office of Info.Tech. Admin. for Educational Development
+AS131221	Petchaburi Rajabhat University
+AS131246	LOEI University Network
+AS131257	Suratthani ratjabhat university, Thailand
+AS132250	Princess of Naradhiwas University
+AS132482	Rajamangala University of Technology Rattanakosin
+AS132493	Lampang-Meatha Rd., Thambon Chomphu Ampher Maung Lamp...
+AS132514	Ubon Ratchathani University,
+AS132701	Uttaradit Rajabhat University
+AS132866	Rajamangala University of Technology Suvarnabhumi und...
+AS132879	Rajabhat Mahasarakham University
+AS133042	Office of the basic education commission
+AS133919	University campus network, Rajamangala University of ...
+AS134064	The Chulabhorn Graduate Institute Campus Network Memb...
+AS134690	Chulachomklao Royal Military academy member of UniNet
+AS135129	Rajamangala University of Technology Tawan-ok(Bangpra...
+AS135141	Rajamangala University of Technology Lanna
+AS135528	Muban Chombueng Rajabhat University
+AS135588	Rajamangala University of Technology Tawan-ok (Chakra...
+AS135616	Name: Thaksin University
+AS136051	Phetchabun Rajabhat University
+AS136624	Sakon Nakhon Rajabhat University
+AS136737	Rajamangala University of Technology Krungtep
+AS137241	PibulSongkramRajabhat University
+AS137261	Education Network
+AS137277	Phranakhon Rajabhat University
+AS137546	Faculty of Engineering , Rajamangala University of
+AS137850	Mae Fah Luang University
+AS138003	Royal Police Cadet Academy
+AS138547	Ubon Ratchathani Rajabhat University
+AS139198	The National Institute of Educational Testing Service...
+AS139657	University of the Thai Chamber of Commerce
+AS139753	Valaya Alongkorn Rajabhat University Under The Royal ...
+AS140075	Roi et Rajabhat University
+AS140618	Silpakorn University
+AS141428	Rangsit University
+AS141714	Nakhon Pathom Rajabhat University
+AS147312	Songkhla Rajabhat University Network.
+AS149503	Name: Mahamakut Buddhist University network.
+AS149800	Org: Phramongkutklao College of Medicine.
+AS150107	Surundra Rajabhat University
+AS150410	Institute of Community Colleges
+A91AAEB2 Raw Allocations
+
+[ipv4] -- 103.1.160.0/22
+[ipv4] -- 202.28.0.0/23
+[ipv4] -- 202.28.2.0/24
+[ipv4] -- 202.28.3.0/24
+[ipv4] -- 202.28.4.0/22
+[ipv4] -- 202.28.8.0/21
+[ipv4] -- 202.28.16.0/20
+[ipv4] -- 202.28.32.0/19
+[ipv4] -- 202.28.64.0/18
+[ipv4] -- 202.28.128.0/20
+[ipv4] -- 202.28.144.0/20
+[ipv4] -- 202.28.160.0/19
+[ipv4] -- 202.28.192.0/18
+[ipv4] -- 202.29.0.0/23
+[ipv4] -- 202.29.2.0/23
+[ipv4] -- 202.29.4.0/22
+[ipv4] -- 202.29.8.0/21
+[ipv4] -- 202.29.16.0/20
+[ipv4] -- 202.29.32.0/19
+[ipv4] -- 202.29.64.0/18
+[ipv4] -- 202.29.128.0/17
+[ipv4] -- 202.44.138.0/24
+[ipv4] -- 202.44.139.0/24
+[ipv4] -- 203.159.128.0/17
+[ipv6] -- 2001:3c8::/35
+[ipv6] -- 2001:3c8:2000::/35
+[ipv6] -- 2001:3c8:4000::/34
+[ipv6] -- 2001:3c8:8000::/33
+[asn] -- AS4621
+[asn] -- AS9475
+[asn] -- AS9546
+[asn] -- AS9562
+[asn] -- AS10227
+[asn] -- AS17479
+[asn] -- AS17827
+[asn] -- AS23687
+[asn] -- AS24328
+[asn] -- AS24344
+[asn] -- AS24475
+[asn] -- AS37932
+[asn] -- AS38265
+[asn] -- AS38589
+[asn] -- AS38601
+[asn] -- AS45575
+[asn] -- AS45847
+[asn] -- AS55488
+[asn] -- AS55545
+[asn] -- AS56277
+[asn] -- AS131221
+[asn] -- AS131246
+[asn] -- AS131257
+[asn] -- AS132250
+[asn] -- AS132482
+[asn] -- AS132493
+[asn] -- AS132514
+[asn] -- AS132701
+[asn] -- AS132866
+[asn] -- AS132879
+[asn] -- AS133042
+[asn] -- AS133919
+[asn] -- AS134064
+[asn] -- AS134690
+[asn] -- AS135129
+[asn] -- AS135141
+[asn] -- AS135528
+[asn] -- AS135588
+[asn] -- AS135616
+[asn] -- AS136051
+[asn] -- AS136624
+[asn] -- AS136737
+[asn] -- AS137241
+[asn] -- AS137261
+[asn] -- AS137277
+[asn] -- AS137546
+[asn] -- AS137850
+[asn] -- AS138003
+[asn] -- AS138547
+[asn] -- AS139198
+[asn] -- AS139657
+[asn] -- AS139753
+[asn] -- AS140075
+[asn] -- AS140618
+[asn] -- AS141428
+[asn] -- AS141714
+[asn] -- AS147312
+[asn] -- AS149503
+[asn] -- AS149800
+[asn] -- AS150107
+[asn] -- AS150410
+                    
+
 # Restricting network traffic to your enterprise with an IP allow list
 
 You can restrict access to your enterprise and only allow access to your resources from specified IP addresses by using an IP allow list.
