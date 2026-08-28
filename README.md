@@ -1,3 +1,2552 @@
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://2beshop.com//images/products/Microsoft%20Surface%20Tablet%20Surface%20Laptop%20Go.jpg" alt="Microsoft Surface Tablet Surface Laptop Go Microsoft-Surface-Tablet-Surface-Laptop-Go"/><figcaption class="wp-element-caption">ภาพสินค้า: Microsoft Surface Tablet Surface Laptop Go Microsoft-Surface-Tablet-Surface-Laptop-Go</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/biodieselproductionstation/Microsoft-Surface-Tablet-Surface-Laptop-Go-Part-THJ-00022" target="_blank" rel="noreferrer noopener">Datasheet (PDF)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ประหยัด41.45%</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">สเปกหลัก</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikiversity.org/wiki/Introduction_to_Computers">ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><a class="mw-selflink selflink">คอมพิวเตอร์คืออะไร?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Hardware">ฮาร์ดแวร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Numeral_systems">ระบบตัวเลข</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Data_sizes_and_speeds">ขนาดและความเร็วของข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Data_Coding_and_Information_Decoding">การเข้ารหัสข้อมูลและการถอดรหัสข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Types_of_computers">ประเภทของคอมพิวเตอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/What_is_a_motherboard%3F">เมนบอร์ดคืออะไร?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Computer_networks">เครือข่ายคอมพิวเตอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Software">ซอฟต์แวร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Information_technology">เทคโนโลยีสารสนเทศ</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Microsoft Surface Tablet Surface Laptop Go<br />10th Gen Intel Core i5 processor – 1035G1<br />8GB<br />256 GB SSD<br />Screen: 12.4 PixelSense Display<br />Resolution: 1536 x 1024 (148 PPI)<br />Aspect ratio: 3:2<br />Touch: 10 point multi-touch- Aspect ratio: 3:2<br />Intel® UHD Graphics<br />Windows 10 Home in S mode<br />Cameras, video and audio<br />720p HD f2.0 camera (front-facing)<br />Wireless<br />Wi-Fi 6: 802.11ax compatible<br />Bluetooth® Wireless 5.0 technology<br />Connections<br />1 x USB-C, 1 x USB-A, 3.5 mm headphone jack , 1 x Surface Connect port<br />Battery Life : Up to 13 hours of typical device usage<br />Color : Platinum<br />Dimensions : 27.8 cm x 20.5 cm x 1.56 cm<br />Weight 1.1 kg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/biodieselproductionstation/Microsoft-Surface-Tablet-Surface-Laptop-Go-Part-THJ-00022/blob/gh-pages/Window%2011.html">Windows 11 Home</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1 year limited hardware warranty by Microsoft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">การรับประกัน</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1 year limited hardware warranty by Microsoft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">การจัดส่ง</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ส่งด่วนฟรี 4-9 ชม เวลา-ทำการ (กรุงเทพ) 1-2 วัน (ต่างจังหวัด)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="unboxVideoTitle">วิดีโอแกะกล่องสินค้า (Unboxing)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ดูการแกะกล่อง/อุปกรณ์ภายใน และภาพรวมการใช้งานของรุ่นนี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube-nocookie.com/embed/kp4Acofumyg"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://www.youtube-nocookie.com/embed/kp4Acofumyg
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><a href="https://youtu.be/kp4Acofumyg" target="_blank" rel="noreferrer noopener">ดูบน YouTube</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="bundle">สินค้าราคาพิเศษเมื่อซื้อคู่</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://2beshop.com/Sophos-End-Point-Protection-for-Client/EP100U12ZZNCAA.html"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sophos End Point Protection for Client (Part# : EP100U12ZZNCAA)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sophos End Point Protection for Client - Stops never seen before threats with deep learning AI - Blocks ransomware and rolls back affected files to a safe state - Prevents the exploit techniques used throughout the attack chain - Reduces the attack surface with app, device and web control - Easy to deploy, configure and maintain even in remote working environments Platform/Management: -Active Directory sync -User-based policy -Sophos Cloud management console 1 Year Subscription</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1,990&nbsp;→&nbsp;<strong>990 บาท บาท</strong>&nbsp;(ยังไม่รวมภาษี) —&nbsp;<a class="seelink" href="https://2beshop.com/Sophos-End-Point-Protection-for-Client/EP100U12ZZNCAA.html">ดูสินค้า »</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="faq">คำถามที่พบบ่อย</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>มีบริการหน้างานด่วนไหม?การรับประกันของรุ่นนี้คืออะไร?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">ลิงก์ที่เกี่ยวข้อง</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://2beshop.com/Microsoft-Surface-Tablet-Surface-Laptop-Go.html">หมวด Microsoft Surface Tablet Surface Laptop Go</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://2beshop.com/brand/dell-emc/">สินค้าแบรนด์ Microsoft</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://2beshop.com/contact/">ติดต่อขอใบเสนอราคาองค์กร</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>เพิ่มลงตะกร้า</p>
+<!-- /wp:paragraph -->
+
+<p>https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_(%E0%B9%84%E0%B8%97%E0%B8%A2)</p>
+
+<!-- wp:list {"ordered":true,"className":"prc-Breadcrumbs-BreadcrumbsList-BKjpe"} -->
+<ol class="wp-block-list prc-Breadcrumbs-BreadcrumbsList-BKjpe"><!-- wp:list-item -->
+<li><a class="ws-normal prc-Breadcrumbs-Item-jcraJ selected" href="https://github.com/marketplace/actions/github-wiki-action#">&nbsp;Wiki Action</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1,"className":"marketplace-module__OverviewHeading__wixgR"} -->
+<h1 class="wp-block-heading marketplace-module__OverviewHeading__wixgR">GitHub Wiki Action</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Actions</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/login?return_to=%2Fmarketplace%2Factions%2Fgithub-wiki-action" class="prc-Button-ButtonBase-9n-Xk"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"heading-element"} -->
+<h1 class="wp-block-heading heading-element">Publish to GitHub wiki</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#publish-to-github-wiki"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>📖 GitHub Action to sync a folder to the GitHub wiki</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/61068799/231881220-2915f956-dbdb-4eee-8807-4eba9537523f.png" target="_blank" rel="noreferrer noopener"><img src="https://user-images.githubusercontent.com/61068799/231881220-2915f956-dbdb-4eee-8807-4eba9537523f.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>📂 Keep your dev docs in sync with your code<br />💡 Inspired by&nbsp;<a href="https://github.com/Decathlon/wiki-page-creator-action/issues/11">Decathlon/wiki-page-creator-action#11</a><br />🔁 Able to open PRs with docs updates<br />✨ Use the fancy GitHub wiki reader UI for docs<br />🌐 Works across repositories (with a&nbsp;<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">PAT</a>)<br />💻 Supports&nbsp;<code>runs-on: windows-*</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"heading-element"} -->
+<h2 class="wp-block-heading heading-element">Usage</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#usage"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/5ceb0030e5e7d5d8a50814dbe3c2fc8e580ecefc22b464b1a6c43c1018b33e1b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4769744875622b416374696f6e7326636f6c6f723d323038384646266c6f676f3d4769744875622b416374696f6e73266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/5ceb0030e5e7d5d8a50814dbe3c2fc8e580ecefc22b464b1a6c43c1018b33e1b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4769744875622b416374696f6e7326636f6c6f723d323038384646266c6f676f3d4769744875622b416374696f6e73266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="GitHub Actions"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/ec79a3c1721b63b606eafdc1571bd3618a665675ce24e1f036838c62e43c6154/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/ec79a3c1721b63b606eafdc1571bd3618a665675ce24e1f036838c62e43c6154/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="GitHub"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Add a GitHub Actions workflow file to your&nbsp;<code>.github/workflows/</code>&nbsp;folder similar to the example shown below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">name: Publish wiki
+on:
+  push:
+    branches: [main]
+    paths:
+      - wiki/**
+      - .github/workflows/publish-wiki.yml
+concurrency:
+  group: publish-wiki
+  cancel-in-progress: true
+permissions:
+  contents: write
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: Andrew-Chen-Wang/github-wiki-action@v5</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>☝ This workflow will mirror the&nbsp;<code>wiki/</code>&nbsp;folder in your GitHub repository to the&nbsp;<code>user/repo.wiki.git</code>&nbsp;Git repo that houses the wiki documentation! You can use any of the&nbsp;<a href="https://github.com/github/markup#markups">supported markup languages</a>&nbsp;like MediaWiki, Markdown, or AsciiDoc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>🔑 In order to successfully push to the&nbsp;<code>.wiki.git</code>&nbsp;Git repository that backs the wiki tab, we need the&nbsp;<code>contents: write</code>&nbsp;permission! Make sure you have something like shown above either for your entire workflow, or just for one particular job. This will give the auto-generated&nbsp;<code>${{ github.token }}</code>&nbsp;that we use by default permission to push to the&nbsp;<code>.wiki.git</code>&nbsp;repo of the repository that the action runs on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/5518449e49396838b061601cfdaaeaa510fd25ec14a45f6637e0f5c3108132ac/68747470733a2f2f692e696d6775722e636f6d2f41424b495334682e706e67" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/5518449e49396838b061601cfdaaeaa510fd25ec14a45f6637e0f5c3108132ac/68747470733a2f2f692e696d6775722e636f6d2f41424b495334682e706e67" alt="Screenshot of 'Create the first page' button"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>⚠️&nbsp;You must create a dummy page manually! This is what initially creates the GitHub wiki Git-based storage backend that we then push to in this Action.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After creating your workflow file, now all you need is to put your Markdown files in a&nbsp;<code>wiki/</code>&nbsp;folder (or whatever you set the&nbsp;<code>path</code>&nbsp;option to) and commit them to your default branch to trigger the workflow (or whatever other trigger you set up).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>💡 Each page has an auto-generated title. It is derived from the filename by replacing every&nbsp;<code>-</code>&nbsp;(dash) character with a space. Name your files accordingly. The&nbsp;<code>Home.md</code>&nbsp;file will automatically become the homepage, not&nbsp;<code>README.md</code>. This is specific to GitHub wikis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"heading-element"} -->
+<h3 class="wp-block-heading heading-element">Inputs</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#inputs"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong><code>direction</code>:</strong>&nbsp;Select from&nbsp;<code>push</code>&nbsp;or&nbsp;<code>pull</code>.&nbsp;<code>push</code>&nbsp;(the default) syncs the&nbsp;<code>path</code>&nbsp;folder to the GitHub wiki.&nbsp;<code>pull</code>&nbsp;does the reverse: it clones the wiki, converts the pages back into source-friendly form (<code>Home.md</code>&nbsp;becomes&nbsp;<code>README.md</code>&nbsp;and bare wiki page links get the extension of the page they target back), and mirrors them into the&nbsp;<code>path</code>&nbsp;folder of your workspace. The&nbsp;<code>ignore</code>&nbsp;input is not applied in pull mode. Nothing is committed or pushed to your repository in pull mode; pair it with a PR-creating action like&nbsp;<a href="https://github.com/peter-evans/create-pull-request">create-pull-request</a>. See&nbsp;<a href="https://github.com/marketplace/actions/github-wiki-action#pulling-wiki-edits-back">Pulling wiki edits back</a>&nbsp;below.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>strategy</code>:</strong>&nbsp;Select from&nbsp;<code>clone</code>&nbsp;or&nbsp;<code>init</code>&nbsp;to determine which method to use to push changes to the GitHub wiki.&nbsp;<code>clone</code>&nbsp;will clone the&nbsp;<code>.wiki.git</code>&nbsp;repo and add an additional commit.&nbsp;<code>init</code>&nbsp;will create a new repo with a single commit and force push to the&nbsp;<code>.wiki.git</code>.&nbsp;<code>init</code>&nbsp;involves a force-push! The default is&nbsp;<code>clone</code>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>repository</code>:</strong>&nbsp;The repository housing the wiki. Use this if you're publishing to a wiki that's not the current repository. You can change the GitHub server with the&nbsp;<code>github-server-url</code>&nbsp;input. Default is&nbsp;<code>${{ github.repository }}</code>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>github-server-url</code>:</strong>&nbsp;An alternate&nbsp;<code>https://github.com</code>&nbsp;URL, usually for GitHub Enterprise deployments under your own domain. Default is&nbsp;<code>${{ github.server_url }}</code>&nbsp;(usually&nbsp;<code>https://github.com</code>).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>token</code>:</strong>&nbsp;<code>${{ github.token }}</code>&nbsp;is the default. This token is used when cloning and pushing wiki changes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>path</code>:</strong>&nbsp;The directory to use for your wiki contents. Default&nbsp;<code>wiki/</code>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>commit-message</code>:</strong>&nbsp;The message to use when committing new content. Default is&nbsp;<code>Update wiki ${{ github.sha }}</code>. You probably don't need to change this, since this only applies if you look really closely in your wiki.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>ignore</code>:</strong>&nbsp;A multiline list of files that should be ignored when committing and pushing to the remote wiki. Each line is a pattern like&nbsp;<code>.gitignore</code>. Make sure these paths are relative to the path option! The default is none.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>dry-run</code>:</strong>&nbsp;Whether or not to actually attempt to push changes back to the wiki itself. If this is set to&nbsp;<code>true</code>, we instead print the remote URL and do not push to the remote wiki. The default is&nbsp;<code>false</code>. This is useful for testing.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>preprocess</code>:</strong>&nbsp;If this option is true, we will preprocess the wiki to move the&nbsp;<code>README.md</code>&nbsp;to&nbsp;<code>Home.md</code>&nbsp;as well as rewriting links to wiki pages to be bare links. Link targets in any markup format GitHub renders (<code>.md</code>,&nbsp;<code>.rst</code>,&nbsp;<code>.adoc</code>, ...) are recognized, though only Markdown files are parsed for links. Relative links that point at other files in your repository (a script, a source file, a Markdown file outside the wiki folder) are rewritten to full&nbsp;<code>blob/</code>&nbsp;view URLs (<code>raw/</code>&nbsp;URLs for images) pinned to the pushed commit, the same way GitHub resolves them when rendering in-repo Markdown. This helps ensure that the Markdown works in source control as well as the wiki. The default is true. See&nbsp;<a href="https://github.com/marketplace/actions/github-wiki-action#preprocess-notes"><code>preprocess:</code>&nbsp;notes</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong><code>disable-empty-commits</code>:</strong>&nbsp;By default, any triggering of this action will result in a commit to the Wiki, even if that commit is empty. If this option is true, a workflow run which would result in no changes to the Wiki files, will no longer create an empty commit. The default is false.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"className":"heading-element"} -->
+<h4 class="wp-block-heading heading-element"><code>preprocess:</code>&nbsp;notes</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#preprocess-notes"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Only Markdown pages are parsed for links; pages in other formats (<code>.rst</code>,&nbsp;<code>.adoc</code>, ...) are synced verbatim but still recognized as link targets.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>GitHub serves wiki pages flat by basename, so cross-directory page links are rewritten to bare page names, while same-directory links keep their form. Reference-style definitions (<code>[label]: ./page.md</code>) are rewritten like the links or images that use them.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Images pointing at repository files become&nbsp;<code>raw/</code>&nbsp;URLs (a&nbsp;<code>blob/</code>&nbsp;page would not render inside an image); images shipped inside the wiki folder stay relative.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A page whose name itself ends in a renderable extension (say a page called&nbsp;<code>example.org</code>) is treated as a file link rather than a page link.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"className":"heading-element"} -->
+<h4 class="wp-block-heading heading-element"><code>strategy:</code>&nbsp;input</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#strategy-input"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are some specific usecases where using&nbsp;<code>strategy: init</code>&nbsp;might be better than the default&nbsp;<code>strategy: clone</code>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Your wiki is enormous.</strong>&nbsp;And I don't mean in terms of text. Text is nothing compared with images. If your wiki has a lot of included images, then you probably don't want to store the complete history of those large binary files. Instead, you can use&nbsp;<code>strategy: init</code>&nbsp;to create a single commit each time.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>You prefer the "deploy" semantics.</strong>&nbsp;If you just like the feel of having your GitHub wiki act more like GitHub Pages, that's great! You can&nbsp;<code>--force</code>&nbsp;push using&nbsp;<code>strategy: init</code>&nbsp;on each wiki deployment and none of that pesky history will be saved.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"className":"heading-element"} -->
+<h3 class="wp-block-heading heading-element">Outputs</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#outputs"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong><code>wiki_url</code>:</strong>&nbsp;The HTTP URL that points to the deployed repository's wiki tab. This is essentially the concatenation of&nbsp;<code>${{ github.server_url }}</code>,&nbsp;<code>${{ github.repository }}</code>, and the&nbsp;<code>/wiki</code>&nbsp;page.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"className":"heading-element"} -->
+<h3 class="wp-block-heading heading-element">Pulling wiki edits back</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#pulling-wiki-edits-back"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If someone edits a page in the wiki UI, those edits normally get overwritten by the next push from your&nbsp;<code>wiki/</code>&nbsp;folder.&nbsp;<code>direction: pull</code>&nbsp;lets you sync them back into your source tree instead. It clones the wiki, applies the inverse of the&nbsp;<code>preprocess</code>&nbsp;transformations (<code>Home.md</code>&nbsp;➡&nbsp;<code>README.md</code>,&nbsp;<code>./page</code>&nbsp;➡&nbsp;<code>./page.md</code>), and updates the&nbsp;<code>path</code>&nbsp;folder in your workspace. It never commits or pushes to your repository, so combine it with something like&nbsp;<a href="https://github.com/peter-evans/create-pull-request">create-pull-request</a>&nbsp;to open a docs PR:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">name: Pull wiki
+on:
+  gollum: # Runs whenever a wiki page is created or edited
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  pull-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: Andrew-Chen-Wang/github-wiki-action@v5
+        with:
+          direction: pull
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          branch: sync-wiki
+          title: Sync wiki edits back into wiki/
+          commit-message: Sync wiki edits back into wiki/</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:heading {"level":3,"className":"heading-element"} -->
+<h3 class="wp-block-heading heading-element">Cross-repo wikis</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#cross-repo-wikis"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You&nbsp;<em>can</em>&nbsp;use this action to deploy your octocat/mega-docs repository to the octocat/mega-project repository's wiki tab! You just need to:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>Create a custom GitHub Personal Access Token with the permissions to push to the octocat/mega-project repository. That's the target repo where your wiki pages will be pushed to the&nbsp;<code>.wiki.git</code>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>In the octocat/mega-docs repo (the source code for the wiki), you need to set the&nbsp;<code>repository:</code>&nbsp;option to&nbsp;<code>repository: octocat/mega-project</code>&nbsp;to tell the action to push there.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You need to set the&nbsp;<code>token:</code>&nbsp;option to the Personal Access Token that you created with the ability to push to the wiki Git repo. You can use repository secrets for this! Something like&nbsp;<code>token: ${{ secrets.MY_TOKEN }}</code>&nbsp;is good!</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Here's an example of the octocat/mega-docs repo that will push the contents of the root folder (<code>./</code>) to the octocat/mega-project repo's wiki tab!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">on:
+  push:
+    branches: [main]
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: Andrew-Chen-Wang/github-wiki-action@v5
+        with:
+          token: ${{ secrets.MEGA_PROJECT_GITHUB_TOKEN }}
+          repository: octocat/mega-project
+          path: .</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:heading {"className":"heading-element"} -->
+<h2 class="wp-block-heading heading-element">Development</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="anchor" href="https://github.com/marketplace/actions/github-wiki-action#development"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/4f473d47bffb9e493ce2644faf37aedac33cb9d5c901d790ca785d7e00058f2e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d44656e6f26636f6c6f723d303030303030266c6f676f3d44656e6f266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/4f473d47bffb9e493ce2644faf37aedac33cb9d5c901d790ca785d7e00058f2e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d44656e6f26636f6c6f723d303030303030266c6f676f3d44656e6f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Deno"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://camo.githubusercontent.com/5ceb0030e5e7d5d8a50814dbe3c2fc8e580ecefc22b464b1a6c43c1018b33e1b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4769744875622b416374696f6e7326636f6c6f723d323038384646266c6f676f3d4769744875622b416374696f6e73266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank" rel="noreferrer noopener"><img src="https://camo.githubusercontent.com/5ceb0030e5e7d5d8a50814dbe3c2fc8e580ecefc22b464b1a6c43c1018b33e1b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4769744875622b416374696f6e7326636f6c6f723d323038384646266c6f676f3d4769744875622b416374696f6e73266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="GitHub Actions"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This GitHub Action uses a self-downloaded version of Deno. See&nbsp;<code>cliw</code>&nbsp;for the&nbsp;<code>cli.ts</code>&nbsp;wrapper script that downloads the Deno binary and runs the TypeScript code. The main script itself is ~100 lines of code, so it's not too bad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ℹ Because the version of Deno is&nbsp;<em>pinned</em>, it's recommended to every-so-often bump it to the latest version.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To test the action, open a PR! The&nbsp;<code>test-action.yml</code>&nbsp;workflow will run the code with&nbsp;<code>dry-run: true</code>&nbsp;as well as a real run! Yes, this does get tedious swapping between your IDE and the PR, but it's the easiest way to test the action</p>
+<!-- /wp:paragraph -->
+
+<p>---<br />
+title: "Web Content Accessibility Guidelines (WCAG) 2 Level AA Conformance"<br />
+title_html: "Web Content Accessibility Guidelines (WCAG) 2<br />Level AA Conformance"<br />
+lang: en<br />
+last_updated: 2026-02-20<br />
+permalink: /WCAG2AA-Conformance<br />
+ref: /WCAG2AA-Conformance</p>
+<p>github:<br />
+  label: wai-wcag-intro</p>
+<p>layout: minimal<br />
+class: tight-page<br />
+---</p>
+<p><img src="https://www.w3.org/WAI/WCAG22/wcag2.2AA-blue.png" alt="W3C WCAG 2.2 AA" width="88" height="32"> <img src="https://www.w3.org/WAI/WCAG22/wcag2.2AA.png" alt="W3C WCAG 2.2 AA" width="88" height="32"> Web pages with one of these logos claim conformance to WCAG 2.2 at Level AA.</p>
+<p><img src="https://www.w3.org/WAI/wcag21/wcag2.1AA-blue-v.png" alt="W3C WCAG 2.1 AA" width="88" height="32"> <img src="https://www.w3.org/WAI/wcag21/wcag2.1AA-v.png" alt="W3C WCAG 2.1 AA" width="88" height="32"> Web pages with one of these logos claim conformance to WCAG 2.1 at Level AA.</p>
+<p><img src="https://www.w3.org/WAI/wcag2AA-blue.png" alt="W3C WCAG 2.0 AA" width="88" height="32"> <img src="https://www.w3.org/WAI/wcag2AA.png" alt="W3C WCAG 2.0 AA" width="88" height="32"> Web pages with one of these logos claim conformance to WCAG 2.0 at Level AA.</p>
+<p><strong><em>Important note:</em> Claims are not verified by W3C. Content providers are solely responsible for the use of these logos.</strong></p>
+<h2>About WCAG</h2>
+<p>Web Content Accessibility Guidelines (WCAG) explains how to make web content more accessible to people with disabilities. WCAG covers web sites, applications, and other digital content. It is developed by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI). WCAG is an international standard.</p>
+<p>There are three levels of conformance:</p>
+<ul>
+<li>Level A is the minimum level.</li>
+<li>Level AA includes all Level A and AA requirements. Many organizations strive to meet Level AA.</li>
+<li>Level AAA includes all Level A, AA, and AAA requirements.</li>
+</ul>
+<h2>Learn More</h2>
+<p>To learn more, please see:</p>
+<ul>
+<li><strong><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/" rel="nofollow">Introduction to Web Accessibility</a></strong></li>
+<li><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/" rel="nofollow">Web Content Accessibility Guidelines (WCAG) Overview</a></strong></li>
+</ul>
+<p><em>(Content providers: see also <a href="https://www.w3.org/WAI/standards-guidelines/wcag/conformance-logos" rel="nofollow">Adding WCAG Conformance Logos</a>.)</em></p>
+<p># Remote-Repositorys verwalten</p>
+<p>Lerne, wie du mit deinen lokalen Repositories auf deinem Computer und mit Remote-Repositories auf GitHub arbeitest.</p>
+<p>## Hinzufügen eines Remoterepositorys</p>
+<p>Verwende zum Hinzufügen eines neuen Remoterepositorys im Terminal den Befehl `git remote add` in dem Verzeichnis, in dem dein Repository gespeichert ist.</p>
+<p>Der Befehl `git remote add` akzeptiert zwei Argumente:</p>
+<p>* Ein Remote-Name (beispielsweise `origin`)<br />
+* Eine Remote-URL (beispielsweise `https://github.com/OWNER/REPOSITORY.git`)</p>
+<p>Zum Beispiel:</p>
+<p>```shell<br />
+$ git remote add origin https://github.com/OWNER/REPOSITORY.git<br />
+# Set a new remote</p>
+<p>$ git remote -v<br />
+# Verify new remote<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (push)<br />
+```</p>
+<p>Weitere Informationen zur zu verwendenden URL findest du unter [Informationen zu Remote-Repositorys](/de/get-started/git-basics/about-remote-repositories).</p>
+<p>### Problembehandlung: Das Remoterepository „origin“ ist bereits vorhanden.</p>
+<p>Dieser Fehler bedeutet, dass du versucht hast, ein Remote hinzuzufügen, dessen Name bereits in deinem lokalen Repository existiert.</p>
+<p>```shell<br />
+$ git remote add origin https://github.com/octocat/Spoon-Knife.git<br />
+&gt; fatal: remote origin already exists.<br />
+```</p>
+<p>Du kannst das Problem wie folgt beheben:</p>
+<p>* Verwende einen anderen Namen für das Remoterepository.<br />
+* Benenne das vorhandene Remoterepository um, bevor du das neue Remoterepository hinzufügst. Weitere Informationen findest du weiter unten unter [Umbenennen eines Remoterepositorys](#renaming-a-remote-repository).<br />
+* Löschen Sie das bestehende Remote-Repository, bevor Sie das neue Remote-Repository hinzufügen. Weitere Informationen findest du weiter unten unter [Entfernen eines Remoterepositorys](#removing-a-remote-repository).</p>
+<p>## Ändern der URL eines Remoterepositorys</p>
+<p>Der Befehl `git remote set-url` dient zum Ändern der URL eines vorhandenen Remoterepositorys.</p>
+<p>&gt; \[!TIP]<br />
+&gt; Weitere Informationen zum Unterschied zwischen HTTPS- und SSH-URLs findest du unter [Informationen zu Remote-Repositorys](/de/get-started/git-basics/about-remote-repositories).</p>
+<p>Der Befehl `git remote set-url` akzeptiert zwei Argumente:</p>
+<p>* einen vorhandenen Remote-Namen.<br />
+  `origin` und `upstream` werden beispielsweise häufig verwendet.<br />
+* Eine neue URL für das Remote. Zum Beispiel:</p>
+<p>  * Wenn Du eine Aktualisierung auf HTTPS durchführst, sieht die URL ähnlich aus wie folgende:</p>
+<p>  ```shell<br />
+  https://github.com/OWNER/REPOSITORY.git<br />
+  ```</p>
+<p>  * Wenn Du eine Aktualisierung auf SSH durchführst, sieht die URL ähnlich aus wie folgende:</p>
+<p>  ```shell<br />
+  git@github.com:OWNER/REPOSITORY.git<br />
+  ```</p>
+<p>### Remote-URLs von SSH auf HTTPS umstellen</p>
+<p>1. Öffne <span class="platform-mac">Terminal</span><span class="platform-linux">Terminal</span><span class="platform-windows">Git Bash</span>.</p>
+<p>2. Ändere das aktuelle Arbeitsverzeichnis zu deinem lokalen Projekt.</p>
+<p>3. Liste die vorhandenen Remotes auf, um den Namen des Remote zu erhalten, den du ändern möchtest.</p>
+<p>   ```shell<br />
+   $ git remote -v<br />
+   &gt; origin  git@github.com:OWNER/REPOSITORY.git (fetch)<br />
+   &gt; origin  git@github.com:OWNER/REPOSITORY.git (push)<br />
+   ```</p>
+<p>4. Ändere die URL deines Remotes von SSH zu HTTPS mit dem Befehl `git remote set-url`.</p>
+<p>   ```shell<br />
+   git remote set-url origin https://github.com/OWNER/REPOSITORY.git<br />
+   ```</p>
+<p>5. Überprüfe, ob die Remote-URL geändert wurde.</p>
+<p>   ```shell<br />
+   $ git remote -v<br />
+   # Verify new remote URL<br />
+   &gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+   &gt; origin  https://github.com/OWNER/REPOSITORY.git (push)<br />
+   ```</p>
+<p>Wenn Sie das nächste Mal `git fetch`, `git pull` oder `git push` an das Remote-Repository ausführen, werden Sie nach Ihrem GitHub-Benutzernamen und -Kennwort gefragt. Wenn Git Sie zur Eingabe Ihres Kennworts auffordert, geben Sie Ihr personal access token ein. Alternativ kann ein Hilfsprogramm für Anmeldedaten wie die [Git Anmeldeinformationsverwaltung](https://github.com/GitCredentialManager/git-credential-manager/blob/main/README.md) verwendet werden. Die kennwortbasierte Authentifizierung für Git wurde zugunsten sichererer Authentifizierungsmethoden aufgegeben. Weitere Informationen finden Sie unter [Verwalten deiner persönlichen Zugriffstoken](/de/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).</p>
+<p>Sie können einen [Anmeldeinformationen-Helfer verwenden](/de/get-started/git-basics/caching-your-github-credentials-in-git), damit Git sich jedes Mal, wenn es mit GitHub kommuniziert, Ihren GitHub-Benutzernamen und personal access token merkt.</p>
+<p>### Umstellen von Remote-URLs von HTTPS auf SSH</p>
+<p>1. Öffne <span class="platform-mac">Terminal</span><span class="platform-linux">Terminal</span><span class="platform-windows">Git Bash</span>.</p>
+<p>2. Ändere das aktuelle Arbeitsverzeichnis zu deinem lokalen Projekt.</p>
+<p>3. Liste die vorhandenen Remotes auf, um den Namen des Remote zu erhalten, den du ändern möchtest.</p>
+<p>   ```shell<br />
+   $ git remote -v<br />
+   &gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+   &gt; origin  https://github.com/OWNER/REPOSITORY.git (push)<br />
+   ```</p>
+<p>4. Ändern Sie die Remote-URL mithilfe des Befehls `git remote set-url` von HTTPS auf SSH.</p>
+<p>   ```shell<br />
+   git remote set-url origin git@github.com:OWNER/REPOSITORY.git<br />
+   ```</p>
+<p>5. Überprüfe, ob die Remote-URL geändert wurde.</p>
+<p>   ```shell<br />
+   $ git remote -v<br />
+   # Verify new remote URL<br />
+   &gt; origin  git@github.com:OWNER/REPOSITORY.git (fetch)<br />
+   &gt; origin  git@github.com:OWNER/REPOSITORY.git (push)<br />
+   ```</p>
+<p>### Problembehandlung: Es ist kein Remoterepository mit dem Namen „\[Name]“ vorhanden.</p>
+<p>Dieser Fehler bedeutet, dass das Remote, das Sie zu ändern versucht haben, nicht existiert:</p>
+<p>```shell<br />
+$ git remote set-url sofake https://github.com/octocat/Spoon-Knife<br />
+&gt; fatal: No such remote 'sofake'<br />
+```</p>
+<p>Überprüfe, ob Du den Namen des Remote korrekt eingegeben hast.</p>
+<p>## Umbenennen eines Remoterepositorys</p>
+<p>Verwende den Befehl `git remote rename`, um einen vorhandenen Remote umzubenennen.</p>
+<p>Der Befehl `git remote rename` akzeptiert zwei Argumente:</p>
+<p>* Ein vorhandener Remote-Name, zum Beispiel `origin`<br />
+* Ein neuer Name für die Remote, beispielsweise `destination`</p>
+<p>### Beispiel für die Umbenennung eines Remoterepositorys</p>
+<p>In diesen Beispielen wird davon ausgegangen, dass du [beim Klonen HTTPS verwendest](/de/get-started/git-basics/about-remote-repositories#cloning-with-https-urls) (wie empfohlen).</p>
+<p>```shell<br />
+$ git remote -v<br />
+# View existing remotes<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (push)</p>
+<p>$ git remote rename origin destination<br />
+# Change remote name from 'origin' to 'destination'</p>
+<p>$ git remote -v<br />
+# Verify remote's new name<br />
+&gt; destination  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+&gt; destination  https://github.com/OWNER/REPOSITORY.git (push)<br />
+```</p>
+<p>### Problembehandlung: Der Konfigurationsabschnitt „remote.\[alter Name]“ konnte nicht in „remote.\[neuer Name]“ umbenannt werden.</p>
+<p>Dieser Fehler bedeutet, dass der alte Remote-Name, den du eingegeben hast, nicht existiert.</p>
+<p>Mit dem Befehl `git remote -v` kannst du überprüfen, welche Remoterepositorys vorhanden sind:</p>
+<p>```shell<br />
+$ git remote -v<br />
+# View existing remotes<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (push)<br />
+```</p>
+<p>### Problembehandlung: Das Remoterepository „\[neuer Name]“ ist bereits vorhanden.</p>
+<p>Wenn dieser Fehler ausgegeben wird, wird der Name, in den Du das Remote-Repository umbenennen möchtest, bereits verwendet. Verwende entweder einen anderen Namen für das Remote, oder benenne das ursprüngliche Remote um.</p>
+<p>## Entfernen eines Remoterepositorys</p>
+<p>Verwende den Befehl `git remote rm`, um eine Remote-URL aus deinem Repository zu entfernen.</p>
+<p>Der Befehl `git remote rm` akzeptiert ein einzelnes Argument:</p>
+<p>* Einen Remote-Name (beispielsweise `destination`)</p>
+<p>Wenn du die Remote-URL aus deinem Repository entfernst, wird lediglich die Verknüpfung zwischen lokalem Repository und Remoterepository aufgehoben. Das Remoterepository wird dadurch nicht gelöscht.</p>
+<p>### Beispiel für das Entfernen eines Remoterepositorys</p>
+<p>In diesen Beispielen wird davon ausgegangen, dass du [beim Klonen HTTPS verwendest](/de/get-started/git-basics/about-remote-repositories#cloning-with-https-urls) (wie empfohlen).</p>
+<p>```shell<br />
+$ git remote -v<br />
+# View current remotes<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (push)<br />
+&gt; destination  https://github.com/FORKER/REPOSITORY.git (fetch)<br />
+&gt; destination  https://github.com/FORKER/REPOSITORY.git (push)</p>
+<p>$ git remote rm destination<br />
+# Remove remote<br />
+$ git remote -v<br />
+# Verify it's gone<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (fetch)<br />
+&gt; origin  https://github.com/OWNER/REPOSITORY.git (push)<br />
+```</p>
+<p>&gt; \[!NOTE]<br />
+&gt; Durch `git remote rm` wird das Remoterepository nicht vom Server gelöscht. Der Befehl entfernt lediglich den Remote und die zugehörigen Verweise aus deinem lokalen Repository.</p>
+<p>### Problembehandlung: Der Konfigurationsabschnitt „remote.\[Name]“ konnte nicht entfernt werden.</p>
+<p>Wenn dieser Fehler angezeigt wird, existiert das Remote, das Sie löschen wollten, nicht.</p>
+<p>```shell<br />
+$ git remote rm sofake<br />
+&gt; error: Could not remove config section 'remote.sofake'<br />
+```</p>
+<p>Überprüfe, ob Du den Namen des Remote korrekt eingegeben hast.</p>
+<p>## Weiterführende Lektüre</p>
+<p>* ```<br />
+            [„Arbeiten mit Remoterepositorys“ aus dem _Pro Git_-Buch](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)<br />
+  ```<br />
+  &gt; ## Documentation Index<br />
+&gt; Fetch the complete documentation index at: https://modelcontextprotocol.io/llms.txt<br />
+&gt; Use this file to discover all available pages before exploring further.</p>
+<p># What is the Model Context Protocol (MCP)?</p>
+<p>MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.</p>
+<p>Using MCP, AI applications like Claude or ChatGPT can connect to data sources (e.g. local files, databases), tools (e.g. search engines, calculators) and workflows (e.g. specialized prompts)—enabling them to access key information and perform tasks.</p>
+<p>Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect electronic devices, MCP provides a standardized way to connect AI applications to external systems.</p>
+<p>
+  <img src="https://mintcdn.com/mcp/bEUxYpZqie0DsluH/images/mcp-simple-diagram.png?fit=max&amp;auto=format&amp;n=bEUxYpZqie0DsluH&amp;q=85&amp;s=35268aa0ad50b8c385913810e7604550" width="3840" height="1500" />
+</p>
+<p>## What can MCP enable?</p>
+<p>* Agents can access your Google Calendar and Notion, acting as a more personalized AI assistant.<br />
+* Claude Code can generate an entire web app using a Figma design.<br />
+* Enterprise chatbots can connect to multiple databases across an organization, empowering users to analyze data using chat.<br />
+* AI models can create 3D designs on Blender and print them out using a 3D printer.</p>
+<p>## Why does MCP matter?</p>
+<p>Depending on where you sit in the ecosystem, MCP can have a range of benefits.</p>
+<p>* **Developers**: MCP reduces development time and complexity when building, or integrating with, an AI application or agent.<br />
+* **AI applications or agents**: MCP gives them access to an ecosystem of data sources, tools and apps, which enhances their capabilities and improves the end-user experience.<br />
+* **End-users**: MCP results in more capable AI applications or agents that can access user data and take actions on the user's behalf when necessary.</p>
+<p>## Broad ecosystem support</p>
+<p>MCP is an open protocol supported across a wide range of clients and servers. AI assistants like [Claude](https://claude.com/docs/connectors/building) and [ChatGPT](https://developers.openai.com/api/docs/mcp/), development tools like [Visual Studio Code](https://code.visualstudio.com/docs/copilot/chat/mcp-servers), [Cursor](https://cursor.com/docs/context/mcp), [MCPJam](https://docs.mcpjam.com/getting-started), and many others all support MCP — making it easy to build once and integrate everywhere.</p>
+<p>## Start Building</p>
+<p>    Create MCP servers to expose your data and tools
+  </p>
+<p>
+    Develop applications that connect to MCP servers
+  </p>
+<p>
+    Build interactive apps that run inside AI clients</p>
+<p>## Learn more</p>
+<p>    Learn the core concepts and architecture of MCP</p>
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://en.wikiversity.org/static/images/icons/wikiversity.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://en.wikiversity.org/static/images/mobile/copyright/wikiversity-wordmark-en.svg" alt="Wikiversity"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page" class="mw-logo"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikiversity.org/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"vector-menu-content-list"} -->
+<ul class="wp-block-list vector-menu-content-list"><!-- wp:list-item -->
+<li><a class="new" href="https://en.wikiversity.org/wiki/User:E568a4f8-ceec-a808-1a2a-b0d78ac7a96f">E568a4f8-ceec-a808-1a2a-b0d78ac7a96f</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"vector-menu-content-list"} -->
+<ul class="wp-block-list vector-menu-content-list"><!-- wp:list-item -->
+<li>การไฟฟ้าเชียงคาน</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"vector-menu-content-list"} -->
+<ul class="wp-block-list vector-menu-content-list"><!-- wp:list-item -->
+<li>การไฟฟ้าจังหวัดเลย</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"vector-menu-content-list"} -->
+<ul class="wp-block-list vector-menu-content-list"><!-- wp:list-item -->
+<li>โรงผลิตไฟฟ้าเชียงคาน</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"vector-pinnable-header-label"} -->
+<h2 class="wp-block-heading vector-pinnable-header-label">ข้อมูล</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"vector-toc-contents"} -->
+<ul id="mw-panel-toc-list" class="wp-block-list vector-toc-contents"><!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#">CPU</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#Objective"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>GPU</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#What_is_a_Computer?"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#Keyboard_(not_all_are_the_same)"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#Computer_Case"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#Monitor"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#Computer_System"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#See_Also"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="vector-toc-link" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F#References"></a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1,"className":"firstHeading mw-first-heading"} -->
+<h1 class="wp-block-heading firstHeading mw-first-heading" id="firstHeading">คอมพิวเตอร์คืออะไร?</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"vector-menu-content-list"} -->
+<ul class="wp-block-list vector-menu-content-list"><!-- wp:list-item -->
+<li><a class="" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F">ทรัพยากร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="" href="https://en.wikiversity.org/wiki/Talk:What_is_a_computer%3F">หารือ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"vector-menu-content-list"} -->
+<ul class="wp-block-list vector-menu-content-list"><!-- wp:list-item -->
+<li><a class="" href="https://en.wikiversity.org/wiki/What_is_a_computer%3F">อ่าน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="" href="https://en.wikiversity.org/w/index.php?title=What_is_a_computer%3F&amp;veaction=edit">แก้ไข</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="" href="https://en.wikiversity.org/w/index.php?title=What_is_a_computer%3F&amp;action=edit">แก้ไขแหล่งที่มา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="" href="https://en.wikiversity.org/w/index.php?title=What_is_a_computer%3F&amp;action=history">ดูประวัติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="" href="https://en.wikiversity.org/w/index.php?title=What_is_a_computer%3F&amp;action=watch">ดู</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Computer_barnstar.png"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Computer_barnstar.png?utm_source=en.wikiversity.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled" alt="Computer"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>หน้าเปิดตัวหลักสูตรหลัก - ขนาดข้อมูลและความเร็ว<br /><a href="https://en.wikiversity.org/wiki/Introduction_to_Computers/Data_sizes_and_speeds" class="mw-redirect">ออกจากวัสดุเสริม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>การนําทางหลักสูตรเสริม<a href="https://en.wikiversity.org/wiki/Introduction_to_Computers"><strong>&lt;&lt; หน้าหลักสูตร - ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์</strong></a><a href="https://en.wikiversity.org/wiki/Hardware"><strong>ถัดไป - ฮาร์ดแวร์ &gt;&gt;</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>นี่เป็นบทเรียนเสริมในหลักสูตร&nbsp;<a href="https://en.wikiversity.org/wiki/Introduction_to_Computers">ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์</a>, ซึ่งเป็นส่วนหนึ่งของ&nbsp;<a href="https://en.wikiversity.org/wiki/School:Computer_Science">คณะวิทยาการคอมพิวเตอร์</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Gnome-fs-client.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gnome-fs-client.svg/40px-Gnome-fs-client.svg.png?utm_source=en.wikiversity.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikiversity.org/wiki/Help:Resources_by_subject">การจําแนกหัวเรื่อง</a></strong>: นี่คือ&nbsp;<a href="https://en.wikiversity.org/wiki/Portal:Information_technology">เทคโนโลยีสารสนเทศ</a>&nbsp;ทรัพยากร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Books-aj.svg_aj_ashton_01b.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Books-aj.svg_aj_ashton_01b.svg/40px-Books-aj.svg_aj_ashton_01b.svg.png?utm_source=en.wikiversity.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikiversity.org/wiki/Help:Resources_by_educational_level">ระดับการศึกษา</a></strong>: นี่คือก&nbsp;<a href="https://en.wikiversity.org/wiki/Portal:Secondary_Education">มัธยมศึกษา</a>&nbsp;ทรัพยากร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Nuvola_apps_edu_miscellaneous.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_edu_miscellaneous.svg/40px-Nuvola_apps_edu_miscellaneous.svg.png?utm_source=en.wikiversity.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikiversity.org/wiki/Help:Resources_by_type">ประเภท การจําแนกประเภท</a></strong>: นี่คือก&nbsp;<a href="https://en.wikiversity.org/wiki/Category:Lessons">บทเรียน</a>&nbsp;ทรัพยากร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Emblem-extra-cool.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emblem-extra-cool.svg/40px-Emblem-extra-cool.svg.png?utm_source=en.wikiversity.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikiversity.org/wiki/Help:Resources_by_completion_status">สถานะเสร็จสมบูรณ์</a></strong>: ทรัพยากรนี้ได้มาถึงระดับสูงของ&nbsp;<a href="https://en.wikiversity.org/wiki/Category:Completed_resources">เสร็จสิ้น</a>●<a href="https://en.wikiversity.org/wiki/Introduction_to_Computers">ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><a class="mw-selflink selflink">คอมพิวเตอร์คืออะไร?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Hardware">ฮาร์ดแวร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Numeral_systems">ระบบตัวเลข</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Data_sizes_and_speeds">ขนาดและความเร็วของข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Data_Coding_and_Information_Decoding">การเข้ารหัสข้อมูลและการถอดรหัสข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Types_of_computers">ประเภทของคอมพิวเตอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/What_is_a_motherboard%3F">เมนบอร์ดคืออะไร?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Computer_networks">เครือข่ายคอมพิวเตอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Software">ซอฟต์แวร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Information_technology">เทคโนโลยีสารสนเทศ</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="Objective">วัตถุประสงค์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ทําความคุ้นเคยกับพื้นฐานคอมพิวเตอร์ของนักเรียน สิ่งนี้ควรช่วยให้นักเรียนมีก้าวสําคัญในการเรียนรู้รายละเอียดที่เฉพาะเจาะจงมากขึ้นเกี่ยวกับคอมพิวเตอร์&nbsp;<a href="https://en.wikiversity.org/wiki/Hardware#Hardware">ฮาร์ดแวร์</a>●</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="What_is_a_Computer?">คอมพิวเตอร์คืออะไร?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>คอมพิวเตอร์เป็นอุปกรณ์อิเล็กทรอนิกส์ที่รับอินพุตหรือเอาต์พุต เช่น ตัวเลข ข้อความ เสียง รูปภาพ ภาพเคลื่อนไหว วิดีโอ ฯลฯ ประมวลผลและแปลงเป็นข้อมูลที่มีความหมายที่สามารถเข้าใจได้ โดยนําเสนออินพุตที่เปลี่ยนแปลง (อินพุตที่ประมวลผล) เป็นเอาต์พุต เรียกตัวเลข ข้อความ เสียง รูปภาพ ภาพเคลื่อนไหว และวิดีโอทั้งหมดที่ใช้เป็นอินพุต&nbsp;<a href="https://en.wikiversity.org/wiki/Data#Data">ข้อมูล</a>, และตัวเลขทั้งหมด, ข้อความ, เสียง, ภาพ, ภาพเคลื่อนไหว, และวิดีโอกลับมาเป็นเอาท์พุทที่เรียกว่า&nbsp;<a href="https://en.wikiversity.org/wiki/Data#Information">ข้อมูล</a>●</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>คอมพิวเตอร์ประกอบด้วยส่วนสําคัญ 5 ส่วน ได้แก่</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>อัน&nbsp;<strong><a href="https://en.wikiversity.org/wiki/Hardware#Input_unit_and_Output_unit_(I/O)">อินพุต</a></strong>&nbsp;อุปกรณ์</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ก&nbsp;<strong><a href="https://en.wikiversity.org/wiki/Hardware#Memory_Unit">การจัดเก็บ</a></strong>&nbsp;สิ่งอํานวยความสะดวกในการเก็บหมายเลขสําหรับการประมวลผล</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ก&nbsp;<strong><a href="https://en.wikiversity.org/wiki/Hardware#CPU">โปรเซสเซอร์</a></strong>&nbsp;หรือเครื่องคิดเลขตัวเลข</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ก&nbsp;<strong><a href="https://en.wikiversity.org/wiki/Introduction_to_Computers/Processor#Control_unit">การควบคุม</a></strong>&nbsp;หน่วยกํากับงานที่จะดําเนินการ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>อัน&nbsp;<strong><a href="https://en.wikiversity.org/wiki/Hardware#Input_unit_and_Output_unit_(I/O)">เอาท์พุท</a></strong>&nbsp;คอมพิวเตอร์</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="Keyboard_(not_all_are_the_same)">คีย์บอร์ด (ไม่เหมือนกันทั้งหมด)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"gallery mw-gallery-traditional"} -->
+<ul class="wp-block-list gallery mw-gallery-traditional"><!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Swedish_keyboard_20050614.jpg"></a>คีย์บอร์ดที่มีรูปแบบสวีเดน</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Computer_keyboard_with_danish_layout.jpg"></a>คีย์บอร์ดที่มีรูปแบบเดนมาร์ก</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:OLED_keyboard.jpg"></a>แป้นพิมพ์ Optimus-113 พร้อมหน้าจอสีในแต่ละคีย์</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:2007_09_30_de_Apple-Tastatur.jpg"></a>แป้นพิมพ์ Apple พร้อมเลย์เอาต์ภาษาเยอรมัน</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Space-cadet.jpg"></a>สัญลักษณ์&nbsp;<a class="extiw" href="https://en.wikipedia.org/wiki/space-cadet_keyboard">แป้นพิมพ์นักเรียนนายร้อยอวกาศ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>คอมพิวเตอร์จะประมวลผลข้อมูลที่แตกต่างกันไปตามประเภทของข้อมูลที่ได้รับการจัดการ โดยใช้ชุดคําสั่งที่เรียกว่าโปรแกรมหรือรูทีน</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>แป้นพิมพ์ยังใช้เพื่อออกคําสั่งไปยังระบบปฏิบัติการของคอมพิวเตอร์ เช่น ชุดควบคุม-Alt-Delete ของ Windows ซึ่งจะแสดงหน้าจอตัวเลือกความปลอดภัยของระบบ อินเทอร์เฟซบรรทัดคําสั่งคืออินเทอร์เฟซผู้ใช้ประเภทหนึ่งที่นําทางทั้งหมดโดยใช้แป้นพิมพ์หรืออุปกรณ์อื่นที่คล้ายคลึงกันซึ่งทําหน้าที่อย่างใดอย่างหนึ่ง</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="Computer_Case">เคสคอมพิวเตอร์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ซีพียู,&nbsp;<a href="https://en.wikiversity.org/wiki/Hardware#Motherboard">เมนบอร์ด</a>, หน่วยความจํา, และส่วนประกอบภายในใด ๆ โดยทั่วไปจะใส่ลงในเคส/ที่อยู่อาศัยของคอมพิวเตอร์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"gallery mw-gallery-traditional"} -->
+<ul class="wp-block-list gallery mw-gallery-traditional"><!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Macintosh_Performa_6400.jpg"></a>แมคอินทอช เพอร์ฟอร์มา 6400</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Pm7600_01.jpg"></a>เพาเวอร์ แมคอินทอช 7600</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Power-Macintosh-8100-80av.jpg"></a>เพาเวอร์ แมคอินทอช 8100</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Power_Macintosh_8200_100.jpg"></a>เพาเวอร์ แมคอินทอช 8200</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:FujitsuSiemens-Celvin-1.jpg"></a>ฟูจิตสึ-ซีเมนส์ เซลวิน-1</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Computer_case.JPG"></a>เปิดเคสคอมพิวเตอร์พร้อมฮาร์ดแวร์ที่มองเห็นได้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เดอะ&nbsp;<a href="https://en.wikiversity.org/wiki/Introduction_to_Computers/Processor#Control_unit">หน่วยควบคุม</a>,&nbsp;<a href="https://en.wikiversity.org/wiki/Introduction_to_Computers/Processor#ALU">อลู</a>, และ&nbsp;<a class="extiw" href="https://en.wikipedia.org/wiki/Processor_register">ลงทะเบียน</a>&nbsp;เรียกรวมกันว่าหน่วยประมวลผลกลาง (CPU) CPU ในยุคแรกๆ ประกอบด้วยส่วนประกอบที่แยกจากกันมากมาย แต่ตั้งแต่กลางทศวรรษ 1970 CPU มักถูกสร้างขึ้นบนวงจรรวมวงจรเดียวที่เรียกว่าไมโครโปรเซสเซอร์</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="Monitor">มอนิเตอร์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>• จอคอมพิวเตอร์เป็นอุปกรณ์ส่งออกกราฟิกที่ใช้กันมากที่สุดสําหรับข้อมูลที่ประมวลผลโดยซีพียู</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"gallery mw-gallery-traditional"} -->
+<ul class="wp-block-list gallery mw-gallery-traditional"><!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Monitor.jpg"></a>จอคอมพิวเตอร์ฟูจิตสึ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Monitor_LG.jpg"></a>จอคอมพิวเตอร์ CRT</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:Computer_monitor_screen_image_simulated.jpg"></a>จอภาพ KDS XFlat หน้าจอ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-file-description" href="https://en.wikiversity.org/wiki/File:MonitorLCD_17in.jpg"></a>จอแอลซีดี,&nbsp;<em>ซิงค์มาสเตอร์</em>&nbsp;710</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="Computer_System">ระบบคอมพิวเตอร์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ข้อกําหนดขั้นต่ําสําหรับระบบคอมพิวเตอร์ที่ใช้งานได้ ได้แก่ แป้นพิมพ์ เคส/ตัวเครื่องที่มี CPU และหน่วยความจํา (แม้ว่าตัวเคสจะไม่จําเป็นอย่างเคร่งครัดก็ตาม) และจอภาพ โดยปกติข้อมูลจะถูกป้อนผ่านแป้นพิมพ์ และข้อมูลมักจะนําเสนอผ่านหน้าจอ อย่างไรก็ตาม ข้อมูลยังสามารถนําเสนอผ่านลําโพง จอแสดงผลอักษรเบรลล์ หรืออุปกรณ์เอาท์พุตอื่นๆ ได้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>วิธีที่ส่วนประกอบภายในคอมพิวเตอร์ประกอบเข้าด้วยกันช่วยอธิบายวิธีการทํางานของคอมพิวเตอร์ ข้อมูลเข้ามาผ่านอุปกรณ์อินพุต และถูกส่งไปยัง CPU โดยหน่วยความจํา CPU ประมวลผลข้อมูลตามข้อมูลอินพุตและโปรแกรมที่ติดตั้งในหน่วยความจําคอมพิวเตอร์ เมื่อ CPU ประมวลผลข้อมูลเสร็จแล้ว ระบบจะแสดงผ่านอุปกรณ์เอาท์พุตเป็นข้อมูล ข้อมูลสามารถจัดเก็บไว้ในหน่วยความจําคอมพิวเตอร์หรือนําเสนอผ่านอุปกรณ์เอาท์พุต</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="See_Also">ดูเพิ่มเติม</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Introduction_to_Computers">ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/IT_Fundamentals">ความรู้พื้นฐานด้านไอที</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="References">การอ้างอิง</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>การนําทางหลักสูตรเสริม<a href="https://en.wikiversity.org/wiki/Introduction_to_Computers"><strong>&lt;&lt; หน้าหลักสูตร - ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์</strong></a><a href="https://en.wikiversity.org/wiki/Hardware"><strong>ถัดไป - ฮาร์ดแวร์ &gt;&gt;</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikiversity.org/wiki/What_is_a_computer%3F?veaction=edit&amp;veopendialog=categories">แก้ไข</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikiversity.org/wiki/Special:Categories">หมวดหมู่</a>:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Category:Information_technology">เทคโนโลยีสารสนเทศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Category:Secondary_Education">มัธยมศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Category:Lessons">บทเรียน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Category:Completed_resources">ทรัพยากรที่เสร็จสมบูรณ์</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://en.wikiversity.org/static/images/footer/wikimedia.svg" alt="Wikimedia Foundation"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://en.wikiversity.org/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"mw-portlet mw-portlet-footer-info"} -->
+<ul id="footer-info" class="wp-block-list mw-portlet mw-portlet-footer-info"><!-- wp:list-item -->
+<li>หน้านี้แก้ไขล่าสุดเมื่อ 29 สิงหาคม 2022 เวลา 00:14 น</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ข้อความมีอยู่ภายใต้&nbsp;<a class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/">ใบอนุญาต Creative Commons Attribution-ShareAlike</a>; อาจใช้ข้อกําหนดเพิ่มเติม การใช้ไซต์นี้แสดงว่าคุณยอมรับ&nbsp;<a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">เงื่อนไขการใช้งาน</a>&nbsp;และ&nbsp;<a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">นโยบายความเป็นส่วนตัว</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"mw-portlet mw-portlet-footer-places"} -->
+<ul id="footer-places" class="wp-block-list mw-portlet mw-portlet-footer-places"><!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">นโยบายความเป็นส่วนตัว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Wikiversity:About">เกี่ยวกับวิกิมหาวิทยาลัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikiversity.org/wiki/Wikiversity:General_disclaimer">ข้อสงวนสิทธิ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">การติดต่อทางกฎหมายและความปลอดภัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">หลักจรรยาบรรณ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://developer.wikimedia.org/">นักพัฒนา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://stats.wikimedia.org/#/en.wikiversity.org">สถิติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">แถลงการณ์เกี่ยวกับคุกกี้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="noprint stopMobileRedirectToggle" href="https://en.wikiversity.org/w/index.php?title=What_is_a_computer%3F&amp;mobileaction=toggle_view_mobile">มุมมองมือถือ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">พบ 309 หน่วยงาน</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"hierarchy-tree-top"} -->
+<ul class="wp-block-list hierarchy-tree-top"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mod">กระทรวงกลาโหม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/62125722-31f5-427c-b3c7-e0ea78f53d97">กองทัพบก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ceea3c50-ad6d-43b3-9964-f1db1f03ac5e">กองทัพอากาศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d8f47443-281e-4563-9411-487e5f00de25">กองทัพเรือ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f2ba0b4d-ab18-4f93-9134-b405a00a7ab4">กองบัญชาการกองทัพไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/415cd77c-c602-462d-9331-331f348e43b1">สถาบันเทคโนโลยีป้องกันประเทศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/61d34c05-c1c5-448d-a515-777b4433836f">สำนักงานปลัดกระทรวงกลาโหม</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mof">กระทรวงการคลัง</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ddf79345-3dd4-4555-8e12-7151c25bc275">กรมธนารักษ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2c867b48-78ce-47aa-8a19-26cba80a06cc">กรมบัญชีกลาง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b7b73c85-0aef-4aa8-ac22-a4aa880a870a">กรมศุลกากร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c53f66eb-37cc-4104-aa51-4042ab737872">กรมสรรพสามิต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/fe6ead28-0d80-4989-9f05-48f7b3274503">กรมสรรพากร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/674490c0-6a58-4860-a999-0bcebf3f7ff6">กองทุนบำเหน็จบำนาญข้าราชการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/44019271-cdfc-46ed-a67d-7c8afe20fa4b">ธนาคารแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e5e71854-c6ea-46c5-b617-a51ec7874ee2">สถาบันคุ้มครองเงินฝาก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b21d0577-88bf-4427-bc14-96bb716038da">สำนักงานคณะกรรมการนโยบายรัฐวิสาหกิจ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c6216fb8-5b9b-4870-a7ad-ef7323fba6fd">สำนักงานความร่วมมือพัฒนาเศรษฐกิจกับประเทศเพื่อนบ้าน (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/45197622-bc90-465c-88f0-3deecd46166b">สำนักงานบริหารหนี้สาธารณะ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/859f8d3d-e4b6-47c4-b952-0675c961eadf">สำนักงานปลัดกระทรวงการคลัง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a1e4bc76-3fa5-4bca-9481-ae83bad4fc64">สำนักงานเศรษฐกิจการคลัง</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mfa">กระทรวงการต่างประเทศ</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d5403e39-f13f-4525-b382-a465e87cea94">สำนักงานปลัดกระทรวงการต่างประเทศ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mots">กระทรวงการท่องเที่ยวและกีฬา</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/29f5f029-376e-4fe9-acc8-f75e68698623">กรมการท่องเที่ยว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d5b485b8-fe98-4a8a-ba9f-baeb7ff41d52">กรมพลศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/27d2ab82-d35a-4b7e-887d-398a4bd8cb18">การท่องเที่ยวแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/aa9998f3-f80d-4b90-bf38-a587218d9e71">สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/904525d0-052b-4fa0-9d86-d69dcc7a1a09">องค์การบริหารการพัฒนาพื้นที่พิเศษเพื่อการท่องเที่ยวอย่างยั่งยืน (องค์การมหาชน)</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-m-society">กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ed76a8b6-5ddf-484b-b9da-9c3a9cb59f60">กรมกิจการผู้สูงอายุ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/95dc5525-eb03-469a-ad81-8113c7f9a05d">กรมกิจการสตรีและสถาบันครอบครัว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c9937d2b-2071-445e-8b7a-e20485fcb460">กรมกิจการเด็กและเยาวชน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/895a8cf3-477d-4d22-baa1-5acb6cab907d">กรมพัฒนาสังคมและสวัสดิการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/97368c4c-06d3-498e-8214-13d96494ee43">กรมส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cae29b8e-908b-4259-ac99-48432e1333ad">การเคหะแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/12a56625-6d9a-4188-b91b-29c51c926823">สถาบันพัฒนาองค์กรชุมชน (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/163fee37-a9eb-4247-973a-fcf1919cf460">สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mhesi">กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a81ba475-84ef-4c78-8b31-4cee2c544daf">กรมวิทยาศาสตร์บริการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/993092ee-2a60-4ca8-9803-1380ffb3d0a6">ศูนย์ความเป็นเลิศด้านชีววิทยาศาสตร์ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7317d33a-1301-498e-b948-c846c2374f60">สถาบันวิจัยดาราศาสตร์แห่งชาติ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/6cf13c2f-986e-4bc7-8a3a-38fd6d49cd6d">สถาบันวิจัยวิทยาศาสตร์และเทคโนโลยีแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e8741f2f-9a84-42f2-bd64-34d64b4f743a">สถาบันวิจัยแสงซินโครตรอน (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e2dee41a-41af-4857-9e71-51778a7d6942">สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/40b317b0-e897-46fe-aca0-03f698130dbe">สถาบันเทคโนโลยีนิวเคลียร์แห่งชาติ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ff728a66-1568-4427-9e7a-dd6267ccdb38">สำนักงานการวิจัยแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c67090b3-ce59-4cfa-8a84-dec982068aa5">สำนักงานนวัตกรรมแห่งชาติ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ea45d714-89ce-4106-ba8c-0aecec9c7330">สำนักงานปรมาณูเพื่อสันติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/5a6e3346-6ef2-4efb-bc91-ec676e0d4497">สำนักงานปลัดกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/33b52f1d-c139-404b-9db0-5751ebb4a5c2">สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ca34d31f-363b-4def-99a5-ac664a63de5e">สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a3ad45a4-7ab8-4145-99cb-08350843b1a8">สำนักงานสภานโยบายการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรมแห่งชาติ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-moac">กระทรวงเกษตรและสหกรณ์</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7cdab692-ba7b-476e-b69d-780e02ce3e45">กรมการข้าว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/dfe7bca9-62e3-4364-a823-009b34fb75bd">กรมชลประทาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2e134371-e39c-4568-a339-4e4d1fd7d359">กรมตรวจบัญชีสหกรณ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f7c22cde-aaba-4451-a1e6-e011a1991ad5">กรมประมง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/4f095f06-a1fb-4276-b3d4-3addd14989d0">กรมปศุสัตว์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e3bccbd1-2aa4-4c9e-9813-440f2ec91b9f">กรมฝนหลวงและการบินเกษตร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a78fe35b-708e-4713-900a-69ca70b979e2">กรมพัฒนาที่ดิน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/606e21b8-1a42-4d2a-bf75-f5cc3a155465">กรมวิชาการเกษตร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2235f0ff-b13c-4956-97c7-6d471be6dab2">กรมส่งเสริมการเกษตร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/44749014-c03d-40a8-afb4-bde03f4ff898">กรมส่งเสริมสหกรณ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c8bad8bd-bed1-4371-9d80-e5f2c074fe30">กรมหม่อนไหม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/340fb748-8b85-472b-b3b8-37bbcd313bd4">สถาบันวิจัยและพัฒนาพื้นที่สูง (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cd1d7bb2-d496-4f5e-9ee7-61e3da08af1c">สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0cbcb557-ce43-452a-a830-a7190ebee7f0">สำนักงานปลัดกระทรวงเกษตรและสหกรณ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7a7ade19-f488-492b-9495-ca3ce7cdb956">สำนักงานพัฒนาการวิจัยการเกษตร (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/6bd14103-c51f-493f-962c-62c1e64f1a53">สำนักงานพิพิธภัณฑ์เกษตรเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c7ae76ba-6956-4bf9-aee2-a69a4012f16b">สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0fe92977-e366-40e7-a07b-f5efb8010be8">สำนักงานเศรษฐกิจการเกษตร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/48e76a28-85da-4fe7-b185-eec59f213728">องค์การส่งเสริมกิจการโคนมแห่งประเทศไทย</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mot">กระทรวงคมนาคม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/125fc43a-26d7-4898-b0b1-956f5ec8bdc6">กรมการขนส่งทางบก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bed9ddc2-047e-4630-9c63-7777d5f44c2c">กรมการขนส่งทางราง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2b30c5a3-524d-447a-a35c-e3494581e7f2">กรมทางหลวง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3246e769-9758-4587-8966-16f03cb6f946">กรมทางหลวงชนบท</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/30beac2a-24a9-4480-9c02-dcfc084992ff">กรมท่าอากาศยาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/18bb6004-7d15-4de7-9885-d48df8b44782">กรมเจ้าท่า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/fbd00934-5e6d-4738-9d10-04a407b336f4">การทางพิเศษแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/665e3806-39fb-4135-a4ef-04c6adcf6b52">การท่าเรือแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d574e72b-e315-4d93-b446-f86b123aaaf5">สำนักงานนโยบายและแผนการขนส่งและจราจร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9e1204d5-4d0f-4b00-8f0a-5424511f40b5">สำนักงานปลัดกระทรวงคมนาคม</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mdes">กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/519edfc2-c4c9-44e7-b07a-ce13eff72bf2">กรมอุตุนิยมวิทยา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/884f1f18-fb4a-4b57-9eaa-b76fba583d6b">บริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/665dd21e-ea05-45c1-9b0c-434904276321">สถาบันข้อมูลขนาดใหญ่ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/8d260e9b-a287-47d6-925a-577a231551df">สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/357b5840-9395-4e81-aef5-5a27a7e98356">สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ec755c19-4dbc-4349-b8ca-7e67bb4bec1b">สำนักงานปลัดกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/8a83a4da-3182-444e-9991-434786cbdbf3">สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a71046a9-2f29-4edb-85f1-d9bfa23c5a03">สำนักงานสถิติแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3d833d4e-b3d3-4bdd-92c1-153a91fbd3f4">สำนักงานส่งเสริมเศรษฐกิจดิจิทัล</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mnre">กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/693bc3a7-0cef-40a4-bdfd-e647710a9d3b">กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a87accea-8395-4e8c-a17a-17614794b803">กรมควบคุมมลพิษ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a9424440-71dd-4076-98e8-ad8f38bc1669">กรมทรัพยากรทางทะเลและชายฝั่ง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/fa6b80d7-3242-4a36-8830-bcd16336ae26">กรมทรัพยากรธรณี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/43b052ca-349d-4b19-85a4-555b7a94aa21">กรมทรัพยากรน้ำ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/183ff0cd-a9e9-44e7-aac0-d3ac18abb94b">กรมทรัพยากรน้ำบาดาล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bc026029-7f7a-43db-9d1a-efd5685a8a3d">กรมป่าไม้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cc90e779-f52e-496d-9eb3-3a9311cd5b78">กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/560af360-56f7-4133-bbbc-63d53ce95b79">สำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ee06ccf1-43b3-46d1-a835-2ab0231d4ddc">สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f3b40c50-bd57-4aaa-becb-0f033ed58c3c">สำนักงานพัฒนาเศรษฐกิจจากฐานชีวภาพ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/dbf2d868-1d55-4502-903f-1e2230b9c5ad">องค์การบริหารจัดการก๊าซเรือนกระจก (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/6efa8b8a-e1bd-4200-b240-b0d41429fad1">องค์การสวนสัตว์แห่งประเทศไทย ในพระบรมราชูปถัมภ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f03bda12-d9c8-42b5-b909-ef710a401daf">องค์การอุตสาหกรรมป่าไม้</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-energy">กระทรวงพลังงาน</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b8f91909-345e-4bb6-87bd-8309c7fb3ff9">กรมธุรกิจพลังงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/97989dfd-f074-45c0-abed-7b9934f13cc0">กรมพัฒนาพลังงานทดแทนและอนุรักษ์พลังงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cda07a9f-cdaa-469c-9d2c-17bc03c4324d">กรมเชื้อเพลิงธรรมชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e6b49c61-bd2d-41d0-9bf6-828998d79534">การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c9109a17-7954-468d-8ed8-eba9a337a01b">สำนักงานกองทุนน้ำมันเชื้อเพลิง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/5d22af43-926e-4e85-8c05-5c463ab11f7e">สำนักงานนโยบายและแผนพลังงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/dc6d6a6e-a0d8-43f4-b28f-66df7c7b1824">สำนักงานปลัดกระทรวงพลังงาน</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-moc">กระทรวงพาณิชย์</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9cf53079-1827-400d-95e6-fb6b3e69d702">กรมการค้าต่างประเทศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c6d450ab-b509-45c4-b8b9-11c9f8488ebb">กรมการค้าภายใน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/66ec81f2-7b34-4e66-83a9-02fa4a6602b8">กรมทรัพย์สินทางปัญญา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/71f0a3af-7213-4c88-baad-fdf2713e38b9">กรมพัฒนาธุรกิจการค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/42e010b7-e1a4-41fc-bc26-e79d20c58939">กรมส่งเสริมการค้าระหว่างประเทศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/214d9105-ce75-4fd8-8be2-073477fe4bde">กรมเจรจาการค้าระหว่างประเทศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/8a856338-4ccf-46b1-8d9c-9840d702f0b5">สถาบันระหว่างประเทศเพื่อการค้าและการพัฒนา (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/5192b34c-e70b-4edd-9e5c-d6c3078d5493">สถาบันวิจัยและพัฒนาอัญมณีและเครื่องประดับแห่งชาติ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/69a0f2fd-9c46-486a-bc2f-8a6e9405cc9b">สถาบันส่งเสริมศิลปหัตถกรรมไทย (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1a2a364a-ef3f-43bd-a92a-6572f7af9d7c">สำนักงานนโยบายและยุทธศาสตร์การค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f5ccb0b1-68aa-4531-9bc6-dbb53d6aed77">สำนักงานปลัดกระทรวงพาณิชย์</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-moi">กระทรวงมหาดไทย</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e068756a-4b37-4ee9-9f61-ce31d6ffbf3b">กรมการปกครอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/195c9dd0-b53c-477c-964a-e0c04b4fd043">กรมการพัฒนาชุมชน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e6aa9ded-5435-41a7-beff-a6c50be10efe">กรมที่ดิน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/50374b61-72f4-42eb-8d91-c8e1ecd2ee86">กรมป้องกันและบรรเทาสาธารณภัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f62828a9-eb1e-40df-aad0-6d56acd3e660">กรมส่งเสริมการปกครองท้องถิ่น</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cf76ce56-0639-421b-9d88-28779d55a2b6">กรมโยธาธิการและผังเมือง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/4388d502-250d-48b3-bdcc-43c0d6f0287b">การประปานครหลวง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/400681bd-5eea-4b56-bf71-eeafb559e529">การประปาส่วนภูมิภาค</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e72e85f9-282f-4db6-b08c-eba7a2df73f5">สำนักงานปลัดกระทรวงมหาดไทย</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-moj">กระทรวงยุติธรรม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/dac7c472-7016-4dc3-9e51-6927eee03b57">กรมคุมประพฤติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e9bbb975-8740-4557-8cac-367dbb1e44cb">กรมคุ้มครองสิทธิและเสรีภาพ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e2c8fc39-5ff2-40ab-8b78-8c38c19c36f4">กรมบังคับคดี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bf8351ae-d000-47eb-bf6e-dcf42a96b7d6">กรมพินิจและคุ้มครองเด็กและเยาวชน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d45535e5-e3fd-4fa2-b1ee-fb347dbf736e">กรมราชทัณฑ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d79d8087-4a7a-492e-abca-f3bf70fa0269">กรมสอบสวนคดีพิเศษ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/8e9249ba-753f-4bed-ae4f-6e792950318c">สถาบันนิติวิทยาศาสตร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/138ba6aa-80e3-44b7-affa-a6ab147668f8">สถาบันอนุญาโตตุลาการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3806ab43-c571-4457-99ad-6bf8f9a810d4">สถาบันเพื่อการยุติธรรมแห่งประเทศไทย (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/70079b08-31c3-4646-a969-3e0c0d3ef94a">สำนักงานกิจการยุติธรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/61abdd2c-1203-409e-9906-0d06d31a538c">สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/56f62721-3a7b-4be9-950e-ae40448c5422">สำนักงานปลัดกระทรวงยุติธรรม</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-mol">กระทรวงแรงงาน</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0dee39e1-461d-4f14-a23e-e25adb0e586d">กรมการจัดหางาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3433d4a4-ae54-42ac-a82f-dce491c0541a">กรมพัฒนาฝีมือแรงงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/845bc4b6-7d23-4491-af4d-d29f2129273f">กรมสวัสดิการและคุ้มครองแรงงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/36e3cd28-aa58-49b4-ad8b-28b10187bd81">สถาบันส่งเสริมความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1ba382b1-23ce-4eeb-b7f9-f91cc64259b0">สำนักงานประกันสังคม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/da0bc35e-596f-454d-bc87-a896ed2ab114">สำนักงานปลัดกระทรวงแรงงาน</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-m-culture">กระทรวงวัฒนธรรม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7ef73644-9e6a-40b0-99ad-3cbafc41e757">กรมการศาสนา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bd7aba60-191b-403f-a453-d1f15f1a2d74">กรมศิลปากร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/40424aec-626d-4d9d-844b-53832b1294ec">กรมส่งเสริมวัฒนธรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c09b347b-5882-494a-a874-8b3ae56e3bca">ศูนย์คุณธรรม (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/5a8ed627-82b8-4a9d-a1df-7de3353240cd">ศูนย์มานุษยวิทยาสิรินธร (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0dafca30-3ebc-4f97-a63d-1ff253e11336">สำนักงานปลัดกระทรวงวัฒนธรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c9fc6e8e-7797-439f-97cc-59eec0ec2fc3">สำนักงานศิลปวัฒนธรรมร่วมสมัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f2d1d46b-83f9-442a-84dd-cbeea0de274a">หอภาพยนตร์ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-moe">กระทรวงศึกษาธิการ</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9169ee0a-92a8-4257-ac1d-d52735df78a7">กรมส่งเสริมการเรียนรู้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2c7e512c-9014-4171-a1d9-b04b03c4820c">สถาบันทดสอบทางการศึกษาแห่งชาติ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c38ff262-a34e-4ad4-8344-89eaee1d99b2">สถาบันส่งเสริมการสอนวิทยาศาสตร์และเทคโนโลยี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0eacd445-78ea-4e24-8b50-0169bf90d497">สำนักงานคณะกรรมการการศึกษาขั้นพื้นฐาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f2019660-54eb-412e-9c3a-89051c419bcd">สำนักงานคณะกรรมการการอาชีวศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9fc6fb0a-6463-488d-95fe-d2a0bb468a4f">สำนักงานคณะกรรมการส่งเสริมสวัสดิการและสวัสดิภาพครูและบุคลากรทางการศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a7076de9-b944-4a0a-993b-94e9d31d915b">สำนักงานปลัดกระทรวงศึกษาธิการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3af448d3-44fe-4823-9e8c-de3a13ce0c49">สำนักงานรับรองมาตรฐานและประเมินคุณภาพการศึกษา (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/100f0513-d6ee-4a0c-a959-4a5bfc63a0d0">สำนักงานเลขาธิการคุรุสภา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/13c9e25f-b6dd-4d69-89cb-87ad973f0382">สำนักงานเลขาธิการสภาการศึกษา</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-moph">กระทรวงสาธารณสุข</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/35a161dc-21da-4570-a89a-dfd8f18a68a0">กรมการแพทย์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/77d87428-5978-4597-b80c-77583893e39f">กรมการแพทย์แผนไทยและการแพทย์ทางเลือก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/81ff08fe-f04d-4175-93ab-bb2b4734db02">กรมควบคุมโรค</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d82b5da8-5ee6-4773-915f-532d2003cd11">กรมวิทยาศาสตร์การแพทย์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e05ee74b-9eb9-415c-87b1-b7c7ea6f05fc">กรมสนับสนุนบริการสุขภาพ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1b71c006-3806-4020-b8de-2a9379bca2c7">กรมสุขภาพจิต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7bf4730b-56cb-4037-bcc8-269d25d7b4dd">กรมอนามัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f53b934b-a512-4878-8907-dd0117487b68">สถาบันรับรองคุณภาพสถานพยาบาล (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/44ed4ab8-a844-41f9-aae4-a5c60fdfdf58">สถาบันวัคซีนแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b1a045ca-d61f-4bee-9160-d7c5d5e1e1bf">สำนักงานคณะกรรมการอาหารและยา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1b876088-104e-4ed3-b81a-ed2a4c3276f8">สำนักงานปลัดกระทรวงสาธารณสุข</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f89730f6-44ed-4480-a74a-a14a617d6fd3">สำนักงานหลักประกันสุขภาพแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bb81ad14-a12d-49e3-bee4-3dfd7f6aae78">องค์การเภสัชกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a793d114-35e0-4bc3-938b-bee5d7d019d6">โรงพยาบาลบ้านแพ้ว (องค์การมหาชน)</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-industry">กระทรวงอุตสาหกรรม</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0ea8ad7b-433d-4ce4-aeac-27a141199e46">กรมส่งเสริมอุตสาหกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c5e8371b-d599-4689-90b2-3dee8ec1f4cd">กรมอุตสาหกรรมพื้นฐานและการเหมืองแร่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e599e942-5f06-40d7-a00c-0b245b689581">กรมโรงงานอุตสาหกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/79e12b6e-6f23-43dd-a18c-c91a28fa3424">การนิคมอุตสาหกรรมแห่งประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/03250931-6d8f-49f7-9ea0-dce0c41aade9">สำนักงานคณะกรรมการอ้อยและน้ำตาลทราย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/74e9ebcf-56ae-49cb-b9ce-1a3c4547570f">สำนักงานปลัดกระทรวงอุตสาหกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0656924f-66ab-4c3f-a1d3-d02d27bd3fbf">สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/912f908b-075b-46ea-8af2-5e70b8b471ac">สำนักงานเศรษฐกิจอุตสาหกรรม</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-other">ส่วนราชการที่ไม่สังกัดสำนักนายกรัฐมนตรี กระทรวง หรือทบวง</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/544b4adb-7bc2-4bb4-9391-cb22e8838a62">ศูนย์อำนวยการบริหารจังหวัดชายแดนภาคใต้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/45949d30-f776-4557-9931-ccd7fdb5404c">สำนักงานกองทุนสนับสนุนการสร้างเสริมสุขภาพ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bd281581-c552-4321-9831-14898bb0a883">สำนักงานการตรวจเงินแผ่นดิน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/4ed563c5-dddb-459e-be77-58dfb3917d53">สำนักงานคณะกรรมการการแข่งขันทางการค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7df13feb-9136-4dce-9f83-62d6c79684f4">สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7e9095ef-41e4-4022-96e7-18c7eccaddc0">สำนักงานคณะกรรมการกิจการกระจายเสียง กิจการโทรทัศน์ และกิจการโทรคมนาคมแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/217b4fbb-a0af-4fc5-a240-0ab8be60bd81">สำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d628c543-01dd-4a8a-91dc-3388e4d051bc">สำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตในภาครัฐ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2d450004-03d5-4c9c-9790-bfc71da66a33">สำนักงานคณะกรรมการพิเศษเพื่อประสานงานโครงการอันเนื่องมาจากพระราชดำริ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bb40d8e4-12b8-49e1-ab4d-6db2b3617cde">สำนักงานตำรวจแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/61b44b72-6839-4786-93ff-17737e52de36">สำนักงานป้องกันและปราบปรามการฟอกเงิน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ff2e60e5-4de9-48f9-9846-1aee86e1ee54">สำนักงานผู้ตรวจการแผ่นดิน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b8b1b440-222b-4f76-a46b-c24d1595f41f">สำนักงานพระพุทธศาสนาแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a5586300-31b8-4a5f-9669-0ab0b4ec70c1">สำนักงานราชบัณฑิตยสภา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/8bdfaaf7-b9c3-4aee-878a-ad06825f5d8e">สำนักงานศาลปกครอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/952ab794-ce56-4e0b-b70d-25c949ceb9fa">สำนักงานศาลยุติธรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2f3ccd48-0e54-4b4e-9ea2-0674bb977533">สำนักงานศาลรัฐธรรมนูญ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/aea8950c-8e57-40c1-b3ce-098a175135c9">สำนักงานสภาเกษตรกรแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/971c1414-05ff-4170-a7ef-83ee578e672f">สำนักงานเลขาธิการวุฒิสภา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c4ed01c6-21c3-4a32-a76b-8c06464ef1bf">สำนักงานเลขาธิการสภาผู้แทนราษฎร</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-opm">สำนักนายกรัฐมนตรี</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f302c517-ec5f-49f6-8f85-e89241b9126d">กรมประชาสัมพันธ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/d5c16a6d-9828-4d98-86bc-3aff010dce0d">สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/4b3aa943-1f7d-468e-b2b7-dca5e01d33c1">สถาบันบริหารจัดการธนาคารที่ดิน (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/98c853da-1fcc-4616-b559-992a98371ead">สำนักข่าวกรองแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b17668f8-f65e-4670-b0d1-c639c1313681">สำนักงบประมาณ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1cbbceb1-7436-4107-b971-39d818062feb">สำนักงานขับเคลื่อนการปฏิรูปประเทศ ยุทธศาสตร์ชาติ และการสร้างความสามัคคีปรองดอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/48ed7972-1ae1-47e7-aeea-cdda8eac8fa8">สำนักงานคณะกรรมการกฤษฎีกา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/56519c8c-bc3c-4636-a94a-6f4c93def357">สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/be65b704-3851-443e-9a87-23a705365f8e">สำนักงานคณะกรรมการข้าราชการพลเรือน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/139ddce6-31d8-414e-b5ad-5b3da1b8abf0">สำนักงานคณะกรรมการคุ้มครองผู้บริโภค</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9430a2fa-9625-4e72-91cd-3634c40dc162">สำนักงานคณะกรรมการนโยบายที่ดินแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/420befd5-d949-4ad3-8ebc-6fd96580214c">สำนักงานคณะกรรมการพัฒนาระบบราชการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1d92f69f-12b5-4258-ad2a-1155d369e0e0">สำนักงานคณะกรรมการสุขภาพแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/419f8714-fed6-40c2-a83b-0dd1ee700042">สำนักงานคณะกรรมการส่งเสริมการลงทุน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/775e26c1-3bdd-4210-825f-7f4595811962">สำนักงานทรัพยากรน้ำแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9e767d6d-c1cd-436e-9f46-2c9bb5a1a4b7">สำนักงานบริหารและพัฒนาองค์ความรู้ (องค์การมหาชน)</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1920d6a6-60bb-4ac0-9304-c51ae7bf5e5d">สถาบันอุทยานการเรียนรู้</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/99b8ec40-feea-40ed-b089-36ecaa42c995">สำนักงานปลัดสำนักนายกรัฐมนตรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/6df3dd0f-6bdc-4d50-bd8b-49826f863449">สำนักงานพัฒนาพิงคนคร (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c292eb79-f33e-4993-9d3d-a17cf1eb8d03">สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ee2fdbcd-926d-4d70-bf79-ed5c7b5be09d">สำนักงานสภาความมั่นคงแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9872be7c-4fc3-4b70-b811-86c177204236">สำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/747f2361-8671-4cab-8208-9bb37a7cf3d9">สำนักงานส่งเสริมการจัดประชุมและนิทรรศการ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/40a4b4bb-e64a-4922-9d73-de88e0c2dd0f">สำนักงานส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c17cd935-d5f3-4963-9373-85b404b27ded">สำนักงานส่งเสริมเศรษฐกิจสร้างสรรค์ (องค์การมหาชน)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2cafb5b0-898b-43d9-8a23-f6e6abffaddf">สำนักเลขาธิการคณะรัฐมนตรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/fefb1c94-60a0-4665-9812-0f30425d7501">สำนักเลขาธิการนายกรัฐมนตรี</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-area-based">หน่วยงานระดับพื้นที่</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/08680741-87d0-4dc0-9209-99349db23cdc">จังหวัดกระบี่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/5a56cf05-723f-4656-a182-d7d5c2360818">จังหวัดกาญจนบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bf0b82a8-03b7-4c23-a967-795dbc5fb316">จังหวัดกาฬสินธุ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/bd142301-69f2-4b1c-90db-d1acd07f5c4f">จังหวัดกำแพงเพชร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9785dbb9-04fa-475c-908e-e21664b26f7d">จังหวัดขอนแก่น</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7f4d6c99-af88-4e59-84ef-8e7d464af8a9">จังหวัดจันทบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ff7f8dc4-8559-4ea4-a2e4-ae833874c025">จังหวัดฉะเชิงเทรา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f5804776-6d4a-4db5-a79c-cfc93b4aa071">จังหวัดชลบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/86585002-d534-4d37-ad3e-16620eb43dac">จังหวัดชัยนาท</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3e98f065-460d-491f-a1a8-a2f051a5895c">จังหวัดชัยภูมิ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/46377d1e-cffd-41d3-af59-36d2de043f84">จังหวัดชุมพร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/58292fc7-d225-48a7-9197-6297ea529718">จังหวัดตรัง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/10e83d61-fc57-490c-858b-d7181053c898">จังหวัดตราด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ef2b8cd1-6540-4232-a499-81b88999d7c2">จังหวัดตาก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/61ff8660-78ef-423e-9ac0-81828c828a42">จังหวัดนครนายก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/29272363-a05e-412b-8ae5-0e8dacd1490a">จังหวัดนครปฐม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/35b29b71-e362-45d6-ae36-0bed6ddce5e3">จังหวัดนครพนม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/483bd81e-529b-4d55-bb4d-1e3839b47a0e">จังหวัดนครราชสีมา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/58784344-1f3b-4290-b9b7-9df342d3dac2">จังหวัดนครศรีธรรมราช</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/8e5b8afc-8405-4471-adfa-d182be988d3f">จังหวัดนครสวรรค์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/95f11b14-f655-40a2-a20a-4adc509a9fbb">จังหวัดนนทบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/1be09870-dca6-405f-8280-364e5dd46a26">จังหวัดนราธิวาส</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/72c4eed3-84b3-464e-a996-1225a8474cf7">จังหวัดน่าน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0f93c101-2c9e-4d28-8dc3-a7cdbd8316d5">จังหวัดบึงกาฬ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/adb719ea-278b-4cf1-ac24-1ea71247dba3">จังหวัดบุรีรัมย์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b367beed-69e9-4dee-bef0-5692574e492b">จังหวัดปทุมธานี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b3fd0344-ec74-4cbe-b61b-ff0ba65ba4f0">จังหวัดประจวบคีรีขันธ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e8070984-01d3-45fb-a3a5-88f8a71f378e">จังหวัดปราจีนบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3c012e97-b051-46fc-8973-8b7c71fa39e4">จังหวัดปัตตานี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/f8e9739d-f14f-4b82-9faf-6e2e10455ff4">จังหวัดพระนครศรีอยุธยา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ea169bf2-7158-41e5-93e8-58ad24207aa0">จังหวัดพะเยา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/47b1b24e-4592-41a8-b299-c94cedb53d68">จังหวัดพังงา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/96ea4859-4b1d-4400-8840-e1458d8f625c">จังหวัดพัทลุง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/08f376d2-6c48-447c-ad8d-6fb70ec64908">จังหวัดพิจิตร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7b2c5b62-d58a-4461-aa75-c6d7a2032d23">จังหวัดพิษณุโลก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/74e08bca-3c52-4b8e-a481-035d9f74d784">จังหวัดภูเก็ต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c6de695d-5d8e-4d2f-9801-3a702aade4e9">จังหวัดมหาสารคาม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/87eb9927-56af-4956-a8f0-ec6ed04b6cab">จังหวัดมุกดาหาร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e9646924-3331-4efd-be8d-dd51209e3fde">จังหวัดยะลา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ce1780e1-0b71-43e3-80bb-4df1b19b795c">จังหวัดยโสธร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a87f5360-730b-4458-89b3-596632b5dc59">จังหวัดระนอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cbcdfd3b-5575-4115-b9c1-3caee1f98e78">จังหวัดระยอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/47da5164-9236-49c4-a4bf-2f56b897b9d1">จังหวัดราชบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/29a3d29a-188c-4a70-b95a-3daa26d9ca66">จังหวัดร้อยเอ็ด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/9e87558d-5769-4ee1-a639-114425c918e1">จังหวัดลพบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ab7afc24-1f89-454a-ade7-697f9ab174ad">จังหวัดลำปาง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/7e215896-24de-4266-9ac1-315445ad9ac8">จังหวัดลำพูน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/2ab5ddc4-2e52-45be-b132-72392f1d3471">จังหวัดศรีสะเกษ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/37f58263-8cdd-4418-9306-c33c1e54552f">จังหวัดสกลนคร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cced82c8-1d7f-4d1c-9c17-3497d099c25b">จังหวัดสงขลา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b5888f86-5b54-4a30-98ab-7eb1355b9c4f">จังหวัดสตูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/aec691ee-affa-4d3a-8d24-35a6d88464d3">จังหวัดสมุทรปราการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ee681592-1fc1-43ee-b057-75e0034ac9a7">จังหวัดสมุทรสงคราม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/db3ae932-6ab6-40df-8dd4-d9199da78943">จังหวัดสมุทรสาคร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ea0d1cfb-44f5-4871-8fec-2cbfb0e83c59">จังหวัดสระบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/72be9ff4-951c-4183-bfe5-f54311c5f3db">จังหวัดสระแก้ว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/aad37bb7-a523-48dc-8df0-926798b7b55f">จังหวัดสิงห์บุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c94a6f1c-e984-434d-8c1f-2de9c8ad9cae">จังหวัดสุพรรณบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/a9fa239f-68f9-4006-85fc-0a22065b8147">จังหวัดสุราษฎร์ธานี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/04ac7148-658a-4c84-94b9-9657fcb1c246">จังหวัดสุรินทร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/0fb9b579-e2ec-4118-b729-cd32d84c6cff">จังหวัดสุโขทัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/5b678fc0-df91-4baa-8ac7-ce35b1464ecc">จังหวัดหนองคาย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/982246a4-95e9-49c8-bc9b-fb580b9b849a">จังหวัดหนองบัวลำภู</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/cf2e1cc3-0b65-48d0-8949-50b27b103ecb">จังหวัดอำนาจเจริญ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e9cef71d-97cf-45ac-9f4e-04ccca62617f">จังหวัดอุดรธานี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/fc3f0b06-ec43-4855-ae9f-83b2909202ee">จังหวัดอุตรดิตถ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e8603227-742c-4158-b747-f6c39e395771">จังหวัดอุทัยธานี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/4f18b846-4b7b-4ba6-913a-6d968710d4df">จังหวัดอุบลราชธานี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/c834e60d-f46c-497f-b331-774cf2699cd1">จังหวัดอ่างทอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/15014850-f633-4c52-abae-aafdf31ac2be">จังหวัดเชียงราย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e2b622ca-d503-4ec4-a102-45e321f9d99c">จังหวัดเชียงใหม่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/3fafb4c6-25fc-492b-b2d8-c12e83551577">จังหวัดเพชรบุรี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/28924e1a-f773-46c5-809e-2148e11a52fe">จังหวัดเพชรบูรณ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/027113e7-6dbd-449f-9ad8-fcfd9e853e16">จังหวัดเลย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/6ee12269-b3e9-43e1-b663-675fb34880f0">จังหวัดแพร่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/de632cc0-f106-45ca-8ff9-4f7aa7275391">จังหวัดแม่ฮ่องสอน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/fefd445a-ee2e-449f-aedd-99d2579a97df">เทศบาลตำบลอุโมงค์</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/ministry-special-local">หน่วยงานรูปแบบพิเศษ</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/501586da-4ceb-4cca-a806-f8c8abc3c93f">กรุงเทพมหานคร</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/biodieselproductionstation">https://github.com/biodieselproductionstation</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
 A91AAEB2 Announced Allocations
 Prefixes
 -	Prefix	Description	Origin ASN
